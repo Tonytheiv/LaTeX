@@ -1,6 +1,6 @@
-PWD /Users/tonywang/Downloads/W2024
+PWD /Users/tonywang/Desktop/LaTeX/W2024
 INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
-INPUT /Users/tonywang/Downloads/W2024/main.tex
+INPUT /Users/tonywang/Desktop/LaTeX/W2024/main.tex
 OUTPUT main.log
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/book.cls
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/book.cls
@@ -1287,6 +1287,9 @@ INPUT ./Pictures/chapter_head_2.pdf
 INPUT ./Pictures/chapter_head_2.pdf
 INPUT ./Pictures/chapter_head_2.pdf
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmb7t.vf
+INPUT ./Pictures/chapter_head_2.pdf
+INPUT ./Pictures/chapter_head_2.pdf
+INPUT ./Pictures/chapter_head_2.pdf
 INPUT ./main.ind
 INPUT ./main.ind
 INPUT main.ind

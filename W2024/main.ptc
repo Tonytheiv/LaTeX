@@ -147,11 +147,12 @@
 \contentsline {part}{\@mypartnumtocformat {III}{PHY294}}{127}{part.3}%
 \ttl@stoptoc {default@2}
 \ttl@starttoc {default@3}
-\contentsline {chapter}{\numberline {7}Quantum Mechanics}{129}{chapter.7}%
+\contentsline {chapter}{\numberline {7}Quantum Mechanics Mathematics}{129}{chapter.7}%
 \contentsline {section}{\numberline {7.1}Introduction}{129}{section.7.1}%
 \contentsline {section}{\numberline {7.2}The Schrodinger Equation}{130}{section.7.2}%
 \contentsline {section}{\numberline {7.3}The Rectangular Box}{131}{section.7.3}%
 \contentsline {subsection}{\numberline {7.3.1}Degeneracy}{132}{subsection.7.3.1}%
 \contentsline {section}{\numberline {7.4}The Central Force Problem}{132}{section.7.4}%
-\contentsline {chapter}{\textcolor {ocre}{Index}}{135}{section*.81}%
+\contentsline {chapter}{\numberline {8}Quantum Mechanics Theory}{135}{chapter.8}%
+\contentsline {chapter}{\textcolor {ocre}{Index}}{137}{section*.81}%
 \contentsfinish 

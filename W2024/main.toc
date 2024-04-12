@@ -1,0 +1,153 @@
+\babel@toc {english}{}\relax 
+\contentsline {part}{\@mypartnumtocformat {I}{BME205}}{7}{part.1}%
+\contentsline {chapter}{\numberline {1}Fundamentals}{9}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Introduction}{9}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Control Systems}{9}{subsection.1.1.1}%
+\contentsline {section}{\numberline {1.2}Cells and DNA}{10}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}DNA Structure}{11}{subsection.1.2.1}%
+\contentsline {section}{\numberline {1.3}RNA Translation}{12}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}RNA Structure}{12}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Codons}{12}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Translation}{13}{subsection.1.3.3}%
+\contentsline {subsubsection}{tRNA and Amino Acids}{13}{section*.2}%
+\contentsline {subsubsection}{Initiation}{13}{section*.3}%
+\contentsline {subsubsection}{Elongation}{13}{section*.4}%
+\contentsline {subsubsection}{Termination}{14}{section*.5}%
+\contentsline {chapter}{\numberline {2}Transportation and Signal Propagation}{15}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Mitochondria and the Membrane}{15}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}ATP}{15}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Cellular Respiration}{16}{subsection.2.1.2}%
+\contentsline {subsubsection}{Cell Membrane}{16}{section*.6}%
+\contentsline {subsubsection}{Membrane Transport}{17}{section*.7}%
+\contentsline {section}{\numberline {2.2}Resting Membrane Potential}{18}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Path-Clamp Recording}{19}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Nerst Equation}{20}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Goldman-Hodgkin-Katz (GHK) Equation}{20}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Graphing Electrochemical Gradients}{20}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Gibbs Free Energy}{21}{subsection.2.2.5}%
+\contentsline {section}{\numberline {2.3}Action Potential}{22}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Gated Ion Channels}{22}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Graded Potentials}{23}{subsection.2.3.2}%
+\contentsline {subsubsection}{Neuron Structure}{23}{section*.8}%
+\contentsline {subsubsection}{Propagation of Graded Potential}{23}{section*.9}%
+\contentsline {subsection}{\numberline {2.3.3}Action Potentials}{23}{subsection.2.3.3}%
+\contentsline {section}{\numberline {2.4}Synapses}{24}{section.2.4}%
+\contentsline {subsubsection}{Chemical Synapse Transmission}{26}{section*.10}%
+\contentsline {subsection}{\numberline {2.4.1}Excitatory Synapses}{27}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Inhibitory Synapses}{27}{subsection.2.4.2}%
+\contentsline {chapter}{\numberline {3}Nervous Systems}{29}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Central Nervous System}{29}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Peripheral Nervous System}{30}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Modelity}{31}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Intensity, Location, Duration}{32}{subsection.3.2.2}%
+\contentsline {subsubsection}{Intensity}{32}{section*.11}%
+\contentsline {subsubsection}{Location}{32}{section*.12}%
+\contentsline {subsubsection}{Duration}{33}{section*.13}%
+\contentsline {subsection}{\numberline {3.2.3}Neuromuscular Junction}{33}{subsection.3.2.3}%
+\contentsline {section}{\numberline {3.3}Autonomic Nervous System}{33}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Autonomic Nervous System Structure}{33}{subsection.3.3.1}%
+\contentsline {subsubsection}{Therapeutic solutions}{34}{section*.14}%
+\contentsline {subsection}{\numberline {3.3.2}Cholinergic and Adrenergic Receptors}{34}{subsection.3.3.2}%
+\contentsline {subsubsection}{Acetylcholine (ACh)}{35}{section*.15}%
+\contentsline {subsubsection}{Norepinephrine (NE)}{35}{section*.16}%
+\contentsline {chapter}{\numberline {4}Muscles}{37}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Skeletal Muscles}{37}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Building Blocks of the Musculoskeletal System}{37}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Skeletal Muscle Structure}{37}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Neuromuscular Junction}{40}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}Skeletal Muscle Function (Excitation-Contraction Coupling)}{40}{subsection.4.1.4}%
+\contentsline {subsubsection}{Excitation}{40}{section*.18}%
+\contentsline {subsubsection}{Cross-bridge cycle}{41}{section*.19}%
+\contentsline {subsubsection}{Relaxation}{42}{section*.20}%
+\contentsline {section}{\numberline {4.2}Skeletal Muscle Function}{43}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Tension Developed by Each Fiber}{43}{subsection.4.2.1}%
+\contentsline {subsubsection}{Action potential frequency}{43}{section*.21}%
+\contentsline {subsubsection}{Fiber length}{44}{section*.24}%
+\contentsline {subsubsection}{Fiber diameter}{44}{section*.28}%
+\contentsline {subsubsection}{Fatigue}{45}{section*.29}%
+\contentsline {subsubsection}{Fiber type}{46}{section*.31}%
+\contentsline {subsection}{\numberline {4.2.2}Tension Developed by Several Active Fibers}{46}{subsection.4.2.2}%
+\contentsline {subsubsection}{Number of fibers per motor unit}{46}{section*.32}%
+\contentsline {subsubsection}{Number of active motor units}{46}{section*.34}%
+\contentsline {section}{\numberline {4.3}Cardiac Muscle ECG and Cycle}{47}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Electrocardiogram (ECG)}{48}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Sequence of Depolarization}{50}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Cardiac Filling Action}{50}{subsection.4.3.3}%
+\contentsline {section}{\numberline {4.4}Cardiac Regulation}{51}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Stroke Volume}{51}{subsection.4.4.1}%
+\contentsline {subsubsection}{Heart sounds and ECG}{51}{section*.44}%
+\contentsline {subsection}{\numberline {4.4.2}Cardiac Output}{53}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Extrinsic Control of Heart Rate: The Autonomic Nervous System}{53}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}Autonomic Tone}{54}{subsection.4.4.4}%
+\contentsline {subsection}{\numberline {4.4.5}Summary: Extrinsic Control of Cardiac Output}{57}{subsection.4.4.5}%
+\contentsline {section}{\numberline {4.5}Blood Vessels and Blood Pressure}{57}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Smooth Muscles}{57}{subsection.4.5.1}%
+\contentsline {subsubsection}{Smooth muscle versus skeletal muscle}{58}{section*.57}%
+\contentsline {subsubsection}{Smooth muscle structure}{59}{section*.58}%
+\contentsline {subsubsection}{Calcium cation permeability}{59}{section*.61}%
+\contentsline {subsubsection}{Innervation of smooth muscle}{59}{section*.62}%
+\contentsline {subsection}{\numberline {4.5.2}Vascular System Structure \& Function}{61}{subsection.4.5.2}%
+\contentsline {subsubsection}{Structure of blood vessels}{61}{section*.65}%
+\contentsline {part}{\@mypartnumtocformat {II}{CIN211}}{67}{part.2}%
+\contentsline {chapter}{\numberline {5}Class Notes}{69}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Early Films}{69}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Demolition d’ un mur, Le Voyage dans la lune}{69}{subsection.5.1.1}%
+\contentsline {section}{\numberline {5.2}Entering Modernity}{69}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Metropolis (and Cabinet of Dr. Caligari)}{69}{subsection.5.2.1}%
+\contentsline {section}{\numberline {5.3}Disaster Aesthetics}{73}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Godzilla}{73}{subsection.5.3.1}%
+\contentsline {section}{\numberline {5.4}The Future}{78}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}La Jetee}{78}{subsection.5.4.1}%
+\contentsline {section}{\numberline {5.5}Technofutures and the Secret Life of Robots}{80}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}2001: A Space Odyssey}{80}{subsection.5.5.1}%
+\contentsline {section}{\numberline {5.6}Technophobia and the Surveillence of states}{83}{section.5.6}%
+\contentsline {subsection}{\numberline {5.6.1}THX1138}{83}{subsection.5.6.1}%
+\contentsline {section}{\numberline {5.7}The Space Within}{85}{section.5.7}%
+\contentsline {subsection}{\numberline {5.7.1}Solaris}{85}{subsection.5.7.1}%
+\contentsline {section}{\numberline {5.8}Urban Dystophia}{87}{section.5.8}%
+\contentsline {subsection}{\numberline {5.8.1}Blade Runner 1982}{87}{subsection.5.8.1}%
+\contentsline {section}{\numberline {5.9}Spectacular Bodies}{90}{section.5.9}%
+\contentsline {subsection}{\numberline {5.9.1}The Fly}{90}{subsection.5.9.1}%
+\contentsline {subsection}{\numberline {5.9.2}Aliens}{90}{subsection.5.9.2}%
+\contentsline {section}{\numberline {5.10}Alfrofuturism}{92}{section.5.10}%
+\contentsline {subsection}{\numberline {5.10.1}Neptune Frost}{92}{subsection.5.10.1}%
+\contentsline {section}{\numberline {5.11}The Posthuman}{94}{section.5.11}%
+\contentsline {subsection}{\numberline {5.11.1}Annihilation}{94}{subsection.5.11.1}%
+\contentsline {section}{\numberline {5.12}After World, After Film}{96}{section.5.12}%
+\contentsline {subsection}{\numberline {5.12.1}WALL-E}{96}{subsection.5.12.1}%
+\contentsline {chapter}{\numberline {6}Review Notes}{99}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Reading Summaries}{99}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Sensuous Elaboration: Reason and the Visible in the Science Fiction Film}{99}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Technophilia: Technology, Representation and the Feminine }{100}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}The imagination as disaster}{101}{subsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.1.4}Godzilla and the Japanese Nightmare}{103}{subsection.6.1.4}%
+\contentsline {subsection}{\numberline {6.1.5}Time Travel, Primal Scene and the Critical Dystopia}{104}{subsection.6.1.5}%
+\contentsline {subsection}{\numberline {6.1.6}Chris Marker and the Cinema as Time Machine}{105}{subsection.6.1.6}%
+\contentsline {subsection}{\numberline {6.1.7}Kubrick's 2001 and the Possibility of a Science-Fiction Cinema}{106}{subsection.6.1.7}%
+\contentsline {subsection}{\numberline {6.1.8}Technophobia}{107}{subsection.6.1.8}%
+\contentsline {subsection}{\numberline {6.1.9}Technical Progress and the Social Life-World}{108}{subsection.6.1.9}%
+\contentsline {subsection}{\numberline {6.1.10}Technology and Science as Ideology}{109}{subsection.6.1.10}%
+\contentsline {subsection}{\numberline {6.1.11}Surveillance Societies}{110}{subsection.6.1.11}%
+\contentsline {subsection}{\numberline {6.1.12}Tarkovsky’s Solaris and the (im)possibility of a Science Fiction Cinema}{111}{subsection.6.1.12}%
+\contentsline {subsection}{\numberline {6.1.13}Dialogue with Andrei Tarkovsky about Science Fiction on the Screen}{112}{subsection.6.1.13}%
+\contentsline {subsection}{\numberline {6.1.14}Ramble City: Postmodernism and Blade Runner}{112}{subsection.6.1.14}%
+\contentsline {subsection}{\numberline {6.1.15}Simulacra and Science Fiction}{113}{subsection.6.1.15}%
+\contentsline {subsection}{\numberline {6.1.16}On the Grotesque in Science Fiction}{114}{subsection.6.1.16}%
+\contentsline {subsection}{\numberline {6.1.17}Bodies of Fear: The Films of David Cronenberg}{115}{subsection.6.1.17}%
+\contentsline {subsection}{\numberline {6.1.18}Evolution of a Space Cadet}{116}{subsection.6.1.18}%
+\contentsline {subsection}{\numberline {6.1.19}It’s After the End of the World (Don’t You Know that Yet?}{117}{subsection.6.1.19}%
+\contentsline {subsection}{\numberline {6.1.20}Katherine Hayles Book}{118}{subsection.6.1.20}%
+\contentsline {subsection}{\numberline {6.1.21}The Eco-material Posthuman in the Age of the Anthropocene}{119}{subsection.6.1.21}%
+\contentsline {subsection}{\numberline {6.1.22}Animation and Automation, or, the Incredible Effortfulness of Being}{120}{subsection.6.1.22}%
+\contentsline {section}{\numberline {6.2}Key ideas}{121}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Practice}{122}{section.6.3}%
+\contentsline {part}{\@mypartnumtocformat {III}{PHY294}}{127}{part.3}%
+\contentsline {chapter}{\numberline {7}Quantum Mechanics Mathematics}{129}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Introduction}{129}{section.7.1}%
+\contentsline {section}{\numberline {7.2}The Schrodinger Equation}{130}{section.7.2}%
+\contentsline {section}{\numberline {7.3}The Rectangular Box}{131}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Degeneracy}{132}{subsection.7.3.1}%
+\contentsline {section}{\numberline {7.4}The Central Force Problem}{132}{section.7.4}%
+\contentsline {chapter}{\numberline {8}Quantum Mechanics Theory}{135}{chapter.8}%
+\contentsline {chapter}{\textcolor {ocre}{Index}}{137}{section*.81}%
+\contentsfinish 
