@@ -1,0 +1,1332 @@
+PWD /Users/tonywang/Downloads/W2024
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
+INPUT /Users/tonywang/Downloads/W2024/main.tex
+OUTPUT main.log
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/book.cls
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/book.cls
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/fleqn.clo
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/fleqn.clo
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/fleqn.clo
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/bk11.clo
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/bk11.clo
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/bk11.clo
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr10.tfm
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/jknappen/mathrsfs.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/jknappen/mathrsfs.sty
+INPUT ./structure.tex
+INPUT ./structure.tex
+INPUT ./structure.tex
+INPUT ./structure.tex
+INPUT structure.tex
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/ifvtex.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/ifvtex.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/iftex.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/iftex.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.cfg
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.cfg
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lipsum/lipsum.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lipsum/lipsum.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3kernel/expl3.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3kernel/expl3.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lipsum/lipsum.ltd.tex
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lipsum/lipsum.ltd.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/frontendlayer/tikz.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/frontendlayer/tikz.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/basiclayer/pgf.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/basiclayer/pgf.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgfrcs.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgfrcs.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfutil-common.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfutil-latex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/pgf.revision.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/pgf.revision.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/basiclayer/pgfcore.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/basiclayer/pgfcore.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/systemlayer/pgfsys.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/systemlayer/pgfsys.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgf.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathutil.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathparser.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.random.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.round.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathcalc.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfloat.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfint.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgffor.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgffor.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgfkeys.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgfkeys.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/math/pgfmath.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/math/pgfmath.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/babel.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/babel.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/txtbabel.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/arabi/bblopts.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/arabi/bblopts.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/arabi/bblopts.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/babel-english/english.ldf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/babel-english/english.ldf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/babel-english/english.ldf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/locale/en/babel-english.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/locale/en/babel-english.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/locale/en/babel-english.tex
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/locale/en/babel-en.ini
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/enumitem/enumitem.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/enumitem/enumitem.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/booktabs/booktabs.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/booktabs/booktabs.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/avant.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/avant.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/mathptmx.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/mathptmx.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/microtype.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/microtype.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/etoolbox/etoolbox.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/etoolbox/etoolbox.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/microtype-pdftex.def
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/microtype-pdftex.def
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/microtype-pdftex.def
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/microtype.cfg
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/microtype.cfg
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/microtype.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/fontenc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/fontenc.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/t1ptm.fd
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/t1ptm.fd
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/t1ptm.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption3.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption3.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/subcaption.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/subcaption.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/csquotes/csquotes.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/csquotes/csquotes.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/csquotes/csquotes.def
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/csquotes/csquotes.def
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/csquotes/csquotes.def
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/csquotes/csquotes.cfg
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/csquotes/csquotes.cfg
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/csquotes/csquotes.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/biblatex.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/biblatex.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvoptions/kvoptions.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvoptions/kvoptions.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/logreq/logreq.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/logreq/logreq.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/logreq/logreq.def
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/logreq/logreq.def
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/logreq/logreq.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ifthen.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ifthen.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/blx-dm.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/blx-dm.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/blx-dm.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/blx-compat.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/blx-compat.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/blx-compat.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/biblatex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/biblatex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/biblatex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/bbx/alphabetic.bbx
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/bbx/alphabetic.bbx
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/bbx/alphabetic.bbx
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/bbx/standard.bbx
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/bbx/standard.bbx
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/bbx/standard.bbx
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/cbx/numeric.cbx
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/cbx/numeric.cbx
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/cbx/numeric.cbx
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/biblatex.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/biblatex.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/biblatex.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/blx-case-expl3.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/blx-case-expl3.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3packages/xparse/xparse.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3packages/xparse/xparse.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/calc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/calc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/makeidx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/makeidx.sty
+OUTPUT main.idx
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/titlesec/titletoc.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/titlesec/titletoc.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amscls/amsthm.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amscls/amsthm.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mdframed/mdframed.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mdframed/mdframed.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/zref/zref-abspage.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/zref/zref-abspage.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/zref/zref-base.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/zref/zref-base.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/etexcmds/etexcmds.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/etexcmds/etexcmds.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/auxhook/auxhook.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/auxhook/auxhook.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/needspace/needspace.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/needspace/needspace.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/color.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mdframed/md-frame-0.mdf
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mdframed/md-frame-0.mdf
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mdframed/md-frame-0.mdf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hyperref.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hyperref.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdfescape/pdfescape.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdfescape/pdfescape.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hycolor/hycolor.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hycolor/hycolor.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/pd1enc.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/pd1enc.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/pd1enc.def
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/intcalc/intcalc.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/intcalc/intcalc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/puenc.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/puenc.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/puenc.def
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bitset/bitset.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bitset/bitset.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/generic/atbegshi/atbegshi.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/atbegshi-ltx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/atbegshi-ltx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hpdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hpdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hpdftex.def
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/atveryend/atveryend.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/atveryend-ltx.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/atveryend-ltx.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bookmark/bookmark.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bookmark/bookmark.sty
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bookmark/bkm-pdftex.def
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bookmark/bkm-pdftex.def
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bookmark/bkm-pdftex.def
+INPUT ./main.aux
+INPUT ./main.aux
+INPUT main.aux
+OUTPUT main.aux
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/mt-ptm.cfg
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/mt-ptm.cfg
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/mt-ptm.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/lbx/english.lbx
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/lbx/english.lbx
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/lbx/english.lbx
+OUTPUT main.bcf
+OUTPUT main.pdf
+INPUT ./Pictures/background.pdf
+INPUT ./Pictures/background.pdf
+INPUT ./Pictures/background.pdf
+INPUT ./Pictures/background.pdf
+INPUT ./Pictures/background.pdf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8t.tfm
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/t1pag.fd
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/t1pag.fd
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/t1pag.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagd8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagd8t.tfm
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ot1ztmcm.fd
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ot1ztmcm.fd
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ot1ztmcm.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7t.tfm
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/omlztmcm.fd
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/omlztmcm.fd
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/omlztmcm.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7m.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7m.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7m.tfm
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/omsztmcm.fd
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/omsztmcm.fd
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/omsztmcm.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7y.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7y.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7y.tfm
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/omxztmcm.fd
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/omxztmcm.fd
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/omxztmcm.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7v.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7v.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7v.tfm
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/jknappen/ursfs.fd
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/jknappen/ursfs.fd
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/jknappen/ursfs.fd
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ot1ptm.fd
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ot1ptm.fd
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ot1ptm.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/mt-msa.cfg
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/mt-msa.cfg
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/mt-msa.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/mt-msb.cfg
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/mt-msb.cfg
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/mt-msb.cfg
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/avantgar/pagd8t.vf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagd8r.tfm
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/avantgar/pagd8t.vf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagd8r.tfm
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ts1ptm.fd
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ts1ptm.fd
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ts1ptm.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8c.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmrc8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/t1cmtt.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/t1cmtt.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/t1cmtt.fd
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/ectt1095.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7m.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7m.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7m.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7y.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7y.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7y.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7v.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7v.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7v.tfm
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/rsfs/rsfs5.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmr8t.vf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmr8c.vf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmrc8t.vf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmri8t.vf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8r.tfm
+INPUT ./Pictures/chapter_head_1.pdf
+INPUT ./Pictures/chapter_head_1.pdf
+INPUT ./Pictures/chapter_head_1.pdf
+INPUT ./Pictures/chapter_head_1.pdf
+INPUT ./Pictures/chapter_head_1.pdf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagk8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagd8t.tfm
+INPUT ./main.toc
+INPUT ./main.toc
+INPUT main.toc
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagk8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7m.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7m.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7m.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7y.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7y.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7y.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7v.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7v.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7v.tfm
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/rsfs/rsfs7.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagk8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagd8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagd8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagk8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagk8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/avantgar/pagd8t.vf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagd8r.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/avantgar/pagd8t.vf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagd8r.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/avantgar/pagd8t.vf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagd8r.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/avantgar/pagk8t.vf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagk8r.tfm
+OUTPUT main.toc
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagk8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagd8t.tfm
+INPUT ./main.ptc
+INPUT ./main.ptc
+INPUT main.ptc
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagk8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagd8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/avantgar/pagd8t.vf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagd8r.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/avantgar/pagd8t.vf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagd8r.tfm
+INPUT ./Pictures/chapter_head_1.pdf
+INPUT ./Pictures/chapter_head_1.pdf
+INPUT ./Pictures/chapter_head_1.pdf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagd8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi8t.tfm
+INPUT ./Pictures/Screenshot 2024-02-25 175821.png
+INPUT ./Pictures/Screenshot 2024-02-25 175821.png
+INPUT ./Pictures/Screenshot 2024-02-25 175821.png
+INPUT ./Pictures/Screenshot 2024-02-25 175821.png
+INPUT ./Pictures/Screenshot 2024-02-25 175821.png
+INPUT ./Pictures/Screenshot 2024-02-25 175821.png
+INPUT ./Pictures/Screenshot 2024-02-25 175821.png
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/avantgar/pagd8t.vf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagd8r.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmb8t.vf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8r.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmbi8t.vf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi8r.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/zptmcm7m.vf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/psyro.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/zptmcm7t.vf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/symbol/psyr.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/zptmcm7y.vf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7m.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7y.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7v.tfm
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/rsfs/rsfs5.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/avantgar/pagk8t.vf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagk8r.tfm
+INPUT ./Pictures/Screenshot 2024-02-25 182833.png
+INPUT ./Pictures/Screenshot 2024-02-25 182833.png
+INPUT ./Pictures/Screenshot 2024-02-25 182833.png
+INPUT ./Pictures/Screenshot 2024-02-25 182833.png
+INPUT ./Pictures/Screenshot 2024-02-25 182833.png
+INPUT ./Pictures/Screenshot 2024-02-25 182833.png
+INPUT ./Pictures/Screenshot 2024-02-25 182833.png
+INPUT ./Pictures/Screenshot 2024-02-25 185241.png
+INPUT ./Pictures/Screenshot 2024-02-25 185241.png
+INPUT ./Pictures/Screenshot 2024-02-25 185241.png
+INPUT ./Pictures/Screenshot 2024-02-25 185241.png
+INPUT ./Pictures/Screenshot 2024-02-25 185241.png
+INPUT ./Pictures/Screenshot 2024-02-25 185241.png
+INPUT ./Pictures/Screenshot 2024-02-25 185241.png
+INPUT ./Pictures/chapter_head_1.pdf
+INPUT ./Pictures/chapter_head_1.pdf
+INPUT ./Pictures/chapter_head_1.pdf
+INPUT ./Pictures/Screenshot 2024-02-25 191455.png
+INPUT ./Pictures/Screenshot 2024-02-25 191455.png
+INPUT ./Pictures/Screenshot 2024-02-25 191455.png
+INPUT ./Pictures/Screenshot 2024-02-25 191455.png
+INPUT ./Pictures/Screenshot 2024-02-25 191455.png
+INPUT ./Pictures/Screenshot 2024-02-25 191455.png
+INPUT ./Pictures/Screenshot 2024-02-25 191455.png
+INPUT ./Pictures/Screenshot 2024-02-25 205202.png
+INPUT ./Pictures/Screenshot 2024-02-25 205202.png
+INPUT ./Pictures/Screenshot 2024-02-25 205202.png
+INPUT ./Pictures/Screenshot 2024-02-25 205202.png
+INPUT ./Pictures/Screenshot 2024-02-25 205202.png
+INPUT ./Pictures/Screenshot 2024-02-25 205202.png
+INPUT ./Pictures/Screenshot 2024-02-25 205202.png
+INPUT ./Pictures/Screenshot 2024-02-25 211519.png
+INPUT ./Pictures/Screenshot 2024-02-25 211519.png
+INPUT ./Pictures/Screenshot 2024-02-25 211519.png
+INPUT ./Pictures/Screenshot 2024-02-25 211519.png
+INPUT ./Pictures/Screenshot 2024-02-25 211519.png
+INPUT ./Pictures/Screenshot 2024-02-25 211519.png
+INPUT ./Pictures/Screenshot 2024-02-25 211519.png
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/zptmcm7t.vf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/symbol/psyr.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr10.tfm
+INPUT ./Pictures/Screenshot 2024-02-25 214256.png
+INPUT ./Pictures/Screenshot 2024-02-25 214256.png
+INPUT ./Pictures/Screenshot 2024-02-25 214256.png
+INPUT ./Pictures/Screenshot 2024-02-25 214256.png
+INPUT ./Pictures/Screenshot 2024-02-25 214256.png
+INPUT ./Pictures/Screenshot 2024-02-25 214256.png
+INPUT ./Pictures/Screenshot 2024-02-25 214256.png
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7m.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7m.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7y.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7y.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7v.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7v.tfm
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/zptmcm7m.vf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/psyro.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8r.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/zptmcm7y.vf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/zptmcm7v.vf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmex10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmex10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/symbol/psyr.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmb8t.vf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8r.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/zptmcm7m.vf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/psyro.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8r.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/zptmcm7t.vf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/symbol/psyr.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/zptmcm7y.vf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/symbol/psyr.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/zptmcm7t.vf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/zptmcm7m.vf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/psyro.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8r.tfm
+INPUT ./Pictures/Screenshot 2024-02-25 220308.png
+INPUT ./Pictures/Screenshot 2024-02-25 220308.png
+INPUT ./Pictures/Screenshot 2024-02-25 220308.png
+INPUT ./Pictures/Screenshot 2024-02-25 220308.png
+INPUT ./Pictures/Screenshot 2024-02-25 220308.png
+INPUT ./Pictures/Screenshot 2024-02-25 220308.png
+INPUT ./Pictures/Screenshot 2024-02-25 220308.png
+INPUT ./Pictures/Screenshot 2024-02-25 222320.png
+INPUT ./Pictures/Screenshot 2024-02-25 222320.png
+INPUT ./Pictures/Screenshot 2024-02-25 222320.png
+INPUT ./Pictures/Screenshot 2024-02-25 222320.png
+INPUT ./Pictures/Screenshot 2024-02-25 222320.png
+INPUT ./Pictures/Screenshot 2024-02-25 222320.png
+INPUT ./Pictures/Screenshot 2024-02-25 222320.png
+INPUT ./Pictures/Screenshot 2024-02-25 223612.png
+INPUT ./Pictures/Screenshot 2024-02-25 223612.png
+INPUT ./Pictures/Screenshot 2024-02-25 223612.png
+INPUT ./Pictures/Screenshot 2024-02-25 223612.png
+INPUT ./Pictures/Screenshot 2024-02-25 223612.png
+INPUT ./Pictures/Screenshot 2024-02-25 223612.png
+INPUT ./Pictures/Screenshot 2024-02-25 223612.png
+INPUT ./Pictures/Screenshot 2024-02-25 224731.png
+INPUT ./Pictures/Screenshot 2024-02-25 224731.png
+INPUT ./Pictures/Screenshot 2024-02-25 224731.png
+INPUT ./Pictures/Screenshot 2024-02-25 224731.png
+INPUT ./Pictures/Screenshot 2024-02-25 224731.png
+INPUT ./Pictures/Screenshot 2024-02-25 224731.png
+INPUT ./Pictures/Screenshot 2024-02-25 224731.png
+INPUT ./Pictures/Screenshot 2024-02-26 003521.png
+INPUT ./Pictures/Screenshot 2024-02-26 003521.png
+INPUT ./Pictures/Screenshot 2024-02-26 003521.png
+INPUT ./Pictures/Screenshot 2024-02-26 003521.png
+INPUT ./Pictures/Screenshot 2024-02-26 003521.png
+INPUT ./Pictures/Screenshot 2024-02-26 003521.png
+INPUT ./Pictures/Screenshot 2024-02-26 003521.png
+INPUT ./Pictures/Screenshot 2024-02-26 005340.png
+INPUT ./Pictures/Screenshot 2024-02-26 005340.png
+INPUT ./Pictures/Screenshot 2024-02-26 005340.png
+INPUT ./Pictures/Screenshot 2024-02-26 005340.png
+INPUT ./Pictures/Screenshot 2024-02-26 005340.png
+INPUT ./Pictures/Screenshot 2024-02-26 005340.png
+INPUT ./Pictures/Screenshot 2024-02-26 005340.png
+INPUT ./Pictures/Screenshot 2024-02-26 011050.png
+INPUT ./Pictures/Screenshot 2024-02-26 011050.png
+INPUT ./Pictures/Screenshot 2024-02-26 011050.png
+INPUT ./Pictures/Screenshot 2024-02-26 011050.png
+INPUT ./Pictures/Screenshot 2024-02-26 011050.png
+INPUT ./Pictures/Screenshot 2024-02-26 011050.png
+INPUT ./Pictures/Screenshot 2024-02-26 011050.png
+INPUT ./Pictures/Screenshot 2024-02-26 011404.png
+INPUT ./Pictures/Screenshot 2024-02-26 011404.png
+INPUT ./Pictures/Screenshot 2024-02-26 011404.png
+INPUT ./Pictures/Screenshot 2024-02-26 011404.png
+INPUT ./Pictures/Screenshot 2024-02-26 011404.png
+INPUT ./Pictures/Screenshot 2024-02-26 011404.png
+INPUT ./Pictures/Screenshot 2024-02-26 011404.png
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmr8t.vf
+INPUT ./Pictures/Screenshot 2024-03-06 175455.png
+INPUT ./Pictures/Screenshot 2024-03-06 175455.png
+INPUT ./Pictures/Screenshot 2024-03-06 175455.png
+INPUT ./Pictures/Screenshot 2024-03-06 175455.png
+INPUT ./Pictures/Screenshot 2024-03-06 175455.png
+INPUT ./Pictures/Screenshot 2024-03-06 175455.png
+INPUT ./Pictures/Screenshot 2024-03-06 175455.png
+INPUT ./Pictures/Screenshot 2024-03-06 175510.png
+INPUT ./Pictures/Screenshot 2024-03-06 175510.png
+INPUT ./Pictures/Screenshot 2024-03-06 175510.png
+INPUT ./Pictures/Screenshot 2024-03-06 175510.png
+INPUT ./Pictures/Screenshot 2024-03-06 175510.png
+INPUT ./Pictures/Screenshot 2024-03-06 175510.png
+INPUT ./Pictures/Screenshot 2024-03-06 175510.png
+INPUT ./Pictures/chapter_head_1.pdf
+INPUT ./Pictures/chapter_head_1.pdf
+INPUT ./Pictures/chapter_head_1.pdf
+INPUT ./Pictures/Screenshot 2024-03-06 201615.png
+INPUT ./Pictures/Screenshot 2024-03-06 201615.png
+INPUT ./Pictures/Screenshot 2024-03-06 201615.png
+INPUT ./Pictures/Screenshot 2024-03-06 201615.png
+INPUT ./Pictures/Screenshot 2024-03-06 201615.png
+INPUT ./Pictures/Screenshot 2024-03-06 201615.png
+INPUT ./Pictures/Screenshot 2024-03-06 201615.png
+INPUT ./Pictures/Screenshot 2024-03-06 192802.png
+INPUT ./Pictures/Screenshot 2024-03-06 192802.png
+INPUT ./Pictures/Screenshot 2024-03-06 192802.png
+INPUT ./Pictures/Screenshot 2024-03-06 192802.png
+INPUT ./Pictures/Screenshot 2024-03-06 192802.png
+INPUT ./Pictures/Screenshot 2024-03-06 192802.png
+INPUT ./Pictures/Screenshot 2024-03-06 192802.png
+INPUT ./Pictures/Screenshot 2024-03-06 193004.png
+INPUT ./Pictures/Screenshot 2024-03-06 193004.png
+INPUT ./Pictures/Screenshot 2024-03-06 193004.png
+INPUT ./Pictures/Screenshot 2024-03-06 193004.png
+INPUT ./Pictures/Screenshot 2024-03-06 193004.png
+INPUT ./Pictures/Screenshot 2024-03-06 193004.png
+INPUT ./Pictures/Screenshot 2024-03-06 193004.png
+INPUT ./Pictures/Screenshot 2024-03-06 193746.png
+INPUT ./Pictures/Screenshot 2024-03-06 193746.png
+INPUT ./Pictures/Screenshot 2024-03-06 193746.png
+INPUT ./Pictures/Screenshot 2024-03-06 193746.png
+INPUT ./Pictures/Screenshot 2024-03-06 193746.png
+INPUT ./Pictures/Screenshot 2024-03-06 193746.png
+INPUT ./Pictures/Screenshot 2024-03-06 193746.png
+INPUT ./Pictures/Screenshot 2024-03-06 194015.png
+INPUT ./Pictures/Screenshot 2024-03-06 194015.png
+INPUT ./Pictures/Screenshot 2024-03-06 194015.png
+INPUT ./Pictures/Screenshot 2024-03-06 194015.png
+INPUT ./Pictures/Screenshot 2024-03-06 194015.png
+INPUT ./Pictures/Screenshot 2024-03-06 194015.png
+INPUT ./Pictures/Screenshot 2024-03-06 194015.png
+INPUT ./Pictures/Screenshot 2024-03-06 202747.png
+INPUT ./Pictures/Screenshot 2024-03-06 202747.png
+INPUT ./Pictures/Screenshot 2024-03-06 202747.png
+INPUT ./Pictures/Screenshot 2024-03-06 202747.png
+INPUT ./Pictures/Screenshot 2024-03-06 202747.png
+INPUT ./Pictures/Screenshot 2024-03-06 202747.png
+INPUT ./Pictures/Screenshot 2024-03-06 202747.png
+INPUT ./Pictures/Screenshot 2024-03-06 202752.png
+INPUT ./Pictures/Screenshot 2024-03-06 202752.png
+INPUT ./Pictures/Screenshot 2024-03-06 202752.png
+INPUT ./Pictures/Screenshot 2024-03-06 202752.png
+INPUT ./Pictures/Screenshot 2024-03-06 202752.png
+INPUT ./Pictures/Screenshot 2024-03-06 202752.png
+INPUT ./Pictures/Screenshot 2024-03-06 202752.png
+INPUT ./Pictures/Screenshot 2024-03-06 202757.png
+INPUT ./Pictures/Screenshot 2024-03-06 202757.png
+INPUT ./Pictures/Screenshot 2024-03-06 202757.png
+INPUT ./Pictures/Screenshot 2024-03-06 202757.png
+INPUT ./Pictures/Screenshot 2024-03-06 202757.png
+INPUT ./Pictures/Screenshot 2024-03-06 202757.png
+INPUT ./Pictures/Screenshot 2024-03-06 202757.png
+INPUT ./Pictures/Screenshot 2024-03-06 204921.png
+INPUT ./Pictures/Screenshot 2024-03-06 204921.png
+INPUT ./Pictures/Screenshot 2024-03-06 204921.png
+INPUT ./Pictures/Screenshot 2024-03-06 204921.png
+INPUT ./Pictures/Screenshot 2024-03-06 204921.png
+INPUT ./Pictures/Screenshot 2024-03-06 204921.png
+INPUT ./Pictures/Screenshot 2024-03-06 204921.png
+INPUT ./Pictures/Screenshot 2024-03-06 205513.png
+INPUT ./Pictures/Screenshot 2024-03-06 205513.png
+INPUT ./Pictures/Screenshot 2024-03-06 205513.png
+INPUT ./Pictures/Screenshot 2024-03-06 205513.png
+INPUT ./Pictures/Screenshot 2024-03-06 205513.png
+INPUT ./Pictures/Screenshot 2024-03-06 205513.png
+INPUT ./Pictures/Screenshot 2024-03-06 205513.png
+INPUT ./Pictures/Screenshot 2024-04-03 230126.png
+INPUT ./Pictures/Screenshot 2024-04-03 230126.png
+INPUT ./Pictures/Screenshot 2024-04-03 230126.png
+INPUT ./Pictures/Screenshot 2024-04-03 230126.png
+INPUT ./Pictures/Screenshot 2024-04-03 230126.png
+INPUT ./Pictures/Screenshot 2024-04-03 230126.png
+INPUT ./Pictures/Screenshot 2024-04-03 230126.png
+INPUT ./Pictures/chapter_head_1.pdf
+INPUT ./Pictures/chapter_head_1.pdf
+INPUT ./Pictures/chapter_head_1.pdf
+INPUT ./Pictures/Screenshot 2024-04-03 000405.png
+INPUT ./Pictures/Screenshot 2024-04-03 000405.png
+INPUT ./Pictures/Screenshot 2024-04-03 000405.png
+INPUT ./Pictures/Screenshot 2024-04-03 000405.png
+INPUT ./Pictures/Screenshot 2024-04-03 000405.png
+INPUT ./Pictures/Screenshot 2024-04-03 000405.png
+INPUT ./Pictures/Screenshot 2024-04-03 000405.png
+INPUT ./Pictures/Screenshot 2024-04-03 000414.png
+INPUT ./Pictures/Screenshot 2024-04-03 000414.png
+INPUT ./Pictures/Screenshot 2024-04-03 000414.png
+INPUT ./Pictures/Screenshot 2024-04-03 000414.png
+INPUT ./Pictures/Screenshot 2024-04-03 000414.png
+INPUT ./Pictures/Screenshot 2024-04-03 000414.png
+INPUT ./Pictures/Screenshot 2024-04-03 000414.png
+INPUT ./Pictures/Screenshot 2024-04-03 000424.png
+INPUT ./Pictures/Screenshot 2024-04-03 000424.png
+INPUT ./Pictures/Screenshot 2024-04-03 000424.png
+INPUT ./Pictures/Screenshot 2024-04-03 000424.png
+INPUT ./Pictures/Screenshot 2024-04-03 000424.png
+INPUT ./Pictures/Screenshot 2024-04-03 000424.png
+INPUT ./Pictures/Screenshot 2024-04-03 000424.png
+INPUT ./Pictures/Screenshot 2024-04-03 002531.png
+INPUT ./Pictures/Screenshot 2024-04-03 002531.png
+INPUT ./Pictures/Screenshot 2024-04-03 002531.png
+INPUT ./Pictures/Screenshot 2024-04-03 002531.png
+INPUT ./Pictures/Screenshot 2024-04-03 002531.png
+INPUT ./Pictures/Screenshot 2024-04-03 002531.png
+INPUT ./Pictures/Screenshot 2024-04-03 002531.png
+INPUT ./Pictures/Screenshot 2024-04-03 005053.png
+INPUT ./Pictures/Screenshot 2024-04-03 005053.png
+INPUT ./Pictures/Screenshot 2024-04-03 005053.png
+INPUT ./Pictures/Screenshot 2024-04-03 005053.png
+INPUT ./Pictures/Screenshot 2024-04-03 005053.png
+INPUT ./Pictures/Screenshot 2024-04-03 005053.png
+INPUT ./Pictures/Screenshot 2024-04-03 005053.png
+INPUT ./Pictures/Screenshot 2024-04-03 005340.png
+INPUT ./Pictures/Screenshot 2024-04-03 005340.png
+INPUT ./Pictures/Screenshot 2024-04-03 005340.png
+INPUT ./Pictures/Screenshot 2024-04-03 005340.png
+INPUT ./Pictures/Screenshot 2024-04-03 005340.png
+INPUT ./Pictures/Screenshot 2024-04-03 005340.png
+INPUT ./Pictures/Screenshot 2024-04-03 005340.png
+INPUT ./Pictures/Screenshot 2024-04-03 005431.png
+INPUT ./Pictures/Screenshot 2024-04-03 005431.png
+INPUT ./Pictures/Screenshot 2024-04-03 005431.png
+INPUT ./Pictures/Screenshot 2024-04-03 005431.png
+INPUT ./Pictures/Screenshot 2024-04-03 005431.png
+INPUT ./Pictures/Screenshot 2024-04-03 005431.png
+INPUT ./Pictures/Screenshot 2024-04-03 005431.png
+INPUT ./Pictures/Screenshot 2024-04-03 005847.png
+INPUT ./Pictures/Screenshot 2024-04-03 005847.png
+INPUT ./Pictures/Screenshot 2024-04-03 005847.png
+INPUT ./Pictures/Screenshot 2024-04-03 005847.png
+INPUT ./Pictures/Screenshot 2024-04-03 005847.png
+INPUT ./Pictures/Screenshot 2024-04-03 005847.png
+INPUT ./Pictures/Screenshot 2024-04-03 005847.png
+INPUT ./Pictures/Screenshot 2024-04-03 223557.png
+INPUT ./Pictures/Screenshot 2024-04-03 223557.png
+INPUT ./Pictures/Screenshot 2024-04-03 223557.png
+INPUT ./Pictures/Screenshot 2024-04-03 223557.png
+INPUT ./Pictures/Screenshot 2024-04-03 223557.png
+INPUT ./Pictures/Screenshot 2024-04-03 223557.png
+INPUT ./Pictures/Screenshot 2024-04-03 223557.png
+INPUT ./Pictures/Screenshot 2024-04-03 223633.png
+INPUT ./Pictures/Screenshot 2024-04-03 223633.png
+INPUT ./Pictures/Screenshot 2024-04-03 223633.png
+INPUT ./Pictures/Screenshot 2024-04-03 223633.png
+INPUT ./Pictures/Screenshot 2024-04-03 223633.png
+INPUT ./Pictures/Screenshot 2024-04-03 223633.png
+INPUT ./Pictures/Screenshot 2024-04-03 223633.png
+INPUT ./Pictures/Screenshot 2024-04-03 225216.png
+INPUT ./Pictures/Screenshot 2024-04-03 225216.png
+INPUT ./Pictures/Screenshot 2024-04-03 225216.png
+INPUT ./Pictures/Screenshot 2024-04-03 225216.png
+INPUT ./Pictures/Screenshot 2024-04-03 225216.png
+INPUT ./Pictures/Screenshot 2024-04-03 225216.png
+INPUT ./Pictures/Screenshot 2024-04-03 225216.png
+INPUT ./Pictures/Screenshot 2024-04-03 225713.png
+INPUT ./Pictures/Screenshot 2024-04-03 225713.png
+INPUT ./Pictures/Screenshot 2024-04-03 225713.png
+INPUT ./Pictures/Screenshot 2024-04-03 225713.png
+INPUT ./Pictures/Screenshot 2024-04-03 225713.png
+INPUT ./Pictures/Screenshot 2024-04-03 225713.png
+INPUT ./Pictures/Screenshot 2024-04-03 225713.png
+INPUT ./Pictures/Screenshot 2024-04-03 225826.png
+INPUT ./Pictures/Screenshot 2024-04-03 225826.png
+INPUT ./Pictures/Screenshot 2024-04-03 225826.png
+INPUT ./Pictures/Screenshot 2024-04-03 225826.png
+INPUT ./Pictures/Screenshot 2024-04-03 225826.png
+INPUT ./Pictures/Screenshot 2024-04-03 225826.png
+INPUT ./Pictures/Screenshot 2024-04-03 225826.png
+INPUT ./Pictures/Screenshot 2024-04-03 232654.png
+INPUT ./Pictures/Screenshot 2024-04-03 232654.png
+INPUT ./Pictures/Screenshot 2024-04-03 232654.png
+INPUT ./Pictures/Screenshot 2024-04-03 232654.png
+INPUT ./Pictures/Screenshot 2024-04-03 232654.png
+INPUT ./Pictures/Screenshot 2024-04-03 232654.png
+INPUT ./Pictures/Screenshot 2024-04-03 232654.png
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8c.tfm
+INPUT ./Pictures/Screenshot 2024-04-03 230713.png
+INPUT ./Pictures/Screenshot 2024-04-03 230713.png
+INPUT ./Pictures/Screenshot 2024-04-03 230713.png
+INPUT ./Pictures/Screenshot 2024-04-03 230713.png
+INPUT ./Pictures/Screenshot 2024-04-03 230713.png
+INPUT ./Pictures/Screenshot 2024-04-03 230713.png
+INPUT ./Pictures/Screenshot 2024-04-03 230713.png
+INPUT ./Pictures/Screenshot 2024-04-03 230817.png
+INPUT ./Pictures/Screenshot 2024-04-03 230817.png
+INPUT ./Pictures/Screenshot 2024-04-03 230817.png
+INPUT ./Pictures/Screenshot 2024-04-03 230817.png
+INPUT ./Pictures/Screenshot 2024-04-03 230817.png
+INPUT ./Pictures/Screenshot 2024-04-03 230817.png
+INPUT ./Pictures/Screenshot 2024-04-03 230817.png
+INPUT ./Pictures/Screenshot 2024-04-03 231435.png
+INPUT ./Pictures/Screenshot 2024-04-03 231435.png
+INPUT ./Pictures/Screenshot 2024-04-03 231435.png
+INPUT ./Pictures/Screenshot 2024-04-03 231435.png
+INPUT ./Pictures/Screenshot 2024-04-03 231435.png
+INPUT ./Pictures/Screenshot 2024-04-03 231435.png
+INPUT ./Pictures/Screenshot 2024-04-03 231435.png
+INPUT ./Pictures/Screenshot 2024-04-03 231440.png
+INPUT ./Pictures/Screenshot 2024-04-03 231440.png
+INPUT ./Pictures/Screenshot 2024-04-03 231440.png
+INPUT ./Pictures/Screenshot 2024-04-03 231440.png
+INPUT ./Pictures/Screenshot 2024-04-03 231440.png
+INPUT ./Pictures/Screenshot 2024-04-03 231440.png
+INPUT ./Pictures/Screenshot 2024-04-03 231440.png
+INPUT ./Pictures/Screenshot 2024-04-03 231449.png
+INPUT ./Pictures/Screenshot 2024-04-03 231449.png
+INPUT ./Pictures/Screenshot 2024-04-03 231449.png
+INPUT ./Pictures/Screenshot 2024-04-03 231449.png
+INPUT ./Pictures/Screenshot 2024-04-03 231449.png
+INPUT ./Pictures/Screenshot 2024-04-03 231449.png
+INPUT ./Pictures/Screenshot 2024-04-03 231449.png
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmr8c.vf
+INPUT ./Pictures/Screenshot 2024-04-03 231449.png
+INPUT ./Pictures/Screenshot 2024-04-03 231449.png
+INPUT ./Pictures/Screenshot 2024-04-03 231449.png
+INPUT ./Pictures/Screenshot 2024-04-03 231449.png
+INPUT ./Pictures/Screenshot 2024-04-03 232435.png
+INPUT ./Pictures/Screenshot 2024-04-03 232435.png
+INPUT ./Pictures/Screenshot 2024-04-03 232435.png
+INPUT ./Pictures/Screenshot 2024-04-03 232435.png
+INPUT ./Pictures/Screenshot 2024-04-03 232435.png
+INPUT ./Pictures/Screenshot 2024-04-03 232435.png
+INPUT ./Pictures/Screenshot 2024-04-03 232435.png
+INPUT ./Pictures/Screenshot 2024-04-03 234918.png
+INPUT ./Pictures/Screenshot 2024-04-03 234918.png
+INPUT ./Pictures/Screenshot 2024-04-03 234918.png
+INPUT ./Pictures/Screenshot 2024-04-03 234918.png
+INPUT ./Pictures/Screenshot 2024-04-03 234918.png
+INPUT ./Pictures/Screenshot 2024-04-03 234918.png
+INPUT ./Pictures/Screenshot 2024-04-03 234918.png
+INPUT ./Pictures/Screenshot 2024-04-03 233656.png
+INPUT ./Pictures/Screenshot 2024-04-03 233656.png
+INPUT ./Pictures/Screenshot 2024-04-03 233656.png
+INPUT ./Pictures/Screenshot 2024-04-03 233656.png
+INPUT ./Pictures/Screenshot 2024-04-03 233656.png
+INPUT ./Pictures/Screenshot 2024-04-03 233656.png
+INPUT ./Pictures/Screenshot 2024-04-03 233656.png
+INPUT ./Pictures/Screenshot 2024-04-03 234113.png
+INPUT ./Pictures/Screenshot 2024-04-03 234113.png
+INPUT ./Pictures/Screenshot 2024-04-03 234113.png
+INPUT ./Pictures/Screenshot 2024-04-03 234113.png
+INPUT ./Pictures/Screenshot 2024-04-03 234113.png
+INPUT ./Pictures/Screenshot 2024-04-03 234113.png
+INPUT ./Pictures/Screenshot 2024-04-03 234113.png
+INPUT ./Pictures/Screenshot 2024-04-03 234130.png
+INPUT ./Pictures/Screenshot 2024-04-03 234130.png
+INPUT ./Pictures/Screenshot 2024-04-03 234130.png
+INPUT ./Pictures/Screenshot 2024-04-03 234130.png
+INPUT ./Pictures/Screenshot 2024-04-03 234130.png
+INPUT ./Pictures/Screenshot 2024-04-03 234130.png
+INPUT ./Pictures/Screenshot 2024-04-03 234130.png
+INPUT ./Pictures/Screenshot 2024-04-03 234139.png
+INPUT ./Pictures/Screenshot 2024-04-03 234139.png
+INPUT ./Pictures/Screenshot 2024-04-03 234139.png
+INPUT ./Pictures/Screenshot 2024-04-03 234139.png
+INPUT ./Pictures/Screenshot 2024-04-03 234139.png
+INPUT ./Pictures/Screenshot 2024-04-03 234139.png
+INPUT ./Pictures/Screenshot 2024-04-03 234139.png
+INPUT ./Pictures/Screenshot 2024-04-03 234154.png
+INPUT ./Pictures/Screenshot 2024-04-03 234154.png
+INPUT ./Pictures/Screenshot 2024-04-03 234154.png
+INPUT ./Pictures/Screenshot 2024-04-03 234154.png
+INPUT ./Pictures/Screenshot 2024-04-03 234154.png
+INPUT ./Pictures/Screenshot 2024-04-03 234154.png
+INPUT ./Pictures/Screenshot 2024-04-03 234154.png
+INPUT ./Pictures/Screenshot 2024-04-03 234821.png
+INPUT ./Pictures/Screenshot 2024-04-03 234821.png
+INPUT ./Pictures/Screenshot 2024-04-03 234821.png
+INPUT ./Pictures/Screenshot 2024-04-03 234821.png
+INPUT ./Pictures/Screenshot 2024-04-03 234821.png
+INPUT ./Pictures/Screenshot 2024-04-03 234821.png
+INPUT ./Pictures/Screenshot 2024-04-03 234821.png
+INPUT ./Pictures/Screenshot 2024-04-04 001601.png
+INPUT ./Pictures/Screenshot 2024-04-04 001601.png
+INPUT ./Pictures/Screenshot 2024-04-04 001601.png
+INPUT ./Pictures/Screenshot 2024-04-04 001601.png
+INPUT ./Pictures/Screenshot 2024-04-04 001601.png
+INPUT ./Pictures/Screenshot 2024-04-04 001601.png
+INPUT ./Pictures/Screenshot 2024-04-04 001601.png
+INPUT ./Pictures/Screenshot 2024-04-04 001715.png
+INPUT ./Pictures/Screenshot 2024-04-04 001715.png
+INPUT ./Pictures/Screenshot 2024-04-04 001715.png
+INPUT ./Pictures/Screenshot 2024-04-04 001715.png
+INPUT ./Pictures/Screenshot 2024-04-04 001715.png
+INPUT ./Pictures/Screenshot 2024-04-04 001715.png
+INPUT ./Pictures/Screenshot 2024-04-04 001715.png
+INPUT ./Pictures/Screenshot 2024-04-04 001818.png
+INPUT ./Pictures/Screenshot 2024-04-04 001818.png
+INPUT ./Pictures/Screenshot 2024-04-04 001818.png
+INPUT ./Pictures/Screenshot 2024-04-04 001818.png
+INPUT ./Pictures/Screenshot 2024-04-04 001818.png
+INPUT ./Pictures/Screenshot 2024-04-04 001818.png
+INPUT ./Pictures/Screenshot 2024-04-04 001818.png
+INPUT ./Pictures/Screenshot 2024-04-04 003419.png
+INPUT ./Pictures/Screenshot 2024-04-04 003419.png
+INPUT ./Pictures/Screenshot 2024-04-04 003419.png
+INPUT ./Pictures/Screenshot 2024-04-04 003419.png
+INPUT ./Pictures/Screenshot 2024-04-04 003419.png
+INPUT ./Pictures/Screenshot 2024-04-04 003419.png
+INPUT ./Pictures/Screenshot 2024-04-04 003419.png
+INPUT ./Pictures/Screenshot 2024-04-04 003425.png
+INPUT ./Pictures/Screenshot 2024-04-04 003425.png
+INPUT ./Pictures/Screenshot 2024-04-04 003425.png
+INPUT ./Pictures/Screenshot 2024-04-04 003425.png
+INPUT ./Pictures/Screenshot 2024-04-04 003425.png
+INPUT ./Pictures/Screenshot 2024-04-04 003425.png
+INPUT ./Pictures/Screenshot 2024-04-04 003425.png
+INPUT ./Pictures/Screenshot 2024-04-04 003437.png
+INPUT ./Pictures/Screenshot 2024-04-04 003437.png
+INPUT ./Pictures/Screenshot 2024-04-04 003437.png
+INPUT ./Pictures/Screenshot 2024-04-04 003437.png
+INPUT ./Pictures/Screenshot 2024-04-04 003437.png
+INPUT ./Pictures/Screenshot 2024-04-04 003437.png
+INPUT ./Pictures/Screenshot 2024-04-04 003437.png
+INPUT ./Pictures/Screenshot 2024-04-04 004121.png
+INPUT ./Pictures/Screenshot 2024-04-04 004121.png
+INPUT ./Pictures/Screenshot 2024-04-04 004121.png
+INPUT ./Pictures/Screenshot 2024-04-04 004121.png
+INPUT ./Pictures/Screenshot 2024-04-04 004121.png
+INPUT ./Pictures/Screenshot 2024-04-04 004121.png
+INPUT ./Pictures/Screenshot 2024-04-04 004121.png
+INPUT ./Pictures/Screenshot 2024-04-04 004240.png
+INPUT ./Pictures/Screenshot 2024-04-04 004240.png
+INPUT ./Pictures/Screenshot 2024-04-04 004240.png
+INPUT ./Pictures/Screenshot 2024-04-04 004240.png
+INPUT ./Pictures/Screenshot 2024-04-04 004240.png
+INPUT ./Pictures/Screenshot 2024-04-04 004240.png
+INPUT ./Pictures/Screenshot 2024-04-04 004240.png
+INPUT ./Pictures/Screenshot 2024-04-04 004646.png
+INPUT ./Pictures/Screenshot 2024-04-04 004646.png
+INPUT ./Pictures/Screenshot 2024-04-04 004646.png
+INPUT ./Pictures/Screenshot 2024-04-04 004646.png
+INPUT ./Pictures/Screenshot 2024-04-04 004646.png
+INPUT ./Pictures/Screenshot 2024-04-04 004646.png
+INPUT ./Pictures/Screenshot 2024-04-04 004646.png
+INPUT ./Pictures/Screenshot 2024-04-04 004728.png
+INPUT ./Pictures/Screenshot 2024-04-04 004728.png
+INPUT ./Pictures/Screenshot 2024-04-04 004728.png
+INPUT ./Pictures/Screenshot 2024-04-04 004728.png
+INPUT ./Pictures/Screenshot 2024-04-04 004728.png
+INPUT ./Pictures/Screenshot 2024-04-04 004728.png
+INPUT ./Pictures/Screenshot 2024-04-04 004728.png
+INPUT ./Pictures/Screenshot 2024-04-04 004744.png
+INPUT ./Pictures/Screenshot 2024-04-04 004744.png
+INPUT ./Pictures/Screenshot 2024-04-04 004744.png
+INPUT ./Pictures/Screenshot 2024-04-04 004744.png
+INPUT ./Pictures/Screenshot 2024-04-04 004744.png
+INPUT ./Pictures/Screenshot 2024-04-04 004744.png
+INPUT ./Pictures/Screenshot 2024-04-04 004744.png
+INPUT ./Pictures/Screenshot 2024-04-04 004942.png
+INPUT ./Pictures/Screenshot 2024-04-04 004942.png
+INPUT ./Pictures/Screenshot 2024-04-04 004942.png
+INPUT ./Pictures/Screenshot 2024-04-04 004942.png
+INPUT ./Pictures/Screenshot 2024-04-04 004942.png
+INPUT ./Pictures/Screenshot 2024-04-04 004942.png
+INPUT ./Pictures/Screenshot 2024-04-04 004942.png
+INPUT ./Pictures/Screenshot 2024-04-04 011648.png
+INPUT ./Pictures/Screenshot 2024-04-04 011648.png
+INPUT ./Pictures/Screenshot 2024-04-04 011648.png
+INPUT ./Pictures/Screenshot 2024-04-04 011648.png
+INPUT ./Pictures/Screenshot 2024-04-04 011648.png
+INPUT ./Pictures/Screenshot 2024-04-04 011648.png
+INPUT ./Pictures/Screenshot 2024-04-04 011648.png
+INPUT ./Pictures/Screenshot 2024-04-04 012102.png
+INPUT ./Pictures/Screenshot 2024-04-04 012102.png
+INPUT ./Pictures/Screenshot 2024-04-04 012102.png
+INPUT ./Pictures/Screenshot 2024-04-04 012102.png
+INPUT ./Pictures/Screenshot 2024-04-04 012102.png
+INPUT ./Pictures/Screenshot 2024-04-04 012102.png
+INPUT ./Pictures/Screenshot 2024-04-04 012102.png
+INPUT ./Pictures/Screenshot 2024-04-04 012129.png
+INPUT ./Pictures/Screenshot 2024-04-04 012129.png
+INPUT ./Pictures/Screenshot 2024-04-04 012129.png
+INPUT ./Pictures/Screenshot 2024-04-04 012129.png
+INPUT ./Pictures/Screenshot 2024-04-04 012129.png
+INPUT ./Pictures/Screenshot 2024-04-04 012129.png
+INPUT ./Pictures/Screenshot 2024-04-04 012129.png
+INPUT ./Pictures/Screenshot 2024-04-04 012358.png
+INPUT ./Pictures/Screenshot 2024-04-04 012358.png
+INPUT ./Pictures/Screenshot 2024-04-04 012358.png
+INPUT ./Pictures/Screenshot 2024-04-04 012358.png
+INPUT ./Pictures/Screenshot 2024-04-04 012358.png
+INPUT ./Pictures/Screenshot 2024-04-04 012358.png
+INPUT ./Pictures/Screenshot 2024-04-04 012358.png
+INPUT ./Pictures/Screenshot 2024-04-04 012811.png
+INPUT ./Pictures/Screenshot 2024-04-04 012811.png
+INPUT ./Pictures/Screenshot 2024-04-04 012811.png
+INPUT ./Pictures/Screenshot 2024-04-04 012811.png
+INPUT ./Pictures/Screenshot 2024-04-04 012811.png
+INPUT ./Pictures/Screenshot 2024-04-04 012811.png
+INPUT ./Pictures/Screenshot 2024-04-04 012811.png
+INPUT ./Pictures/Screenshot 2024-04-04 012911.png
+INPUT ./Pictures/Screenshot 2024-04-04 012911.png
+INPUT ./Pictures/Screenshot 2024-04-04 012911.png
+INPUT ./Pictures/Screenshot 2024-04-04 012911.png
+INPUT ./Pictures/Screenshot 2024-04-04 012911.png
+INPUT ./Pictures/Screenshot 2024-04-04 012911.png
+INPUT ./Pictures/Screenshot 2024-04-04 012911.png
+INPUT ./Pictures/Screenshot 2024-04-04 013127.png
+INPUT ./Pictures/Screenshot 2024-04-04 013127.png
+INPUT ./Pictures/Screenshot 2024-04-04 013127.png
+INPUT ./Pictures/Screenshot 2024-04-04 013127.png
+INPUT ./Pictures/Screenshot 2024-04-04 013127.png
+INPUT ./Pictures/Screenshot 2024-04-04 013127.png
+INPUT ./Pictures/Screenshot 2024-04-04 013127.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.13.43 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.13.43 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.13.43 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.13.43 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.13.43 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.13.43 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.13.43 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.19.25 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.19.25 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.19.25 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.19.25 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.19.25 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.19.25 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.19.25 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.21.53 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.21.53 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.21.53 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.21.53 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.21.53 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.21.53 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.21.53 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.24.55 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.24.55 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.24.55 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.24.55 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.24.55 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.24.55 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.24.55 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.30.22 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.30.22 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.30.22 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.30.22 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.30.22 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.30.22 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.30.22 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.31.58 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.31.58 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.31.58 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.31.58 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.31.58 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.31.58 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.31.58 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.35.38 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.35.38 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.35.38 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.35.38 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.35.38 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.35.38 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.35.38 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.36.26 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.36.26 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.36.26 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.36.26 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.36.26 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.36.26 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.36.26 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.39.18 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.39.18 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.39.18 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.39.18 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.39.18 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.39.18 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.39.18 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.39.42 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.39.42 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.39.42 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.39.42 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.39.42 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.39.42 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.39.42 PM.png
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.47.43 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.47.43 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.47.43 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.47.43 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.47.43 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.47.43 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.47.43 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.48.56 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.48.56 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.48.56 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.48.56 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.48.56 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.48.56 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.48.56 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.49.36 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.49.36 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.49.36 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.49.36 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.49.36 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.49.36 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.49.36 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.50.44 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.50.44 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.50.44 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.50.44 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.50.44 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.50.44 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.50.44 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.51.24 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.51.24 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.51.24 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.51.24 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.51.24 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.51.24 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.51.24 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.52.50 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.52.50 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.52.50 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.52.50 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.52.50 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.52.50 PM.png
+INPUT ./Pictures/Screenshot 2024-04-05 at 5.52.50 PM.png
+INPUT ./main.ptc
+INPUT ./main.ptc
+INPUT main.ptc
+INPUT ./Pictures/chapter_head_1.pdf
+INPUT ./Pictures/chapter_head_1.pdf
+INPUT ./Pictures/chapter_head_1.pdf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmri8t.vf
+INPUT ./Pictures/chapter_head_1.pdf
+INPUT ./Pictures/chapter_head_1.pdf
+INPUT ./Pictures/chapter_head_1.pdf
+INPUT ./main.ptc
+INPUT ./main.ptc
+INPUT main.ptc
+INPUT ./Pictures/chapter_head_2.pdf
+INPUT ./Pictures/chapter_head_2.pdf
+INPUT ./Pictures/chapter_head_2.pdf
+INPUT ./Pictures/chapter_head_2.pdf
+INPUT ./Pictures/chapter_head_2.pdf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmb7t.vf
+INPUT ./main.ind
+INPUT ./main.ind
+INPUT main.ind
+INPUT ./Pictures/chapter_head_2.pdf
+INPUT ./Pictures/chapter_head_2.pdf
+INPUT ./Pictures/chapter_head_2.pdf
+OUTPUT main.ptc
+INPUT main.aux
+INPUT main.run.xml
+OUTPUT main.run.xml
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1095.pk
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1095.pk
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/symbols/msam10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/symbols/msam10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/rsfs/rsfs10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/rsfs/rsfs10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/avantgar/uagd8a.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/avantgar/uagd8a.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/avantgar/uagk8a.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/avantgar/uagk8a.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/symbol/usyr.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/symbol/usyr.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/symbol/usyr.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/symbol/usyr.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmbi8a.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmbi8a.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmr8a.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmr8a.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmri8a.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmri8a.pfb
