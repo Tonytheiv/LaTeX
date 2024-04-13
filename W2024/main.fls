@@ -358,6 +358,11 @@ INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/lbx/
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/lbx/english.lbx
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/lbx/english.lbx
 OUTPUT main.bcf
+INPUT main.bbl
+INPUT ./main.bbl
+INPUT ./main.bbl
+INPUT ./main.bbl
+INPUT main.bbl
 OUTPUT main.pdf
 INPUT ./Pictures/background.pdf
 INPUT ./Pictures/background.pdf
@@ -1290,6 +1295,36 @@ INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/pt
 INPUT ./Pictures/chapter_head_2.pdf
 INPUT ./Pictures/chapter_head_2.pdf
 INPUT ./Pictures/chapter_head_2.pdf
+INPUT ./Pictures/radial.png
+INPUT ./Pictures/radial.png
+INPUT ./Pictures/radial.png
+INPUT ./Pictures/radial.png
+INPUT ./Pictures/radial.png
+INPUT ./Pictures/radial.png
+INPUT ./Pictures/radial.png
+INPUT ./Pictures/z.png
+INPUT ./Pictures/z.png
+INPUT ./Pictures/z.png
+INPUT ./Pictures/z.png
+INPUT ./Pictures/z.png
+INPUT ./Pictures/z.png
+INPUT ./Pictures/z.png
+INPUT ./Pictures/h2.png
+INPUT ./Pictures/h2.png
+INPUT ./Pictures/h2.png
+INPUT ./Pictures/h2.png
+INPUT ./Pictures/h2.png
+INPUT ./Pictures/h2.png
+INPUT ./Pictures/h2.png
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8t.tfm
+INPUT ./Pictures/e.png
+INPUT ./Pictures/e.png
+INPUT ./Pictures/e.png
+INPUT ./Pictures/e.png
+INPUT ./Pictures/e.png
+INPUT ./Pictures/e.png
+INPUT ./Pictures/e.png
 INPUT ./main.ind
 INPUT ./main.ind
 INPUT main.ind

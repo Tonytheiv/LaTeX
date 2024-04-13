@@ -149,5 +149,5 @@
 \contentsline {subsection}{\numberline {7.3.1}Degeneracy}{132}{subsection.7.3.1}%
 \contentsline {section}{\numberline {7.4}The Central Force Problem}{132}{section.7.4}%
 \contentsline {chapter}{\numberline {8}Quantum Mechanics Theory}{135}{chapter.8}%
-\contentsline {chapter}{\textcolor {ocre}{Index}}{137}{section*.81}%
+\contentsline {chapter}{\textcolor {ocre}{Index}}{139}{section*.85}%
 \contentsfinish 

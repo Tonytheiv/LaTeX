@@ -4904,13 +4904,64 @@ And we can observe that
 $$\frac{\Phi''}{\Phi} = \text{function of $r$ and $\theta$}.$$
 
 \chapter{Quantum Mechanics Theory}
+\begin{figure}[h!]
+	\begin{center}
+		\includegraphics[width=1\linewidth]{Pictures/radial.png}
+	\end{center}
+	\caption{Radial probability distributions for Hydrogen
+	}
+\end{figure}
+\begin{figure}[h!]
+	\begin{center}
+		\includegraphics[width=0.6\linewidth]{Pictures/z.png}
+	\end{center}
+	\caption{Zeeman effect emission spectra. This image is for a $p$ orbital. Except it is missing the splitting ofr the spin components: there should be 5 lines (2 added for the spin), each separated by $\mu_BB$
+	}
+\end{figure}
 
+\textbf{Boundary conditions for Hydrogen energy level quantization: }radial probability distribution goes to 0 as $r\rightarrow\infty$
 
+\textbf{Spherical symmetry: }only $s$ orbitals are spherically symmetric
 
+\textbf{Degeneracy of Hydrogen atom: }$n^2$
 
+\textbf{Degeneracy of orbitals: }total number of electrons halved: i.e. for $2s,2p$, degeneracy is 4
 
+\textbf{Probability: }$P(r)=4\pi r^2|R(r)|^2$
 
+\textbf{Probability of finding electron: }$\iiint4\pi r^2|R(r)|^2dV$
 
+\textbf{Concept of effective nuclear charge: }it is influenced by electron screening and electron correlation energies. For Hydrogen, the effective charge is 1 due to the lackthereof of screening effects. If we add another electron filling the first shell, the effective charge of all electrons is still close to 1, though a bit less due to electron correlation. However, if we add a $2p$ electron, due to the screening of the first shell, its effective charge would be quite a bit more less than 1. But then again, if we give it a full second shell, i.e. full occupancy of $2s,2p$ orbitals, while experiencing screening from the $1s$ shell, due to the full shell, the effective charges would be much closer to 1 than for an incomplete shell, though not exactly 1.
+
+\textbf{Coulombic interactions: }for $\rm H_2^+$: apart from the obvious Coulomb forces present, we need to consider the respective wave functions for the electrons. We can use the LCAO-MO approach. For constructive interference, the wave functions would look something like: 
+\[\psi_+=A(\psi_{\rm 1,1s}+\psi_{\rm 2,1s})\]
+and for destructive interference:
+\[\psi_+=B(\psi_{\rm 1,1s}-\psi_{\rm 2,1s})\]
+where $\psi_1,\psi_2$ are $1s$ radial function solutions to the Hydrogen atom corresponding to protons 1 and 2. In bonding ($\psi_+$), we see an increase in electron density near the space between the nuclei. For antibonding ($\psi_-$), we have close to 0 probability density between the nuclei. The graphs of the wave functions look something like:
+\begin{figure}[h!]
+	\begin{center}
+		\includegraphics[width=0.6\linewidth]{Pictures/h2.png}
+	\end{center}
+	\caption{
+	}
+\end{figure}
+Now for the Coulombic potentials in the Stroedinger equation, we have:
+$$U=\frac{-e^2\textbf{r}_1}{4\pi\epsilon_0}+U=\frac{-e^2\textbf{r}_2}{4\pi\epsilon_0}+U=\frac{e^2\textbf{r}_P}{4\pi\epsilon_0}$$
+where we have one term for each e-p attraction, and one term for the p-p repulsion. As per the formation energies, the plot looks something like:
+\begin{figure}[h!]
+	\begin{center}
+		\includegraphics[width=0.6\linewidth]{Pictures/e.png}
+	\end{center}
+	\caption{
+	}
+\end{figure}
+The minimum, $R_0$, is the bond length. It is the point of zero force, where the p-p repulsive force equals the e-p attractive force. The interaction leas to a stable potential minimum in  proton seperation. The driving force for bond formation is the build up of electron density, where a larger net attractive force, $Z_{\rm eff}$. As for antibonding, the opposing trend is the destructive interference of e-p attraction leading to increased repulsive force between nuclei. Electron repulsion leads to depletion of electron density between protons: they take work to create the same electron distribution around the individual protons and as such, they have a higher energy.
+
+Now if we add one more electron to make hydrogen gas, things get more complicated: we also need to consider the e-e repulsion. This renders the problem unsolvable, as there is no way for us to solve for the wave function using separation of variables. However, there are two methods that still hold up:
+
+\textbf{Independent particle approximation: }We would use the wave function solutions that assumes only one electron to create an assumed solution that is expected to be the dominant term. Then, we use that distribution to create a spatially varying potential. That potential would then lead to a modified wave function, which can be used to redefine the potential. We can repeat the process for each trial function, recursively subbing potentials into wave functions to calculate for energy. Eventually, the approximate solution should converge.
+
+\textbf{Variation method: }Uses trial functions in which a key parameter is used as a variable parameter. For instance, for Helium, the effective nuclear charge due to electron correlation is a variable parameter.
 
 
 
