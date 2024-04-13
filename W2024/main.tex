@@ -4904,6 +4904,7 @@ And we can observe that
 $$\frac{\Phi''}{\Phi} = \text{function of $r$ and $\theta$}.$$
 
 \chapter{Quantum Mechanics Theory}
+This section contains minimal definition. The purpose is only to explore the intuition behind concepts and phenomenons. Concepts follow a rough order, though they may not necessarily be contiguous.
 \begin{figure}[h!]
 	\begin{center}
 		\includegraphics[width=1\linewidth]{Pictures/radial.png}
@@ -4923,13 +4924,15 @@ $$\frac{\Phi''}{\Phi} = \text{function of $r$ and $\theta$}.$$
 
 \textbf{Spherical symmetry: }only $s$ orbitals are spherically symmetric
 
-\textbf{Degeneracy of Hydrogen atom: }$n^2$
+\textbf{Degeneracy of Hydrogen atom: }$n^2$. However, this degeneracy is broken in multielectron atoms due to the introduction of electron shielding and correlation energies
 
 \textbf{Degeneracy of orbitals: }total number of electrons halved: i.e. for $2s,2p$, degeneracy is 4
 
 \textbf{Probability: }$P(r)=4\pi r^2|R(r)|^2$
 
 \textbf{Probability of finding electron: }$\iiint4\pi r^2|R(r)|^2dV$
+
+\textbf{Binding energy: }same as electron dissociation energy, positive
 
 \textbf{Concept of effective nuclear charge: }it is influenced by electron screening and electron correlation energies. For Hydrogen, the effective charge is 1 due to the lackthereof of screening effects. If we add another electron filling the first shell, the effective charge of all electrons is still close to 1, though a bit less due to electron correlation. However, if we add a $2p$ electron, due to the screening of the first shell, its effective charge would be quite a bit more less than 1. But then again, if we give it a full second shell, i.e. full occupancy of $2s,2p$ orbitals, while experiencing screening from the $1s$ shell, due to the full shell, the effective charges would be much closer to 1 than for an incomplete shell, though not exactly 1.
 
@@ -4961,9 +4964,66 @@ Now if we add one more electron to make hydrogen gas, things get more complicate
 
 \textbf{Independent particle approximation: }We would use the wave function solutions that assumes only one electron to create an assumed solution that is expected to be the dominant term. Then, we use that distribution to create a spatially varying potential. That potential would then lead to a modified wave function, which can be used to redefine the potential. We can repeat the process for each trial function, recursively subbing potentials into wave functions to calculate for energy. Eventually, the approximate solution should converge.
 
-\textbf{Variation method: }Uses trial functions in which a key parameter is used as a variable parameter. For instance, for Helium, the effective nuclear charge due to electron correlation is a variable parameter.
+\textbf{Variation method: }Uses trial functions in which a key parameter is used as a variable parameter. For instance, for Helium, the effective nuclear charge due to electron correlation is a variable parameter. We then plug it into the Schroedinger equation and write energy as a function of the variation parameter. Then, we take the derivative and find the minimum of energy, where that solution is the best solution within the approximation yielding correlations to energies, effective nuclear charge and radial distributions.
 
+\begin{theorem}[Bond Order]
+	$${\rm BO}=\frac{\rm bonding-antibonding electrons}{\rm 2\cdot number of atoms}$$
+	For higher bond orders, the bond distance is smaller and the bond energy is lower, resulting in a stronger, more stable bond. Not the differences between antibonding and nonbonding orbitals. When drawing bonding and antibonding, make sure that the positive cloud lines up with negative cloud for constructive interference, and the opposite for destructive, where there is a depletion of electron density in the center.
+\end{theorem}
 
+moving across the periodic table, we have more and more added electrons and their respective protons to create larger effective nuclear charges while each added electron does not screen its complementary proton (electron correlation energies). This increase in effective charge results in tighter binding of electrons, reduced radii. To explain mathematically, the $l$ dependence of the radial distributions for which there are larger probabilities for being closer to the nucleus will be lower in energy and higher ionization energies.
+
+\textbf{Valence electron shell pair repulsion: }For water, the bond angle is less than 109.5$^\circ$, and this is because the bond is compressed by the electron density created by the lone pairs, where a larger effective repulsive volume is created for electrons in these nonbonding orbitals. This non-uniform force in $sp^2$ hybridization results in the minimum energy.
+
+\textbf{Dipole moments: }Looking at water again, due to the excess electronegativity  of Oxygen, volumes near it has a net negative charge buildup, giving the Hydrogens net positive characters due to charge conservation. This creates a dipole moment.
+
+\textbf{Atoms that has abnormal electron configuration: }i.e. $\rm 5s^14d^{10}$. The cost of pairing electrons to create a filled shell is less than the cost to promote to a higher valence shell. This is because the Zeeman effect, where the additional magnetic field interaction ensures the electrons do not occupy the same space at the same time, offsets the costs to pair two electrons. 
+
+\textbf{Ionic bonds: }when electron is completely localized on the more electronegative atom in a bonded pair of atoms, leaving a positive charge on one atom and a negative charge on another.
+
+\textbf{Selection rules: } Spin: $\Delta S=0$, there must be no change in electron spin. Symmetry: the transition between two electronic or vibrational states must involve a change in symmetry. This ensures that there is a net dipole moment that allows the electric field to transfer energy. Either a bond dipole (vibrations) or transition dipole moment (electronic transitions) are involved in enabling coupling of the electric field to the atomic vibrational motions. Mathematically, the $\mu$ is an odd function and for the integral $\int\psi_n\psi_m\mu d\tau$ to be nonvanishing, the argument inside the integral must be even and hence the wave functions must be odd.
+
+\begin{theorem}[Vibrational Modes]
+	For bent molecules:
+	$$V=3N-6$$
+	For linear molecules:
+	$$V=3N-5$$
+\end{theorem}
+
+To determine the IR activity of each vibrational mode, we examine whether the vibrational forces on each atom can be cancelled out or not. However, if a molecule has no net dipole moment, no modes are active. Going over the effect of increasing the mass of atoms while maintaining the charges, the absorption wavelength would be longer due to the larger mass lowering frequency. The quantum harmonics' energies follow:
+\begin{figure}[h!]
+	\begin{center}
+		\includegraphics[width=0.37\linewidth]{Pictures/energy.png}
+	\end{center}
+	\caption{
+	}
+\end{figure}
+
+and their probability distributions follow:
+\begin{figure}[h!]
+\begin{center}
+	\includegraphics[width=0.4\linewidth]{Pictures/prob.png}
+\end{center}
+\caption{
+}
+\end{figure}
+
+\textbf{Absorption and emission of light: }
+\begin{figure}[h!]
+	\begin{center}
+		\includegraphics[width=0.75\linewidth]{Pictures/p.png}
+	\end{center}
+	\caption{The wavy lines represent vibrational relaxation from higher to lower vibrational levels for energy conservation. For fluorescent, spin is allowed; for phosphorescent, spin is forbidden and the process is slower. \textbf{Kasha's rule: }all emission occurs from lowest $v=0$ level of fluorescent to phosphorescent. Due to phosphorescent forbidding spin, $T_1$ is lower energy than $S_1$. This is because Hund's rule (Electrons occupy orbitals in a way that maximizes the total spin quantum number (s) for the electrons in the subshell) only applies to degenerate electronics levels, favoring the allowance of spin in fluorescent.
+	}
+\end{figure}
+
+Now we move the discussion onto intermolecular forces, rather than intramolecular.
+
+\textbf{H-Bond forces: }the electrostatic attraction between Hydrogen and more electronegative atoms, where Hydrogen always takes on a positive character. There is some degree of electron sharing between Hydrogen and other elements in the prosess that goes beyond an electrostatic or dipole-dipole bond. Only O, N, F are considered H-bond formers.
+
+\textbf{Dipole-dipole forces: }Coulombic attractive forces between partial charges
+
+\textbf{Van der Wall forces: }arice from instantaneous fluctuations in electron density that create temporary dipole moments. This instantaneous dipole moment then induces a dipole in a neighbouring atom, leading to electrostatic attraction. The net attractive force $\propto 1/r^6$.
 
 
 
