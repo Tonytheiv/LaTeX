@@ -4989,6 +4989,14 @@ Now we move the discussion onto intermolecular forces, rather than intramolecula
 
 \textbf{Ionic bonds: }when electron is completely localized on the more electronegative atom in a bonded pair of atoms, leaving a positive charge on one atom and a negative charge on another.
 
+Now we move onto IR/vibrational spectroscopy. Electronic energy, with a particle in a box model is energy stored as potential energy in excited electronic configurations. Vibrational energy in the harmonic oscillator model is the oscillatory motion of atoms or groups of atoms with a molecule, where kinetic and potential energies are being exchanged.
+
+There are two categories of spectroscopy:
+\begin{itemize}\item \textbf{Absorption}
+\item \textbf{Emission}\begin{itemize}\item fluorescence
+\item phosphorescence \end{itemize} \end{itemize}
+
+
 \textbf{Selection rules: } Spin: $\Delta S=0$, there must be no change in electron spin. Symmetry: the transition between two electronic or vibrational states must involve a change in symmetry. This ensures that there is a net dipole moment that allows the electric field to transfer energy. Either a bond dipole (vibrations) or transition dipole moment (electronic transitions) are involved in enabling coupling of the electric field to the atomic vibrational motions. Mathematically, the $\mu$ is an odd function and for the integral $\int\psi_n\psi_m\mu d\tau$ to be nonvanishing, the argument inside the integral must be even and hence the wave functions must be odd.
 
 \begin{theorem}[Vibrational Modes]
@@ -4996,29 +5004,47 @@ Now we move the discussion onto intermolecular forces, rather than intramolecula
 	$$V=3N-6$$
 	For linear molecules:
 	$$V=3N-5$$
+	Generally, there are three distinct modes of vibrations: 
+	\begin{itemize}\item asymmetric stretch
+	\item symmetric stretch
+	\item bend \end{itemize}
 \end{theorem}
 
-To determine the IR activity of each vibrational mode, we examine whether the vibrational forces on each atom can be cancelled out or not. However, if a molecule has no net dipole moment, no modes are active. Going over the effect of increasing the mass of atoms while maintaining the charges, the absorption wavelength would be longer due to the larger mass lowering frequency. The quantum harmonics' energies follow:
+In infrared spectroscopy we create the model as a vibrating molecule that behaves like two masses joined by a spring. To determine the IR activity of each vibrational mode, we examine whether the vibrational forces on each atom can be cancelled out or not. However, if a molecule has no net dipole moment, no modes are active. Going over the effect of increasing the mass of atoms while maintaining the charges, the absorption wavelength would be longer due to the larger mass lowering frequency. The quantum harmonics' energies and their probability distributions follow:
+\newpage
 \begin{figure}[h!]
 	\begin{center}
 		\includegraphics[width=0.37\linewidth]{Pictures/energy.png}
 	\end{center}
-	\caption{
+	\caption{Energies.
 	}
 \end{figure}
 
-and their probability distributions follow:
 \begin{figure}[h!]
 \begin{center}
 	\includegraphics[width=0.4\linewidth]{Pictures/prob.png}
 \end{center}
-\caption{
+\caption{Probability distributions.
 }
 \end{figure}
+\\
 
 Now we translate to discussion on fluorescence and phosphorescence. In general, fluorescence has much shorter lifetimes, and fluorescence is decay from an excited singlet state (spin conserved transition) to ground singlet state, whereas phosphorescence is decay from an excited triplet state to singlet ground state. This transition is formally forbidden and only occurs weakly due to fluctuation in instantaneous electron distributions that produce fluctuating
 magnetic fields that can couple to the spin to from the singlet state. This is far less probable than
-a spin allowed transition and accounts for the much longer decay time for phosphorescence.
+a spin allowed transition and accounts for the much longer decay time for phosphorescence. 
+
+For more information on singlet and triplet states, a singlet state is in which pairs of electrons have opposing state, and a triplet state is in which pairs of electrons have the same spin. While transition between the two states are forbidden, singlet states can be converted to lower energy triplet states by intersystem crossing (ISC). 
+
+Moreover, the \textbf{Frank-Codon} principle states that when a molecule is undergoing electronic transitions, the nuclear configuration experiences no significant change because nuclei are much bigger than electrons and electronic transition takes place faster than the nuclei can respond. When the nucleus realigns itself with the new electronic configuration, the theory states that it must undergo a vibration.
+
+In summary, there are three possible transitions for excited molecules:
+\begin{itemize}
+	
+\item \textbf{Radiative:} photon is absorbed or emitted, we draw this as solid lines
+\item \textbf{Non-radiative: }energy is transferred between different degrees of freedom of a molecule or to the surroundings, we draw this with wavy vertical lines
+\item \textbf{ISC: }transitions between singlet and triplet state, we draw this with dotted lines
+
+\end{itemize}
 
 \textbf{Absorption and emission of light: }
 \begin{figure}[h!]
@@ -5034,6 +5060,8 @@ This very same mechanism of vibrational relaxation is the reason why absorbance 
 When we apply absorbance principles to different molecules, we need to examine both the $pi$ electron delocalization as well as the geometry. Consider a longer molecule vs a short one. In the longer one, due to the increased length, the spacing between energy levels is less, causing the absorption wavelength to be larger.
 
 Another example is nonpolar organic molecules. Due to the bonding orbitals being filled, the only transition gap is from the bonding to antibonding orbitals, which translates to a huge energy gap and short absorption wavelengths. Conversely, in the ion radicals, since either there is space in bonding orbitals or bonding orbitals have been overfilled into the nonboding orbitals, the transitions are either from bonding to bonding or from nonbonding to nonbonding, hence the energy gap is lower and absorption wavelengths are larger.
+
+\chapter{Statistical Mechanics}
 
 
 
@@ -5061,7 +5089,7 @@ Another example is nonpolar organic molecules. Due to the bonding orbitals being
 \phantomsection
 \setlength{\columnsep}{0.75cm}
 %\addcontentsline{toc}{chapter}{\textcolor{ocre}{Index}}
-\printindex
+%\printindex
 
 %----------------------------------------------------------------------------------------
 \end{document}
