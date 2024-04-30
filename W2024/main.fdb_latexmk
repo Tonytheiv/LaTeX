@@ -1,17 +1,18 @@
 # Fdb version 4
-["biber main"] 1713071675.96762 "main.bcf" "main.bbl" "main" 1713071707.90304 2
-  "main.bcf" 1713071707.44356 108089 1e52d52ee778d62b99d3d892e32ce93d "pdflatex"
+["biber main"] 0 "main.bcf" "main.bbl" "main" 1714093274.21221 -1
+  "bibliography.bib" 1712906770 416 20632f353c7bd1b447b593508e259fab ""
+  "main.bcf" 1714093273.76609 108089 1e52d52ee778d62b99d3d892e32ce93d "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["makeindex main.idx"] 1713070722.54801 "main.idx" "main.ind" "main" 1713071707.89671 0
-  "main.idx" 1713071707.44516 41 c1f48d226b53fd435fa9811e9b4aed1c "pdflatex"
+["makeindex main.idx"] 1714093258.16785 "main.idx" "main.ind" "main" 1714093274.21207 0
+  "main.idx" 1714093273.76776 41 b118796447776945969e7da447e3c6f8 "pdflatex"
   (generated)
   "main.ilg"
   "main.ind"
   (rewritten before read)
-["pdflatex"] 1713071692.63372 "/Users/tonywang/Desktop/LaTeX/W2024/main.tex" "main.pdf" "main" 1713071707.89693 2
+["pdflatex"] 1714093258.54019 "/Users/tonywang/Desktop/LaTeX/W2024/main.tex" "main.pdf" "main" 1714093274.21258 0
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc" 1712892290.54454 4993 1194fb36dfcb11d9ae9802f2b00b60a3 ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagd8r.tfm" 1136790254 4840 6a894dde946186de9a64269f0edd24e5 ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagd8t.tfm" 1136790254 7216 ce159066bacd323ac1e4527281f7a233 ""
@@ -194,7 +195,7 @@
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/calc.sty" 1712892292.52987 10214 547fd4d29642cb7c80bf54b49d447f01 ""
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty" 1712892302.87188 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty" 1712892302.90833 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "/Users/tonywang/Desktop/LaTeX/W2024/main.tex" 1713071675.13908 291873 0678de798446415ebd01c8ef80bc13a0 ""
+  "/Users/tonywang/Desktop/LaTeX/W2024/main.tex" 1714093208.91228 383985 56980ab91c701cf4aac3d5f6fe7b8f70 ""
   "/Users/tonywang/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1713048255.76024 83609 ebbc432e6cbbb238d39535255db2c8bd ""
   "/Users/tonywang/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1095.pk" 1712892515.44496 21972 e900433b955938710a28ba24863b7ae5 ""
   "/Users/tonywang/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/rsfs/rsfs10.tfm" 1712892499.37692 688 37338d6ab346c2f1466b29e195316aa4 ""
@@ -359,12 +360,13 @@
   "Pictures/prob.png" 1713047981.21359 260197 c01e5cc5293567f5450dbb0a32e9b8f4 ""
   "Pictures/radial.png" 1713040261.0326 316763 e89c99b76941eea62826072361756d83 ""
   "Pictures/z.png" 1713040411.61703 156336 d48620b0161a99bfc83392d429df3b07 ""
-  "main.aux" 1713071707.42524 58679 10554f6c0aadbe7ac0d6efd215c12c4f "pdflatex"
-  "main.bbl" 1713071155.90319 0 d41d8cd98f00b204e9800998ecf8427e "biber main"
-  "main.ind" 0 -1 0 "makeindex main.idx"
-  "main.ptc" 1713071707.44536 13329 3c4aee8688b1e0611e3e47a92310b749 "pdflatex"
-  "main.tex" 1713071675.13908 291873 0678de798446415ebd01c8ef80bc13a0 ""
-  "main.toc" 1713071707.44518 13201 838d9b0d90842df0e4f72e88669c0bf3 "pdflatex"
+  "main.aux" 1714093273.74486 68753 a4720cf26d1e892895dcd50ab1508f74 "pdflatex"
+  "main.bbl" 1714091603.21956 0 d41d8cd98f00b204e9800998ecf8427e "biber main"
+  "main.ind" 1714093258.48808 300 fea9f65a16e6a2eeac57e32087eff68e "makeindex main.idx"
+  "main.ptc" 1714093273.76785 17301 0ac611ea59add0392d138c1f2b619b15 "pdflatex"
+  "main.run.xml" 1714093273.76759 2310 47e67dca11311fb26308920abbf39815 "pdflatex"
+  "main.tex" 1714093208.91228 383985 56980ab91c701cf4aac3d5f6fe7b8f70 ""
+  "main.toc" 1714093273.7678 17173 e08cd836aa72a6e55aa3840bf48bd9c2 "pdflatex"
   "structure.tex" 1712894375.98644 19779 440b05ca28df3a044032dca33a7b8ace ""
   (generated)
   "main.aux"

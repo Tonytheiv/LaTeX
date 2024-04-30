@@ -1,9 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.4.11)  14 APR 2024 16:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.4.11)  25 APR 2024 21:00
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**./main.tex
-(main.tex
+**/Users/tonywang/Desktop/LaTeX/W2024/main.tex
+(/Users/tonywang/Desktop/LaTeX/W2024/main.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
 (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/book.cls
@@ -17,8 +18,7 @@ Already applied: [0000/00/00] Make \[ robust on input line 62.
 Applying: [2015/01/01] Make \] robust on input line 74.
 LaTeX Info: Redefining \] on input line 75.
 Already applied: [0000/00/00] Make \] robust on input line 83.
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/bk11.clo
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/bk11.clo
 File: bk11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count188
@@ -33,26 +33,17 @@ File: bk11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen140
-)
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/jk
-nappen/mathrsfs.sty
+) (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/jknappen/mathrsfs.sty
 Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 \symrsfs=\mathgroup4
-) (structure.tex
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ge
-ometry/geometry.sty
+) (structure.tex (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.s
-ty
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/ifvtex.st
-y
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/iftex.sty
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count197
@@ -67,43 +58,24 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen147
 \Gm@layoutvoffset=\dimen148
 \Gm@dimlist=\toks18
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ge
-ometry/geometry.cfg))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx
-.sty
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.cfg)) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics
-.sty
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/grap
-hics.cfg
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdft
-ex.def
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen149
 \Gin@req@width=\dimen150
-)
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/li
-psum/lipsum.sty
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3packages/l3keys
-2e/l3keys2e.sty
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3kernel/expl3.st
-y
+) (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lipsum/lipsum.sty (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3packages/l3keys2e/l3keys2e.sty (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3kernel/expl3.sty
 Package: expl3 2024-03-14 L3 programming layer (loader) 
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backe
-nd-pdftex.def
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count266
 \l__pdf_internal_box=\box51
@@ -114,48 +86,22 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \g__lipsum_par_int=\count267
 \l__lipsum_a_int=\count268
 \l__lipsum_b_int=\count269
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/li
-psum/lipsum.ltd.tex))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/frontendlayer
-/tikz.sty
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/basiclayer/pg
-f.sty
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgf
-rcs.sty
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/p
-gfutil-common.tex
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lipsum/lipsum.ltd.tex)) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/frontendlayer/tikz.sty (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/basiclayer/pgf.sty (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgfrcs.sty (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks19
 \pgfutil@tempdima=\dimen151
 \pgfutil@tempdimb=\dimen152
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/p
-gfutil-latex.def
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box52
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/p
-gfrcs.code.tex
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/pgf.revisio
-n.tex)
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfrcs.code.tex (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/pgf.revision.tex)
 Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 ))
 Package: pgf 2023-01-15 v3.1.10 (3.1.10)
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/basiclayer/pg
-fcore.sty
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/systemlayer/p
-gfsys.sty
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer
-/pgfsys.code.tex
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/basiclayer/pgfcore.sty (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/systemlayer/pgfsys.sty (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/p
-gfkeys.code.tex
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks20
 \pgfkeys@temptoks=\toks21
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/p
-gfkeyslibraryfiltered.code.tex
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks22
 ))
 \pgf@x=\dimen153
@@ -178,42 +124,27 @@ gfkeyslibraryfiltered.code.tex
 \t@pgf@tokb=\toks24
 \t@pgf@tokc=\toks25
 \pgf@sys@id@count=\count274
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer
-/pgf.cfg
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
 Driver file for pgf: pgfsys-pdftex.def
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer
-/pgfsys-pdftex.def
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
 File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer
-/pgfsys-common-pdf.def
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
-)))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer
-/pgfsyssoftpath.code.tex
+))) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfsyssoftpath@smallbuffer@items=\count275
 \pgfsyssoftpath@bigbuffer@items=\count276
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer
-/pgfsysprotocol.code.tex
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty
+)) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/colo
-r.cfg
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolo
-r.ltx)
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
 Package xcolor Info: Model `RGB' extended on input line 1366.
@@ -223,52 +154,18 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcore.code.tex
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-h.code.tex
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-hutil.code.tex)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-hparser.code.tex
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathutil.code.tex) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen163
 \pgfmath@count=\count277
 \pgfmath@box=\box53
 \pgfmath@toks=\toks26
 \pgfmath@stack@operand=\toks27
 \pgfmath@stack@operation=\toks28
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-hfunctions.code.tex)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-hfunctions.basic.code.tex)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-hfunctions.trigonometric.code.tex)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-hfunctions.random.code.tex)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-hfunctions.comparison.code.tex)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-hfunctions.base.code.tex)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-hfunctions.round.code.tex)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-hfunctions.misc.code.tex)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-hfunctions.integerarithmetics.code.tex)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-hcalc.code.tex)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-hfloat.code.tex
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.code.tex) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathcalc.code.tex) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count278
-))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfint
-.code.tex)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcorepoints.code.tex
+)) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfint.code.tex) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@picminx=\dimen164
 \pgf@picmaxx=\dimen165
@@ -284,131 +181,75 @@ File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@yy=\dimen175
 \pgf@zx=\dimen176
 \pgf@zy=\dimen177
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcorepathconstruct.code.tex
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@path@lastx=\dimen178
 \pgf@path@lasty=\dimen179
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcorepathusage.code.tex
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@shorten@end@additional=\dimen180
 \pgf@shorten@start@additional=\dimen181
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcorescopes.code.tex
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box54
 \pgf@hbox=\box55
 \pgf@layerbox@main=\box56
 \pgf@picture@serial@count=\count279
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcoregraphicstate.code.tex
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgflinewidth=\dimen182
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcoretransformations.code.tex
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@pt@x=\dimen183
 \pgf@pt@y=\dimen184
 \pgf@pt@temp=\dimen185
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcorequick.code.tex
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcoreobjects.code.tex
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcorepathprocessing.code.tex
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcorearrows.code.tex
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfarrowsep=\dimen186
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcoreshade.code.tex
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@max=\dimen187
 \pgf@sys@shading@range@num=\count280
 \pgf@shadingcount=\count281
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcoreimage.code.tex
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcoreexternal.code.tex
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfexternal@startupbox=\box57
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcorelayers.code.tex
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcoretransparency.code.tex
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcorepatterns.code.tex
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/
-pgfcorerdf.code.tex
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/modules/pgf
-moduleshapes.code.tex
+))) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfnodeparttextbox=\box58
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/modules/pgf
-moduleplot.code.tex
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/compatibility
-/pgfcomp-version-0-65.sty
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
 \pgf@nodesepstart=\dimen188
 \pgf@nodesepend=\dimen189
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/compatibility
-/pgfcomp-version-1-18.sty
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
-))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgf
-for.sty
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgf
-keys.sty
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/p
-gfkeys.code.tex))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/math/pgfmath.
-sty
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmat
-h.code.tex))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/p
-gffor.code.tex
+)) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgffor.sty (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgfkeys.sty (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/math/pgfmath.sty (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex)) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
 \pgffor@iter=\dimen190
 \pgffor@skip=\dimen191
 \pgffor@stack=\toks29
 \pgffor@toks=\toks30
-))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlay
-er/tikz/tikz.code.tex
+)) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/p
-gflibraryplothandlers.code.tex
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@plot@mark@count=\count282
 \pgfplotmarksize=\dimen192
@@ -429,50 +270,35 @@ File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikznumberofchildren=\count284
 \tikznumberofcurrentchild=\count285
 \tikz@fig@count=\count286
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/modules/pgf
-modulematrix.code.tex
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfmatrixcurrentrow=\count287
 \pgfmatrixcurrentcolumn=\count288
 \pgf@matrix@numberofcolumns=\count289
 )
 \tikz@expandcount=\count290
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlay
-er/tikz/libraries/tikzlibrarytopaths.code.tex
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/babel.sty
+))) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/babel.sty
 Package: babel 2024/02/07 v24.2 The Babel package
 \babel@savecnt=\count291
 \U@D=\dimen257
 \l@unhyphenated=\language1
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/txtbabel.
-def)
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read3
 \bbl@dirlevel=\count292
 
 *************************************
 * Local config file bblopts.cfg used
 *
-
 (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/arabi/bblopts.cfg
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/babel-english/eng
-lish.ldf
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
-))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/locale/en
-/babel-english.tex
+)) (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/locale/en/babel-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
-)
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/en
-umitem/enumitem.sty
+) (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip51
 \enit@outerparindent=\dimen258
@@ -480,9 +306,7 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@inbox=\box63
 \enit@count@id=\count293
 \enitdp@description=\count294
-)
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bo
-oktabs/booktabs.sty
+) (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen259
 \lightrulewidth=\dimen260
@@ -501,13 +325,9 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count297
 \@lastruleclass=\count298
 \@thisrulewidth=\dimen271
-)
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ps
-nfss/avant.sty
+) (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/avant.sty
 Package: avant 2020/03/25 PSNFSS-v9.3 (SPQR) 
-)
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ps
-nfss/mathptmx.sty
+) (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/mathptmx.sty
 Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -542,13 +362,9 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
 LaTeX Info: Redefining \hbar on input line 50.
-)
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mi
-crotype/microtype.sty
+) (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/microtype.sty
 Package: microtype 2024/03/29 v3.1b Micro-typographical refinements (RS)
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/etoolbox/etoolbox
-.sty
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count299
 )
@@ -563,41 +379,27 @@ LaTeX Info: Redefining \textls on input line 1392.
 \MT@outer@kern=\dimen272
 LaTeX Info: Redefining \textmicrotypecontext on input line 2013.
 \MT@listname@count=\count301
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mi
-crotype/microtype-pdftex.def
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2024/03/29 v3.1b Definitions specific to pdftex (RS)
-
 LaTeX Info: Redefining \lsstyle on input line 902.
 LaTeX Info: Redefining \lslig on input line 902.
 \MT@outer@space=\skip52
 )
 Package microtype Info: Loading configuration file microtype.cfg.
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mi
-crotype/microtype.cfg
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2024/03/29 v3.1b microtype main configuration file (RS)
-))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
+)) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks34
 \inpenc@posthook=\toks35
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/fontenc.sty
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 11
-2.
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ps
-nfss/t1ptm.fd
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 112.
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
-))
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ca
-ption/caption.sty
+)) (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ca
-ption/caption3.sty
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen273
 \captionmargin=\dimen274
@@ -611,17 +413,13 @@ Package caption Info: Standard document class detected.
 )
 \c@caption@flags=\count302
 \c@continuedfloat=\count303
-)
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ca
-ption/subcaption.sty
+) (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
 Package caption Info: New subtype `subfigure' on input line 238.
 \c@subfigure=\count304
 Package caption Info: New subtype `subtable' on input line 238.
 \c@subtable=\count305
-)
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cs
-quotes/csquotes.sty
+) (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
 \csq@reset=\count306
 \csq@gtype=\count307
@@ -630,60 +428,37 @@ Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
 \csq@maxlvl=\count310
 \csq@tshold=\count311
 \csq@ltx@everypar=\toks36
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cs
-quotes/csquotes.def
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cs
-quotes/csquotes.cfg
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
-))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/biblatex
-.sty
+)) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdftexcmds/pdft
-excmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
-infwarerr/infwarerr.sty
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
-ltxcmds/ltxcmds.sty
+) (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kv
-options/kvoptions.sty
+) (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kv
-setkeys/kvsetkeys.sty
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-))
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lo
-greq/logreq.sty
+)) (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count312
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lo
-greq/logreq.def
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ifthen.sty
+)) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -746,9 +521,7 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \c@mincompwidth=\count358
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/blx-dm.d
-ef
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/blx-dm.def
 File: blx-dm.def 2024/03/21 v3.20 biblatex datamodel (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
@@ -839,16 +612,12 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \localshorteditorwidth=\skip74
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/blx-comp
-at.def
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/blx-compat.def
 File: blx-compat.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/biblatex
-.def
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
 \c@textcitecount=\count427
 \c@textcitetotal=\count428
@@ -866,24 +635,18 @@ File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load bibliography style 'alphabetic'...
 Package biblatex Info: ... file 'alphabetic.bbx' found.
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/bbx/alph
-abetic.bbx
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/bbx/alphabetic.bbx
 File: alphabetic.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/bbx/stan
-dard.bbx
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count436
 \c@bbx:relatedtotal=\count437
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/cbx/nume
-ric.cbx
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/cbx/numeric.cbx
 File: numeric.cbx 2024/03/21 v3.20 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
@@ -899,9 +662,7 @@ Package biblatex Info: Redefining '\smartcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/biblatex
-.cfg
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 )
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -910,16 +671,11 @@ Package biblatex Info: ... and expl3
 (biblatex)             2024-03-14 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/blx-case
--expl3.sty
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3packages/xparse
-/xparse.sty
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/blx-case-expl3.sty (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2024-03-14 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
-))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/calc.sty
+)) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/calc.sty
 Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count438
 \calc@Bcount=\count439
@@ -931,24 +687,19 @@ LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count440
 \calc@Cskip=\skip77
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/makeidx.sty
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/makeidx.sty
 Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
 )
 \@indexfile=\write5
 \openout5 = `main.idx'.
 
-Writing index file main.idx
 
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ti
-tlesec/titletoc.sty
+Writing index file main.idx
+(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/titlesec/titletoc.sty
 Package: titletoc 2023/10/27 v2.16 TOC entries
 \ttl@leftsep=\dimen283
-)
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fa
-ncyhdr/fancyhdr.sty
+) (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
-
 \f@nch@headwidth=\skip78
 \f@nch@O@elh=\skip79
 \f@nch@O@erh=\skip80
@@ -958,31 +709,21 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@erf=\skip84
 \f@nch@O@olf=\skip85
 \f@nch@O@orf=\skip86
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.s
-ty
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2023/05/13 v2.17o AMS math features
 \@mathmargin=\skip87
 
 For additional information on amsmath, use the `?' option.
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.s
-ty
+(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.st
-y
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks37
 \ex@=\dimen284
-))
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.st
-y
+)) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen285
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.st
-y
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count441
@@ -1032,21 +773,15 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \mathdisplay@stack=\toks41
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts
-.sty
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup7
 \symAMSb=\mathgroup8
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.
-sty
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-)
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/am
-scls/amsthm.sty
+) (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks42
 \thm@bodyfont=\toks43
@@ -1065,29 +800,17 @@ Package: amsthm 2020/05/29 v2.20.6
 \c@exampleT=\count457
 \c@vocabulary=\count458
 \c@definitionT=\count459
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/md
-framed/mdframed.sty
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mdframed/mdframed.sty
 Package: mdframed 2013/07/01 1.9b: mdframed
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/zr
-ef/zref-abspage.sty
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/zref/zref-abspage.sty
 Package: zref-abspage 2023-09-14 v2.35 Module abspage for zref (HO)
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/zr
-ef/zref-base.sty
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/zref/zref-base.sty
 Package: zref-base 2023-09-14 v2.35 Module base for zref (HO)
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
-kvdefinekeys/kvdefinekeys.sty
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
-etexcmds/etexcmds.sty
+) (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
-)
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/au
-xhook/auxhook.sty
+) (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 Package zref Info: New property list: main on input line 767.
@@ -1096,9 +819,7 @@ Package zref Info: New property: page on input line 769.
 )
 \c@abspage=\count460
 Package zref Info: New property: abspage on input line 67.
-)
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ne
-edspace/needspace.sty
+) (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/needspace/needspace.sty
 Package: needspace 2010/09/12 v1.3d reserve vertical space
 )
 \mdf@templength=\skip93
@@ -1142,9 +863,7 @@ Package: needspace 2010/09/12 v1.3d reserve vertical space
 \mdf@subsubtitlebelowskip@length=\skip130
 \mdf@subsubtitleinneraboveskip@length=\skip131
 \mdf@subsubtitleinnerbelowskip@length=\skip132
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/md
-framed/md-frame-0.mdf
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mdframed/md-frame-0.mdf
 File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 )
 \mdf@frametitlebox=\box67
@@ -1193,29 +912,17 @@ Package zref Info: New property: mdf@pagevalue on input line 895.
 )
 \esp=\skip160
 \ecart=\skip161
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hyperref
-.sty
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
-pdfescape/pdfescape.sty
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-)
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hy
-color/hycolor.sty
+) (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.
-sty
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
 Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/re
-fcount/refcount.sty
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
-gettitlestring/gettitlestring.sty
+) (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count467
@@ -1223,21 +930,15 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 \@linkdim=\dimen293
 \Hy@linkcounter=\count468
 \Hy@pagecounter=\count469
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/pd1enc.d
-ef
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-)
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
-intcalc/intcalc.sty
+) (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count470
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/puenc.de
-f
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/puenc.def
 File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -1252,15 +953,10 @@ Package hyperref Info: Bookmarks ON on input line 4446.
 \c@Hy@tempcnt=\count471
 LaTeX Info: Redefining \url on input line 4784.
 \XeTeXLinkMargin=\dimen294
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
-bitset/bitset.sty
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
-bigintcalc/bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
-)
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count472
 \Field@Width=\dimen295
@@ -1272,9 +968,7 @@ Package hyperref Info: backreferencing OFF on input line 6078.
 Package hyperref Info: Link coloring OFF on input line 6083.
 Package hyperref Info: Link coloring with OCG OFF on input line 6088.
 Package hyperref Info: PDF/A mode OFF on input line 6093.
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/atbegshi-ltx
-.sty
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
@@ -1283,46 +977,31 @@ package with kernel methods
 \c@Hfootnote=\count475
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hpdftex.
-def
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2024-01-20 v7.01h Hyperref driver for pdfTeX
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/atveryend-lt
-x.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
-kage
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
 \HyAnn@Count=\count476
 \Fld@listcount=\count477
 \c@bookmark@seq@number=\count478
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/re
-runfilecheck/rerunfilecheck.sty
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
-uniquecounter/uniquecounter.sty
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-85.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
 \Hy@SectionHShift=\skip162
 )
 Package hyperref Info: Option `colorlinks' set `false' on input line 485.
 Package hyperref Info: Option `breaklinks' set `true' on input line 485.
 Package hyperref Info: Option `bookmarksopen' set `false' on input line 485.
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bo
-okmark/bookmark.sty
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bo
-okmark/bkm-pdftex.def
-File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
-)
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bookmark/bkm-pdftex.def
+File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
 \BKM@id=\count479
 )))
 Package csquotes Info: Checking for multilingual support...
@@ -1385,9 +1064,7 @@ LaTeX Font Info:    ... okay on input line 5.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-
-pdf.mkii
+(/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count480
 \scratchdimen=\dimen297
@@ -1400,15 +1077,10 @@ pdf.mkii
 \MPnumerator=\count484
 \makeMPintoPDFobject=\count485
 \everyMPtoPDFconversion=\toks49
-)
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epst
-opdf-base.sty
+) (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf
--sys.cfg
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 LaTeX Info: Redefining \microtypecontext on input line 5.
@@ -1427,9 +1099,7 @@ LaTeX Info: Redefining \showhyphens on input line 5.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mi
-crotype/mt-ptm.cfg
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
 Package caption Info: Begin \AtBeginDocument code.
@@ -1437,9 +1107,7 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
-
-(/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/lbx/engl
-ish.lbx
+ (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
 )
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -1458,11 +1126,8 @@ File: Pictures/background.pdf Graphic file (type pdf)
 <use Pictures/background.pdf>
 Package pdftex.def Info: Pictures/background.pdf  used on input line 13.
 (pdftex.def)             Requested size: 614.295pt x 878.23988pt.
-LaTeX Font Info:    Trying to load font information for T1+pag on input line 14
-.
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ps
-nfss/t1pag.fd
+LaTeX Font Info:    Trying to load font information for T1+pag on input line 14.
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/t1pag.fd
 File: t1pag.fd 2001/06/04 font definitions for T1/pag.
 )
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <24.88> not available
@@ -1473,50 +1138,32 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <14.4> not available
 (Font)              Font shape `T1/pag/db/n' tried instead on input line 15.
-LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 15.
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ps
-nfss/ot1ztmcm.fd
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 15.
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `ztmcm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 15.
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ps
-nfss/omlztmcm.fd
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 15.
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 15.
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ps
-nfss/omsztmcm.fd
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 15.
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 15.
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ps
-nfss/omxztmcm.fd
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 15.
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 15
-.
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/jk
-nappen/ursfs.fd
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 15.
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/jknappen/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
-5.
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ps
-nfss/ot1ptm.fd
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 15.
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
@@ -1525,23 +1172,15 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mi
-crotype/mt-msa.cfg
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mi
-crotype/mt-msb.cfg
+) (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ) [1
 
-{/Users/tonywang/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdfte
-x/pdftex.map} <./Pictures/background.pdf>]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
-7.
-
-(/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ps
-nfss/ts1ptm.fd
+{/Users/tonywang/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map} <./Pictures/background.pdf>]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 27.
+ (/Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 Underfull \hbox (badness 10000) in paragraph at lines 27--28
@@ -1558,8 +1197,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
  []
 
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 3
-3.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 33.
 (/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
@@ -1575,8 +1213,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
 
 Overfull \hbox (7.3868pt too wide) in paragraph at lines 33--34
-\T1/ptm/m/n/10.95 (-20) Licensed under the Creative Commons Attribution-NonComm
-ercial 3.0 Unported License (the ``License'').
+\T1/ptm/m/n/10.95 (-20) Licensed under the Creative Commons Attribution-NonCommercial 3.0 Unported License (the ``License'').
  []
 
 
@@ -1605,22 +1242,22 @@ LaTeX Font Info:    Font shape `T1/pag/b/n' in size <10.95> not available
 (Font)              Font shape `T1/pag/db/n' tried instead on input line 3.
  [3
 
- <./Pictures/chapter_head_1.pdf>] [4] [5])
+ <./Pictures/chapter_head_1.pdf>] [4] [5] [6])
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
- [6]
+ [7] [8
+
+]
 \c@ttl@toc@default=\count486
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <220> not available
 (Font)              Font shape `T1/pag/db/n' tried instead on input line 48.
  (main.ptc)
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <30> not available
 (Font)              Font shape `T1/pag/db/n' tried instead on input line 48.
+ [9
 
-[7
-
-
-] [8]
+] [10]
 Chapter 1.
 File: Pictures/chapter_head_1.pdf Graphic file (type pdf)
 <use Pictures/chapter_head_1.pdf>
@@ -1632,13 +1269,12 @@ Package mdframed Info: mdframed detected package amsthm
 (mdframed)              on input line 52.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <10> not available
 (Font)              Font shape `T1/pag/db/n' tried instead on input line 52.
-<Pictures/Screenshot 2024-02-25 175821.png, id=453, 876.77562pt x 525.46312pt>
+<Pictures/Screenshot 2024-02-25 175821.png, id=596, 876.77562pt x 525.46312pt>
 File: Pictures/Screenshot 2024-02-25 175821.png Graphic file (type png)
 <use Pictures/Screenshot 2024-02-25 175821.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-02-25 175821.png  used on inp
-ut line 83.
+Package pdftex.def Info: Pictures/Screenshot 2024-02-25 175821.png  used on input line 83.
 (pdftex.def)             Requested size: 288.32329pt x 172.794pt.
-[9
+[11
 
 ]
 Package mdframed Info: mdframed works in twoside mode on input line 85.
@@ -1651,12 +1287,11 @@ Package mdframed Info: mdframed works in twoside mode on input line 94.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 94.
- [10 <./Pictures/Screenshot 2024-02-25 175821.png>]
-<Pictures/Screenshot 2024-02-25 182833.png, id=480, 421.07312pt x 333.74687pt>
+ [12 <./Pictures/Screenshot 2024-02-25 175821.png>]
+<Pictures/Screenshot 2024-02-25 182833.png, id=623, 421.07312pt x 333.74687pt>
 File: Pictures/Screenshot 2024-02-25 182833.png Graphic file (type png)
 <use Pictures/Screenshot 2024-02-25 182833.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-02-25 182833.png  used on inp
-ut line 123.
+Package pdftex.def Info: Pictures/Screenshot 2024-02-25 182833.png  used on input line 123.
 (pdftex.def)             Requested size: 288.32329pt x 228.52866pt.
 Package mdframed Info: mdframed works in twoside mode on input line 141.
 Package mdframed Info: mdframed detected package amsthm 
@@ -1666,15 +1301,13 @@ Package mdframed Info: mdframed works in twoside mode on input line 149.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 149.
- [11 <./Pictures/Screenshot 2024-02-25 182833.png>]
-<Pictures/Screenshot 2024-02-25 185241.png, id=495, 480.29437pt x 402.50375pt>
+ [13 <./Pictures/Screenshot 2024-02-25 182833.png>]
+<Pictures/Screenshot 2024-02-25 185241.png, id=639, 480.29437pt x 402.50375pt>
 File: Pictures/Screenshot 2024-02-25 185241.png Graphic file (type png)
 <use Pictures/Screenshot 2024-02-25 185241.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-02-25 185241.png  used on inp
-ut line 193.
+Package pdftex.def Info: Pictures/Screenshot 2024-02-25 185241.png  used on input line 193.
 (pdftex.def)             Requested size: 288.32329pt x 241.62694pt.
- [12 <./Pictures/Screenshot 2024-02-25 185241.png>]
-[13]
+ [14 <./Pictures/Screenshot 2024-02-25 185241.png>] [15]
 Package mdframed Info: mdframed works in twoside mode on input line 269.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
@@ -1687,38 +1320,35 @@ Package mdframed Info: mdframed works in twoside mode on input line 285.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 285.
- [14]
+ [16]
 Chapter 2.
 File: Pictures/chapter_head_1.pdf Graphic file (type pdf)
 <use Pictures/chapter_head_1.pdf>
 Package pdftex.def Info: Pictures/chapter_head_1.pdf  used on input line 294.
 (pdftex.def)             Requested size: 614.295pt x 307.17496pt.
-<Pictures/Screenshot 2024-02-25 191455.png, id=526, 713.16437pt x 409.53pt>
+<Pictures/Screenshot 2024-02-25 191455.png, id=669, 713.16437pt x 409.53pt>
 File: Pictures/Screenshot 2024-02-25 191455.png Graphic file (type png)
 <use Pictures/Screenshot 2024-02-25 191455.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-02-25 191455.png  used on inp
-ut line 303.
+Package pdftex.def Info: Pictures/Screenshot 2024-02-25 191455.png  used on input line 303.
 (pdftex.def)             Requested size: 288.32329pt x 165.56503pt.
-[15
+[17
 
  <./Pictures/Screenshot 2024-02-25 191455.png>]
-<Pictures/Screenshot 2024-02-25 205202.png, id=532, 583.17876pt x 364.36125pt>
+<Pictures/Screenshot 2024-02-25 205202.png, id=675, 583.17876pt x 364.36125pt>
 File: Pictures/Screenshot 2024-02-25 205202.png Graphic file (type png)
 <use Pictures/Screenshot 2024-02-25 205202.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-02-25 205202.png  used on inp
-ut line 340.
+Package pdftex.def Info: Pictures/Screenshot 2024-02-25 205202.png  used on input line 340.
 (pdftex.def)             Requested size: 288.32329pt x 180.14532pt.
- [16 <./Pictures/Screenshot 2024-02-25 205202.png>]
-<Pictures/Screenshot 2024-02-25 211519.png, id=543, 659.96562pt x 390.96063pt>
+ [18 <./Pictures/Screenshot 2024-02-25 205202.png>]
+<Pictures/Screenshot 2024-02-25 211519.png, id=686, 659.96562pt x 390.96063pt>
 File: Pictures/Screenshot 2024-02-25 211519.png Graphic file (type png)
 <use Pictures/Screenshot 2024-02-25 211519.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-02-25 211519.png  used on inp
-ut line 406.
+Package pdftex.def Info: Pictures/Screenshot 2024-02-25 211519.png  used on input line 406.
 (pdftex.def)             Requested size: 270.52968pt x 160.26506pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [17]
+ [19]
 Package mdframed Info: mdframed works in twoside mode on input line 408.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
@@ -1731,15 +1361,13 @@ Package mdframed Info: mdframed works in twoside mode on input line 424.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 424.
-
-[18 <./Pictures/Screenshot 2024-02-25 211519.png>]
-<Pictures/Screenshot 2024-02-25 214256.png, id=576, 644.4075pt x 452.18938pt>
+ [20 <./Pictures/Screenshot 2024-02-25 211519.png>]
+<Pictures/Screenshot 2024-02-25 214256.png, id=720, 644.4075pt x 452.18938pt>
 File: Pictures/Screenshot 2024-02-25 214256.png Graphic file (type png)
 <use Pictures/Screenshot 2024-02-25 214256.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-02-25 214256.png  used on inp
-ut line 483.
+Package pdftex.def Info: Pictures/Screenshot 2024-02-25 214256.png  used on input line 483.
 (pdftex.def)             Requested size: 288.32329pt x 202.32416pt.
- [19 <./Pictures/Screenshot 2024-02-25 214256.png>]
+ [21 <./Pictures/Screenshot 2024-02-25 214256.png>]
 Package mdframed Info: mdframed works in twoside mode on input line 508.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
@@ -1750,96 +1378,81 @@ Package mdframed Info: mdframed detected package amsthm
 (mdframed)              on input line 523.
 
 Overfull \hbox (3.55338pt too wide) in paragraph at lines 535--536
-\T1/ptm/b/n/10.95 (-20) Membrane potential: \T1/ptm/m/n/10.95 (-20) potential d
-ifference across a cell membrane that accounts for ion concentrations
+\T1/ptm/b/n/10.95 (-20) Membrane potential: \T1/ptm/m/n/10.95 (-20) potential difference across a cell membrane that accounts for ion concentrations
  []
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 538.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 538.
-[20]
-<Pictures/Screenshot 2024-02-25 220308.png, id=601, 696.6025pt x 524.45938pt>
+[22]
+<Pictures/Screenshot 2024-02-25 220308.png, id=744, 696.6025pt x 524.45938pt>
 File: Pictures/Screenshot 2024-02-25 220308.png Graphic file (type png)
 <use Pictures/Screenshot 2024-02-25 220308.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-02-25 220308.png  used on inp
-ut line 551.
+Package pdftex.def Info: Pictures/Screenshot 2024-02-25 220308.png  used on input line 551.
 (pdftex.def)             Requested size: 288.32329pt x 217.07039pt.
-<Pictures/Screenshot 2024-02-25 222320.png, id=602, 691.58376pt x 523.9575pt>
+<Pictures/Screenshot 2024-02-25 222320.png, id=745, 691.58376pt x 523.9575pt>
 File: Pictures/Screenshot 2024-02-25 222320.png Graphic file (type png)
 <use Pictures/Screenshot 2024-02-25 222320.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-02-25 222320.png  used on inp
-ut line 552.
+Package pdftex.def Info: Pictures/Screenshot 2024-02-25 222320.png  used on input line 552.
 (pdftex.def)             Requested size: 288.32329pt x 218.43767pt.
 Package mdframed Info: mdframed works in twoside mode on input line 555.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 555.
- [21 <./Pictures/Screenshot 2024-02-25 220308.png> <./Pictures/Screenshot 2024-
-02-25 222320.png>]
-<Pictures/Screenshot 2024-02-25 223612.png, id=612, 646.415pt x 409.53pt>
+ [23 <./Pictures/Screenshot 2024-02-25 220308.png> <./Pictures/Screenshot 2024-02-25 222320.png>]
+<Pictures/Screenshot 2024-02-25 223612.png, id=755, 646.415pt x 409.53pt>
 File: Pictures/Screenshot 2024-02-25 223612.png Graphic file (type png)
 <use Pictures/Screenshot 2024-02-25 223612.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-02-25 223612.png  used on inp
-ut line 573.
+Package pdftex.def Info: Pictures/Screenshot 2024-02-25 223612.png  used on input line 573.
 (pdftex.def)             Requested size: 288.32329pt x 182.66206pt.
-<Pictures/Screenshot 2024-02-25 224731.png, id=613, 663.98062pt x 487.32062pt>
+<Pictures/Screenshot 2024-02-25 224731.png, id=756, 663.98062pt x 487.32062pt>
 File: Pictures/Screenshot 2024-02-25 224731.png Graphic file (type png)
 <use Pictures/Screenshot 2024-02-25 224731.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-02-25 224731.png  used on inp
-ut line 605.
+Package pdftex.def Info: Pictures/Screenshot 2024-02-25 224731.png  used on input line 605.
 (pdftex.def)             Requested size: 288.32329pt x 211.61096pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [22 <./Pictures/Screenshot 2024-02-25 223612.png>]
-<Pictures/Screenshot 2024-02-26 003521.png, id=619, 674.01813pt x 519.9425pt>
+ [24 <./Pictures/Screenshot 2024-02-25 223612.png>]
+<Pictures/Screenshot 2024-02-26 003521.png, id=762, 674.01813pt x 519.9425pt>
 File: Pictures/Screenshot 2024-02-26 003521.png Graphic file (type png)
 <use Pictures/Screenshot 2024-02-26 003521.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-02-26 003521.png  used on inp
-ut line 631.
+Package pdftex.def Info: Pictures/Screenshot 2024-02-26 003521.png  used on input line 631.
 (pdftex.def)             Requested size: 288.32329pt x 222.4126pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23 <./Pictures/Screenshot 2024-02-25 224731.png>] [24 <./Pictures/Screenshot 
-2024-02-26 003521.png>]
-<Pictures/Screenshot 2024-02-26 005340.png, id=632, 682.04813pt x 533.49312pt>
+ [25 <./Pictures/Screenshot 2024-02-25 224731.png>] [26 <./Pictures/Screenshot 2024-02-26 003521.png>]
+<Pictures/Screenshot 2024-02-26 005340.png, id=776, 682.04813pt x 533.49312pt>
 File: Pictures/Screenshot 2024-02-26 005340.png Graphic file (type png)
 <use Pictures/Screenshot 2024-02-26 005340.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-02-26 005340.png  used on inp
-ut line 735.
+Package pdftex.def Info: Pictures/Screenshot 2024-02-26 005340.png  used on input line 735.
 (pdftex.def)             Requested size: 288.32329pt x 225.52272pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [25]
-<Pictures/Screenshot 2024-02-26 011050.png, id=638, 710.655pt x 316.68312pt>
+ [27]
+<Pictures/Screenshot 2024-02-26 011050.png, id=781, 710.655pt x 316.68312pt>
 File: Pictures/Screenshot 2024-02-26 011050.png Graphic file (type png)
 <use Pictures/Screenshot 2024-02-26 011050.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-02-26 011050.png  used on inp
-ut line 757.
+Package pdftex.def Info: Pictures/Screenshot 2024-02-26 011050.png  used on input line 757.
 (pdftex.def)             Requested size: 288.32329pt x 128.4879pt.
-<Pictures/Screenshot 2024-02-26 011404.png, id=639, 702.625pt x 522.45187pt>
+<Pictures/Screenshot 2024-02-26 011404.png, id=782, 702.625pt x 522.45187pt>
 File: Pictures/Screenshot 2024-02-26 011404.png Graphic file (type png)
 <use Pictures/Screenshot 2024-02-26 011404.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-02-26 011404.png  used on inp
-ut line 760.
+Package pdftex.def Info: Pictures/Screenshot 2024-02-26 011404.png  used on input line 760.
 (pdftex.def)             Requested size: 288.32329pt x 214.39pt.
-
-[26 <./Pictures/Screenshot 2024-02-26 005340.png> <./Pictures/Screenshot 2024-0
-2-26 011050.png>]
-<Pictures/Screenshot 2024-03-06 175455.png, id=647, 593.96906pt x 497.60907pt>
+ [28 <./Pictures/Screenshot 2024-02-26 005340.png> <./Pictures/Screenshot 2024-02-26 011050.png>]
+<Pictures/Screenshot 2024-03-06 175455.png, id=790, 593.96906pt x 497.60907pt>
 File: Pictures/Screenshot 2024-03-06 175455.png Graphic file (type png)
 <use Pictures/Screenshot 2024-03-06 175455.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-03-06 175455.png  used on inp
-ut line 770.
+Package pdftex.def Info: Pictures/Screenshot 2024-03-06 175455.png  used on input line 770.
 (pdftex.def)             Requested size: 60.0pt x 50.26494pt.
-<Pictures/Screenshot 2024-03-06 175510.png, id=648, 559.33969pt x 472.01344pt>
+<Pictures/Screenshot 2024-03-06 175510.png, id=791, 559.33969pt x 472.01344pt>
 File: Pictures/Screenshot 2024-03-06 175510.png Graphic file (type png)
 <use Pictures/Screenshot 2024-03-06 175510.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-03-06 175510.png  used on inp
-ut line 771.
+Package pdftex.def Info: Pictures/Screenshot 2024-03-06 175510.png  used on input line 771.
 (pdftex.def)             Requested size: 60.0pt x 50.63242pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 776--778
@@ -1848,30 +1461,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 776--778
 
 
 Overfull \hbox (5.463pt too wide) in paragraph at lines 781--782
-[]\T1/ptm/m/n/10.95 (-20) Inhibitory neuron synapse at \T1/ptm/b/n/10.95 (-20) 
-axon terminal \T1/ptm/m/n/10.95 (-20) of presynaptic neuron indirectly inhibits
- depolarization
+[]\T1/ptm/m/n/10.95 (-20) Inhibitory neuron synapse at \T1/ptm/b/n/10.95 (-20) axon terminal \T1/ptm/m/n/10.95 (-20) of presynaptic neuron indirectly inhibits depolarization
  []
 
-[27 <./Pictures/Screenshot 2024-02-26 011404.png> <./Pictures/Screenshot 2024-0
-3-06 175455.png> <./Pictures/Screenshot 2024-03-06 175510.png>] [28]
+[29 <./Pictures/Screenshot 2024-02-26 011404.png> <./Pictures/Screenshot 2024-03-06 175455.png> <./Pictures/Screenshot 2024-03-06 175510.png>] [30]
 Chapter 3.
 File: Pictures/chapter_head_1.pdf Graphic file (type pdf)
 <use Pictures/chapter_head_1.pdf>
 Package pdftex.def Info: Pictures/chapter_head_1.pdf  used on input line 787.
 (pdftex.def)             Requested size: 614.295pt x 307.17496pt.
-<Pictures/Screenshot 2024-03-06 201615.png, id=660, 1011.02719pt x 684.30656pt>
-
+<Pictures/Screenshot 2024-03-06 201615.png, id=803, 1011.02719pt x 684.30656pt>
 File: Pictures/Screenshot 2024-03-06 201615.png Graphic file (type png)
 <use Pictures/Screenshot 2024-03-06 201615.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-03-06 201615.png  used on inp
-ut line 793.
+Package pdftex.def Info: Pictures/Screenshot 2024-03-06 201615.png  used on input line 793.
 (pdftex.def)             Requested size: 288.32329pt x 195.14426pt.
 Package mdframed Info: mdframed works in twoside mode on input line 795.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 795.
-[29
+[31
 
  <./Pictures/Screenshot 2024-03-06 201615.png>]
 Package mdframed Info: mdframed works in twoside mode on input line 806.
@@ -1882,200 +1490,161 @@ Package mdframed Info: mdframed works in twoside mode on input line 811.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 811.
-<Pictures/Screenshot 2024-03-06 192802.png, id=669, 990.70125pt x 532.99126pt>
+<Pictures/Screenshot 2024-03-06 192802.png, id=813, 990.70125pt x 532.99126pt>
 File: Pictures/Screenshot 2024-03-06 192802.png Graphic file (type png)
 <use Pictures/Screenshot 2024-03-06 192802.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-03-06 192802.png  used on inp
-ut line 827.
+Package pdftex.def Info: Pictures/Screenshot 2024-03-06 192802.png  used on input line 827.
 (pdftex.def)             Requested size: 288.32329pt x 155.11653pt.
-<Pictures/Screenshot 2024-03-06 193004.png, id=670, 953.06062pt x 434.37282pt>
+<Pictures/Screenshot 2024-03-06 193004.png, id=814, 953.06062pt x 434.37282pt>
 File: Pictures/Screenshot 2024-03-06 193004.png Graphic file (type png)
 <use Pictures/Screenshot 2024-03-06 193004.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-03-06 193004.png  used on inp
-ut line 831.
+Package pdftex.def Info: Pictures/Screenshot 2024-03-06 193004.png  used on input line 831.
 (pdftex.def)             Requested size: 288.32329pt x 131.40646pt.
 
 Underfull \vbox (badness 4531) has occurred while \output is active []
 
- [30 <./Pictures/Screenshot 2024-03-06 192802.png>]
-<Pictures/Screenshot 2024-03-06 193746.png, id=682, 537.50812pt x 467.49657pt>
+ [32 <./Pictures/Screenshot 2024-03-06 192802.png>]
+<Pictures/Screenshot 2024-03-06 193746.png, id=826, 537.50812pt x 467.49657pt>
 File: Pictures/Screenshot 2024-03-06 193746.png Graphic file (type png)
 <use Pictures/Screenshot 2024-03-06 193746.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-03-06 193746.png  used on inp
-ut line 865.
+Package pdftex.def Info: Pictures/Screenshot 2024-03-06 193746.png  used on input line 865.
 (pdftex.def)             Requested size: 288.32329pt x 250.76804pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [31 <./Pictures/Screenshot 2024-03-06 193004.png>]
-<Pictures/Screenshot 2024-03-06 194015.png, id=689, 1060.71281pt x 629.35126pt>
-
+ [33 <./Pictures/Screenshot 2024-03-06 193004.png>]
+<Pictures/Screenshot 2024-03-06 194015.png, id=832, 1060.71281pt x 629.35126pt>
 File: Pictures/Screenshot 2024-03-06 194015.png Graphic file (type png)
 <use Pictures/Screenshot 2024-03-06 194015.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-03-06 194015.png  used on inp
-ut line 872.
+Package pdftex.def Info: Pictures/Screenshot 2024-03-06 194015.png  used on input line 872.
 (pdftex.def)             Requested size: 288.32329pt x 171.06987pt.
- [32 <./Pictures/Screenshot 2024-03-06 193746.png> <./Pictures/Screenshot 2024-
-03-06 194015.png>]
+ [34 <./Pictures/Screenshot 2024-03-06 193746.png> <./Pictures/Screenshot 2024-03-06 194015.png>]
 Overfull \hbox (12.57094pt too wide) in paragraph at lines 928--929
-\T1/ptm/m/n/10.95 (-20) neurons synapse with postganglionic neurons. They also 
-contain connective tissue (structure/protect),
+\T1/ptm/m/n/10.95 (-20) neurons synapse with postganglionic neurons. They also contain connective tissue (structure/protect),
  []
 
-<Pictures/Screenshot 2024-03-06 202747.png, id=698, 606.01407pt x 316.18124pt>
+<Pictures/Screenshot 2024-03-06 202747.png, id=841, 606.01407pt x 316.18124pt>
 File: Pictures/Screenshot 2024-03-06 202747.png Graphic file (type png)
 <use Pictures/Screenshot 2024-03-06 202747.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-03-06 202747.png  used on inp
-ut line 942.
+Package pdftex.def Info: Pictures/Screenshot 2024-03-06 202747.png  used on input line 942.
 (pdftex.def)             Requested size: 120.0pt x 62.60793pt.
-<Pictures/Screenshot 2024-03-06 202752.png, id=699, 604.50844pt x 304.13625pt>
+<Pictures/Screenshot 2024-03-06 202752.png, id=842, 604.50844pt x 304.13625pt>
 File: Pictures/Screenshot 2024-03-06 202752.png Graphic file (type png)
 <use Pictures/Screenshot 2024-03-06 202752.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-03-06 202752.png  used on inp
-ut line 943.
+Package pdftex.def Info: Pictures/Screenshot 2024-03-06 202752.png  used on input line 943.
 (pdftex.def)             Requested size: 120.0pt x 60.37137pt.
-[33 <./Pictures/Screenshot 2024-03-06 202747.png>]
-<Pictures/Screenshot 2024-03-06 202757.png, id=706, 611.28375pt x 389.95688pt>
+[35 <./Pictures/Screenshot 2024-03-06 202747.png>]
+<Pictures/Screenshot 2024-03-06 202757.png, id=849, 611.28375pt x 389.95688pt>
 File: Pictures/Screenshot 2024-03-06 202757.png Graphic file (type png)
 <use Pictures/Screenshot 2024-03-06 202757.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-03-06 202757.png  used on inp
-ut line 944.
+Package pdftex.def Info: Pictures/Screenshot 2024-03-06 202757.png  used on input line 944.
 (pdftex.def)             Requested size: 120.0pt x 76.55002pt.
 
 Overfull \hbox (28.14377pt too wide) in paragraph at lines 944--945
-[]\T1/ptm/m/n/10.95 (-20) synapse with ganglion outside of the chain (i.e. bypa
-sses sympathetic chain) [] 
+[]\T1/ptm/m/n/10.95 (-20) synapse with ganglion outside of the chain (i.e. bypasses sympathetic chain) [] 
  []
 
 
 Overfull \hbox (1.0359pt too wide) in paragraph at lines 1000--1001
-[]\T1/ptm/m/n/10.95 (-20) note: in somatic system we say neuromuscular junction
-, in autonomic system we say neuroeffector
+[]\T1/ptm/m/n/10.95 (-20) note: in somatic system we say neuromuscular junction, in autonomic system we say neuroeffector
  []
 
-[34 <./Pictures/Screenshot 2024-03-06 202752.png> <./Pictures/Screenshot 2024-0
-3-06 202757.png>]
-<Pictures/Screenshot 2024-03-06 204921.png, id=717, 989.19562pt x 367.3725pt>
+[36 <./Pictures/Screenshot 2024-03-06 202752.png> <./Pictures/Screenshot 2024-03-06 202757.png>]
+<Pictures/Screenshot 2024-03-06 204921.png, id=860, 989.19562pt x 367.3725pt>
 File: Pictures/Screenshot 2024-03-06 204921.png Graphic file (type png)
 <use Pictures/Screenshot 2024-03-06 204921.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-03-06 204921.png  used on inp
-ut line 1017.
+Package pdftex.def Info: Pictures/Screenshot 2024-03-06 204921.png  used on input line 1017.
 (pdftex.def)             Requested size: 288.32329pt x 107.07903pt.
-<Pictures/Screenshot 2024-03-06 205513.png, id=718, 1052.43187pt x 584.93532pt>
-
+<Pictures/Screenshot 2024-03-06 205513.png, id=861, 1052.43187pt x 584.93532pt>
 File: Pictures/Screenshot 2024-03-06 205513.png Graphic file (type png)
 <use Pictures/Screenshot 2024-03-06 205513.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-03-06 205513.png  used on inp
-ut line 1053.
+Package pdftex.def Info: Pictures/Screenshot 2024-03-06 205513.png  used on input line 1053.
 (pdftex.def)             Requested size: 288.32329pt x 160.2463pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [35 <./Pictures/Screenshot 2024-03-06 204921.png>]
+ [37 <./Pictures/Screenshot 2024-03-06 204921.png>]
 Package mdframed Info: mdframed works in twoside mode on input line 1056.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 1056.
-<Pictures/Screenshot 2024-04-03 230126.png, id=726, 1209.76968pt x 880.79062pt>
-
+<Pictures/Screenshot 2024-04-03 230126.png, id=870, 1209.76968pt x 880.79062pt>
 File: Pictures/Screenshot 2024-04-03 230126.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-03 230126.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-03 230126.png  used on inp
-ut line 1058.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-03 230126.png  used on input line 1058.
 (pdftex.def)             Requested size: 408.09824pt x 297.11288pt.
- [36 <./Pictures/Screenshot 2024-03-06 205513.png> <./Pictures/Screenshot 2024-
-04-03 230126.png>]
+ [38 <./Pictures/Screenshot 2024-03-06 205513.png> <./Pictures/Screenshot 2024-04-03 230126.png>]
 Chapter 4.
 File: Pictures/chapter_head_1.pdf Graphic file (type pdf)
 <use Pictures/chapter_head_1.pdf>
 Package pdftex.def Info: Pictures/chapter_head_1.pdf  used on input line 1062.
 (pdftex.def)             Requested size: 614.295pt x 307.17496pt.
-<Pictures/Screenshot 2024-04-03 000405.png, id=734, 746.03719pt x 322.95656pt>
+<Pictures/Screenshot 2024-04-03 000405.png, id=878, 746.03719pt x 322.95656pt>
 File: Pictures/Screenshot 2024-04-03 000405.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-03 000405.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-03 000405.png  used on inp
-ut line 1077.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-03 000405.png  used on input line 1077.
 (pdftex.def)             Requested size: 199.60895pt x 86.40604pt.
-<Pictures/Screenshot 2024-04-03 000414.png, id=735, 701.62125pt x 308.65312pt>
+<Pictures/Screenshot 2024-04-03 000414.png, id=879, 701.62125pt x 308.65312pt>
 File: Pictures/Screenshot 2024-04-03 000414.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-03 000414.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-03 000414.png  used on inp
-ut line 1084.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-03 000414.png  used on input line 1084.
 (pdftex.def)             Requested size: 199.60895pt x 87.81163pt.
-<Pictures/Screenshot 2024-04-03 000424.png, id=736, 699.36281pt x 274.02374pt>
+<Pictures/Screenshot 2024-04-03 000424.png, id=880, 699.36281pt x 274.02374pt>
 File: Pictures/Screenshot 2024-04-03 000424.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-03 000424.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-03 000424.png  used on inp
-ut line 1090.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-03 000424.png  used on input line 1090.
 (pdftex.def)             Requested size: 199.60895pt x 78.21046pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[37
+[39
 
 ]
-<Pictures/Screenshot 2024-04-03 002531.png, id=742, 789.70032pt x 448.67625pt>
+<Pictures/Screenshot 2024-04-03 002531.png, id=885, 789.70032pt x 448.67625pt>
 File: Pictures/Screenshot 2024-04-03 002531.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-03 002531.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-03 002531.png  used on inp
-ut line 1163.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-03 002531.png  used on input line 1163.
 (pdftex.def)             Requested size: 288.32329pt x 163.80997pt.
- [38 <./Pictures/Screenshot 2024-04-03 000405.png> <./Pictures/Screenshot 2024-
-04-03 000414.png> <./Pictures/Screenshot 2024-04-03 000424.png> <./Pictures/Scr
-eenshot 2024-04-03 002531.png>]
-<Pictures/Screenshot 2024-04-03 005053.png, id=752, 1255.69125pt x 447.92343pt>
-
+ [40 <./Pictures/Screenshot 2024-04-03 000405.png> <./Pictures/Screenshot 2024-04-03 000414.png> <./Pictures/Screenshot 2024-04-03 000424.png> <./Pictures/Screenshot 2024-04-03 002531.png>]
+<Pictures/Screenshot 2024-04-03 005053.png, id=895, 1255.69125pt x 447.92343pt>
 File: Pictures/Screenshot 2024-04-03 005053.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-03 005053.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-03 005053.png  used on inp
-ut line 1180.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-03 005053.png  used on input line 1180.
 (pdftex.def)             Requested size: 288.32329pt x 102.84251pt.
-<Pictures/Screenshot 2024-04-03 005340.png, id=753, 1454.43375pt x 872.50969pt>
-
+<Pictures/Screenshot 2024-04-03 005340.png, id=896, 1454.43375pt x 872.50969pt>
 File: Pictures/Screenshot 2024-04-03 005340.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-03 005340.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-03 005340.png  used on inp
-ut line 1184.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-03 005340.png  used on input line 1184.
 (pdftex.def)             Requested size: 288.32329pt x 172.95448pt.
-<Pictures/Screenshot 2024-04-03 005431.png, id=754, 1491.32156pt x 918.43124pt>
-
+<Pictures/Screenshot 2024-04-03 005431.png, id=897, 1491.32156pt x 918.43124pt>
 File: Pictures/Screenshot 2024-04-03 005431.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-03 005431.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-03 005431.png  used on inp
-ut line 1188.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-03 005431.png  used on input line 1188.
 (pdftex.def)             Requested size: 288.32329pt x 177.55882pt.
- [39 <./Pictures/Screenshot 2024-04-03 005053.png> <./Pictures/Screenshot 2024-
-04-03 005340.png> <./Pictures/Screenshot 2024-04-03 005431.png>]
-<Pictures/Screenshot 2024-04-03 005847.png, id=762, 1417.54594pt x 883.04906pt>
-
+ [41 <./Pictures/Screenshot 2024-04-03 005053.png> <./Pictures/Screenshot 2024-04-03 005340.png> <./Pictures/Screenshot 2024-04-03 005431.png>]
+<Pictures/Screenshot 2024-04-03 005847.png, id=905, 1417.54594pt x 883.04906pt>
 File: Pictures/Screenshot 2024-04-03 005847.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-03 005847.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-03 005847.png  used on inp
-ut line 1205.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-03 005847.png  used on input line 1205.
 (pdftex.def)             Requested size: 288.32329pt x 179.59796pt.
-<Pictures/Screenshot 2024-04-03 223557.png, id=763, 889.07156pt x 1080.28593pt>
-
+<Pictures/Screenshot 2024-04-03 223557.png, id=906, 889.07156pt x 1080.28593pt>
 File: Pictures/Screenshot 2024-04-03 223557.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-03 223557.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-03 223557.png  used on inp
-ut line 1239.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-03 223557.png  used on input line 1239.
 (pdftex.def)             Requested size: 310.50357pt x 377.28156pt.
 
 Underfull \vbox (badness 1874) has occurred while \output is active []
 
- [40 <./Pictures/Screenshot 2024-04-03 005847.png>] [41 <./Pictures/Screenshot 
-2024-04-03 223557.png>]
-<Pictures/Screenshot 2024-04-03 223633.png, id=792, 1300.86pt x 922.19531pt>
+ [42 <./Pictures/Screenshot 2024-04-03 005847.png>] [43 <./Pictures/Screenshot 2024-04-03 223557.png>]
+<Pictures/Screenshot 2024-04-03 223633.png, id=936, 1300.86pt x 922.19531pt>
 File: Pictures/Screenshot 2024-04-03 223633.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-03 223633.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-03 223633.png  used on inp
-ut line 1277.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-03 223633.png  used on input line 1277.
 (pdftex.def)             Requested size: 288.32329pt x 204.38925pt.
-<Pictures/Screenshot 2024-04-03 225216.png, id=793, 663.98062pt x 796.47563pt>
+<Pictures/Screenshot 2024-04-03 225216.png, id=937, 663.98062pt x 796.47563pt>
 File: Pictures/Screenshot 2024-04-03 225216.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-03 225216.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-03 225216.png  used on inp
-ut line 1295.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-03 225216.png  used on input line 1295.
 (pdftex.def)             Requested size: 137.50824pt x 164.94354pt.
 Package mdframed Info: mdframed works in twoside mode on input line 1298.
 Package mdframed Info: mdframed detected package amsthm 
@@ -2085,142 +1654,115 @@ Package mdframed Info: mdframed works in twoside mode on input line 1318.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 1318.
- [42 <./Pictures/Screenshot 2024-04-03 223633.png> <./Pictures/Screenshot 2024-
-04-03 225216.png>]
+ [44 <./Pictures/Screenshot 2024-04-03 223633.png> <./Pictures/Screenshot 2024-04-03 225216.png>]
 Package mdframed Info: Not enough space on this page on input line 1332.
-<Pictures/Screenshot 2024-04-03 225713.png, id=807, 734.745pt x 974.89218pt>
+<Pictures/Screenshot 2024-04-03 225713.png, id=951, 734.745pt x 974.89218pt>
 File: Pictures/Screenshot 2024-04-03 225713.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-03 225713.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-03 225713.png  used on inp
-ut line 1347.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-03 225713.png  used on input line 1347.
 (pdftex.def)             Requested size: 221.78923pt x 294.26987pt.
-<Pictures/Screenshot 2024-04-03 225826.png, id=808, 1177.39874pt x 598.48593pt>
-
+<Pictures/Screenshot 2024-04-03 225826.png, id=952, 1177.39874pt x 598.48593pt>
 File: Pictures/Screenshot 2024-04-03 225826.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-03 225826.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-03 225826.png  used on inp
-ut line 1360.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-03 225826.png  used on input line 1360.
 (pdftex.def)             Requested size: 288.32329pt x 146.5527pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[43 <./Pictures/Screenshot 2024-04-03 225713.png>]
-<Pictures/Screenshot 2024-04-03 232654.png, id=818, 813.0375pt x 496.85625pt>
+[45 <./Pictures/Screenshot 2024-04-03 225713.png>]
+<Pictures/Screenshot 2024-04-03 232654.png, id=961, 813.0375pt x 496.85625pt>
 File: Pictures/Screenshot 2024-04-03 232654.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-03 232654.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-03 232654.png  used on inp
-ut line 1376.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-03 232654.png  used on input line 1376.
 (pdftex.def)             Requested size: 177.42868pt x 108.42168pt.
-<Pictures/Screenshot 2024-04-03 230713.png, id=819, 1145.78062pt x 749.04843pt>
-
+<Pictures/Screenshot 2024-04-03 230713.png, id=962, 1145.78062pt x 749.04843pt>
 File: Pictures/Screenshot 2024-04-03 230713.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-03 230713.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-03 230713.png  used on inp
-ut line 1397.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-03 230713.png  used on input line 1397.
 (pdftex.def)             Requested size: 266.14978pt x 173.99194pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Pictures/Screenshot 2024-04-03 230817.png, id=820, 1461.20906pt x 958.3303pt>
+<Pictures/Screenshot 2024-04-03 230817.png, id=963, 1461.20906pt x 958.3303pt>
 File: Pictures/Screenshot 2024-04-03 230817.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-03 230817.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-03 230817.png  used on inp
-ut line 1411.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-03 230817.png  used on input line 1411.
 (pdftex.def)             Requested size: 377.0444pt x 247.27365pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Pictures/Screenshot 2024-04-03 231435.png, id=821, 529.98pt x 225.84375pt>
+<Pictures/Screenshot 2024-04-03 231435.png, id=964, 529.98pt x 225.84375pt>
 File: Pictures/Screenshot 2024-04-03 231435.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-03 231435.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-03 231435.png  used on inp
-ut line 1437.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-03 231435.png  used on input line 1437.
 (pdftex.def)             Requested size: 199.60895pt x 85.05992pt.
-<Pictures/Screenshot 2024-04-03 231440.png, id=822, 504.38437pt x 249.93375pt>
+<Pictures/Screenshot 2024-04-03 231440.png, id=965, 504.38437pt x 249.93375pt>
 File: Pictures/Screenshot 2024-04-03 231440.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-03 231440.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-03 231440.png  used on inp
-ut line 1443.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-03 231440.png  used on input line 1443.
 (pdftex.def)             Requested size: 199.60895pt x 98.91151pt.
-<Pictures/Screenshot 2024-04-03 231449.png, id=823, 474.27188pt x 255.20343pt>
+<Pictures/Screenshot 2024-04-03 231449.png, id=966, 474.27188pt x 255.20343pt>
 File: Pictures/Screenshot 2024-04-03 231449.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-03 231449.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-03 231449.png  used on inp
-ut line 1448.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-03 231449.png  used on input line 1448.
 (pdftex.def)             Requested size: 199.60895pt x 107.40666pt.
-[44 <./Pictures/Screenshot 2024-04-03 225826.png> <./Pictures/Screenshot 2024-0
-4-03 232654.png>]
+[46 <./Pictures/Screenshot 2024-04-03 225826.png> <./Pictures/Screenshot 2024-04-03 232654.png>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[45 <./Pictures/Screenshot 2024-04-03 230713.png> <./Pictures/Screenshot 2024-0
-4-03 230817.png>]
+[47 <./Pictures/Screenshot 2024-04-03 230713.png> <./Pictures/Screenshot 2024-04-03 230817.png>]
 Overfull \hbox (21.32732pt too wide) in paragraph at lines 1464--1472
 [] 
  []
 
 File: Pictures/Screenshot 2024-04-03 231449.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-03 231449.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-03 231449.png  used on inp
-ut line 1484.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-03 231449.png  used on input line 1484.
 (pdftex.def)             Requested size: 266.14978pt x 143.21667pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Pictures/Screenshot 2024-04-03 232435.png, id=849, 1310.64656pt x 827.34094pt>
-
+<Pictures/Screenshot 2024-04-03 232435.png, id=992, 1310.64656pt x 827.34094pt>
 File: Pictures/Screenshot 2024-04-03 232435.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-03 232435.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-03 232435.png  used on inp
-ut line 1493.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-03 232435.png  used on input line 1493.
 (pdftex.def)             Requested size: 221.78923pt x 140.00226pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[46 <./Pictures/Screenshot 2024-04-03 231435.png> <./Pictures/Screenshot 2024-0
-4-03 231440.png> <./Pictures/Screenshot 2024-04-03 231449.png>]
-<Pictures/Screenshot 2024-04-03 234918.png, id=861, 1419.05156pt x 667.74469pt>
-
+[48 <./Pictures/Screenshot 2024-04-03 231435.png> <./Pictures/Screenshot 2024-04-03 231440.png> <./Pictures/Screenshot 2024-04-03 231449.png>]
+<Pictures/Screenshot 2024-04-03 234918.png, id=1004, 1419.05156pt x 667.74469pt>
 File: Pictures/Screenshot 2024-04-03 234918.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-03 234918.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-03 234918.png  used on inp
-ut line 1503.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-03 234918.png  used on input line 1503.
 (pdftex.def)             Requested size: 354.86412pt x 166.97652pt.
- [47 <./Pictures/Screenshot 2024-04-03 232435.png> <./Pictures/Screenshot 2024-
-04-03 234918.png>]
-<Pictures/Screenshot 2024-04-03 233656.png, id=871, 541.27219pt x 454.69875pt>
+ [49 <./Pictures/Screenshot 2024-04-03 232435.png> <./Pictures/Screenshot 2024-04-03 234918.png>]
+<Pictures/Screenshot 2024-04-03 233656.png, id=1015, 541.27219pt x 454.69875pt>
 File: Pictures/Screenshot 2024-04-03 233656.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-03 233656.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-03 233656.png  used on inp
-ut line 1536.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-03 233656.png  used on input line 1536.
 (pdftex.def)             Requested size: 221.78923pt x 186.31668pt.
-<Pictures/Screenshot 2024-04-03 234113.png, id=872, 701.62125pt x 469.755pt>
+<Pictures/Screenshot 2024-04-03 234113.png, id=1016, 701.62125pt x 469.755pt>
 File: Pictures/Screenshot 2024-04-03 234113.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-03 234113.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-03 234113.png  used on inp
-ut line 1547.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-03 234113.png  used on input line 1547.
 (pdftex.def)             Requested size: 199.60895pt x 133.64502pt.
-<Pictures/Screenshot 2024-04-03 234130.png, id=873, 1464.2203pt x 877.02657pt>
+<Pictures/Screenshot 2024-04-03 234130.png, id=1017, 1464.2203pt x 877.02657pt>
 File: Pictures/Screenshot 2024-04-03 234130.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-03 234130.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-03 234130.png  used on inp
-ut line 1554.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-03 234130.png  used on input line 1554.
 (pdftex.def)             Requested size: 199.60895pt x 119.55774pt.
-<Pictures/Screenshot 2024-04-03 234139.png, id=874, 1235.36531pt x 746.03719pt>
-
+<Pictures/Screenshot 2024-04-03 234139.png, id=1018, 1235.36531pt x 746.03719pt>
 File: Pictures/Screenshot 2024-04-03 234139.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-03 234139.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-03 234139.png  used on inp
-ut line 1558.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-03 234139.png  used on input line 1558.
 (pdftex.def)             Requested size: 199.60895pt x 120.5409pt.
-<Pictures/Screenshot 2024-04-03 234154.png, id=875, 1238.37656pt x 872.50969pt>
-
+<Pictures/Screenshot 2024-04-03 234154.png, id=1019, 1238.37656pt x 872.50969pt>
 File: Pictures/Screenshot 2024-04-03 234154.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-03 234154.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-03 234154.png  used on inp
-ut line 1563.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-03 234154.png  used on input line 1563.
 (pdftex.def)             Requested size: 199.60895pt x 140.62953pt.
 
 Underfull \hbox (badness 1072) in paragraph at lines 1565--1565
@@ -2230,12 +1772,10 @@ Underfull \hbox (badness 1072) in paragraph at lines 1565--1565
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Pictures/Screenshot 2024-04-03 234821.png, id=876, 1423.56844pt x 887.56593pt>
-
+<Pictures/Screenshot 2024-04-03 234821.png, id=1020, 1423.56844pt x 887.56593pt>
 File: Pictures/Screenshot 2024-04-03 234821.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-03 234821.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-03 234821.png  used on inp
-ut line 1572.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-03 234821.png  used on input line 1572.
 (pdftex.def)             Requested size: 221.78923pt x 138.27554pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2244,28 +1784,23 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 1590.
 
-[48 <./Pictures/Screenshot 2024-04-03 233656.png>]
+[50 <./Pictures/Screenshot 2024-04-03 233656.png>]
 Underfull \vbox (badness 1082) has occurred while \output is active []
 
- [49 <./Pictures/Screenshot 2024-04-03 234113.png> <./Pictures/Screenshot 2024-
-04-03 234130.png> <./Pictures/Screenshot 2024-04-03 234139.png> <./Pictures/Scr
-eenshot 2024-04-03 234154.png> <./Pictures/Screenshot 2024-04-03 234821.png>]
-<Pictures/Screenshot 2024-04-04 001601.png, id=896, 1486.05188pt x 810.02625pt>
-
+ [51 <./Pictures/Screenshot 2024-04-03 234113.png> <./Pictures/Screenshot 2024-04-03 234130.png> <./Pictures/Screenshot 2024-04-03 234139.png> <./Pictures/Screenshot 2024-04-03 234154.png> <./Pictures/Screenshot 2024-04-03 234821.png>]
+<Pictures/Screenshot 2024-04-04 001601.png, id=1039, 1486.05188pt x 810.02625pt>
 File: Pictures/Screenshot 2024-04-04 001601.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-04 001601.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-04 001601.png  used on inp
-ut line 1686.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-04 001601.png  used on input line 1686.
 (pdftex.def)             Requested size: 443.57848pt x 241.7861pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Pictures/Screenshot 2024-04-04 001715.png, id=897, 1510.14188pt x 836.3747pt>
+<Pictures/Screenshot 2024-04-04 001715.png, id=1040, 1510.14188pt x 836.3747pt>
 File: Pictures/Screenshot 2024-04-04 001715.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-04 001715.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-04 001715.png  used on inp
-ut line 1693.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-04 001715.png  used on input line 1693.
 (pdftex.def)             Requested size: 288.32329pt x 159.67856pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2274,91 +1809,78 @@ Package mdframed Info: mdframed works in twoside mode on input line 1698.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 1698.
-<Pictures/Screenshot 2024-04-04 001818.png, id=898, 677.53125pt x 494.59781pt>
+<Pictures/Screenshot 2024-04-04 001818.png, id=1041, 677.53125pt x 494.59781pt>
 File: Pictures/Screenshot 2024-04-04 001818.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-04 001818.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-04 001818.png  used on inp
-ut line 1709.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-04 001818.png  used on input line 1709.
 (pdftex.def)             Requested size: 266.14978pt x 194.2961pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[50] [51 <./Pictures/Screenshot 2024-04-04 001601.png> <./Pictures/Screenshot 2
-024-04-04 001715.png>]
-<Pictures/Screenshot 2024-04-04 003419.png, id=926, 1206.75844pt x 855.195pt>
+[52] [53 <./Pictures/Screenshot 2024-04-04 001601.png> <./Pictures/Screenshot 2024-04-04 001715.png>]
+<Pictures/Screenshot 2024-04-04 003419.png, id=1069, 1206.75844pt x 855.195pt>
 File: Pictures/Screenshot 2024-04-04 003419.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-04 003419.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-04 003419.png  used on inp
-ut line 1745.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-04 003419.png  used on input line 1745.
 (pdftex.def)             Requested size: 199.60895pt x 141.45341pt.
-<Pictures/Screenshot 2024-04-04 003425.png, id=927, 1008.76875pt x 861.2175pt>
+<Pictures/Screenshot 2024-04-04 003425.png, id=1070, 1008.76875pt x 861.2175pt>
 File: Pictures/Screenshot 2024-04-04 003425.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-04 003425.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-04 003425.png  used on inp
-ut line 1750.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-04 003425.png  used on input line 1750.
 (pdftex.def)             Requested size: 199.60895pt x 170.4007pt.
-<Pictures/Screenshot 2024-04-04 003437.png, id=928, 998.22937pt x 690.32906pt>
+<Pictures/Screenshot 2024-04-04 003437.png, id=1071, 998.22937pt x 690.32906pt>
 File: Pictures/Screenshot 2024-04-04 003437.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-04 003437.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-04 003437.png  used on inp
-ut line 1754.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-04 003437.png  used on input line 1754.
 (pdftex.def)             Requested size: 199.60895pt x 138.03175pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Pictures/Screenshot 2024-04-04 004121.png, id=929, 1507.13063pt x 1098.35344pt
->
+<Pictures/Screenshot 2024-04-04 004121.png, id=1072, 1507.13063pt x 1098.35344pt>
 File: Pictures/Screenshot 2024-04-04 004121.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-04 004121.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-04 004121.png  used on inp
-ut line 1762.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-04 004121.png  used on input line 1762.
 (pdftex.def)             Requested size: 266.14978pt x 193.95772pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Pictures/Screenshot 2024-04-04 004240.png, id=930, 1385.175pt x 714.41907pt>
+<Pictures/Screenshot 2024-04-04 004240.png, id=1073, 1385.175pt x 714.41907pt>
 File: Pictures/Screenshot 2024-04-04 004240.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-04 004240.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-04 004240.png  used on inp
-ut line 1773.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-04 004240.png  used on input line 1773.
 (pdftex.def)             Requested size: 266.14978pt x 137.26718pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[52 <./Pictures/Screenshot 2024-04-04 001818.png>]
+[54 <./Pictures/Screenshot 2024-04-04 001818.png>]
 Package mdframed Info: mdframed works in twoside mode on input line 1780.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 1780.
-<Pictures/Screenshot 2024-04-04 004646.png, id=937, 1439.3775pt x 824.32968pt>
+<Pictures/Screenshot 2024-04-04 004646.png, id=1080, 1439.3775pt x 824.32968pt>
 File: Pictures/Screenshot 2024-04-04 004646.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-04 004646.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-04 004646.png  used on inp
-ut line 1797.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-04 004646.png  used on input line 1797.
 (pdftex.def)             Requested size: 199.60895pt x 114.31105pt.
-<Pictures/Screenshot 2024-04-04 004728.png, id=938, 1436.36626pt x 887.56593pt>
-
+<Pictures/Screenshot 2024-04-04 004728.png, id=1081, 1436.36626pt x 887.56593pt>
 File: Pictures/Screenshot 2024-04-04 004728.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-04 004728.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-04 004728.png  used on inp
-ut line 1802.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-04 004728.png  used on input line 1802.
 (pdftex.def)             Requested size: 199.60895pt x 123.33745pt.
-<Pictures/Screenshot 2024-04-04 004744.png, id=939, 1486.05188pt x 813.0375pt>
+<Pictures/Screenshot 2024-04-04 004744.png, id=1082, 1486.05188pt x 813.0375pt>
 File: Pictures/Screenshot 2024-04-04 004744.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-04 004744.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-04 004744.png  used on inp
-ut line 1806.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-04 004744.png  used on input line 1806.
 (pdftex.def)             Requested size: 199.60895pt x 109.19705pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Pictures/Screenshot 2024-04-04 004942.png, id=940, 961.34157pt x 913.91437pt>
+<Pictures/Screenshot 2024-04-04 004942.png, id=1083, 961.34157pt x 913.91437pt>
 File: Pictures/Screenshot 2024-04-04 004942.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-04 004942.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-04 004942.png  used on inp
-ut line 1816.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-04 004942.png  used on input line 1816.
 (pdftex.def)             Requested size: 266.14978pt x 253.02156pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2367,93 +1889,73 @@ Package mdframed Info: mdframed works in twoside mode on input line 1823.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 1823.
-[53 <./Pictures/Screenshot 2024-04-04 003419.png> <./Pictures/Screenshot 2024-0
-4-04 003425.png> <./Pictures/Screenshot 2024-04-04 003437.png>]
-<Pictures/Screenshot 2024-04-04 011648.png, id=951, 1443.14156pt x 837.1275pt>
+[55 <./Pictures/Screenshot 2024-04-04 003419.png> <./Pictures/Screenshot 2024-04-04 003425.png> <./Pictures/Screenshot 2024-04-04 003437.png>]
+<Pictures/Screenshot 2024-04-04 011648.png, id=1095, 1443.14156pt x 837.1275pt>
 File: Pictures/Screenshot 2024-04-04 011648.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-04 011648.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-04 011648.png  used on inp
-ut line 1835.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-04 011648.png  used on input line 1835.
 (pdftex.def)             Requested size: 266.14978pt x 154.38077pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Pictures/Screenshot 2024-04-04 012102.png, id=952, 1439.3775pt x 886.81313pt>
+<Pictures/Screenshot 2024-04-04 012102.png, id=1096, 1439.3775pt x 886.81313pt>
 File: Pictures/Screenshot 2024-04-04 012102.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-04 012102.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-04 012102.png  used on inp
-ut line 1853.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-04 012102.png  used on input line 1853.
 (pdftex.def)             Requested size: 199.60895pt x 122.97572pt.
-<Pictures/Screenshot 2024-04-04 012129.png, id=953, 1377.64688pt x 818.30719pt>
-
+<Pictures/Screenshot 2024-04-04 012129.png, id=1097, 1377.64688pt x 818.30719pt>
 File: Pictures/Screenshot 2024-04-04 012129.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-04 012129.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-04 012129.png  used on inp
-ut line 1857.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-04 012129.png  used on input line 1857.
 (pdftex.def)             Requested size: 199.60895pt x 118.55785pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Pictures/Screenshot 2024-04-04 012358.png, id=954, 1142.76938pt x 901.86937pt>
-
+<Pictures/Screenshot 2024-04-04 012358.png, id=1098, 1142.76938pt x 901.86937pt>
 File: Pictures/Screenshot 2024-04-04 012358.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-04 012358.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-04 012358.png  used on inp
-ut line 1871.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-04 012358.png  used on input line 1871.
 (pdftex.def)             Requested size: 266.14978pt x 210.04025pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[54 <./Pictures/Screenshot 2024-04-04 004121.png> <./Pictures/Screenshot 2024-0
-4-04 004240.png>]
+[56 <./Pictures/Screenshot 2024-04-04 004121.png> <./Pictures/Screenshot 2024-04-04 004240.png>]
 
-LaTeX Warning: Text page 55 contains only floats.
+LaTeX Warning: Text page 57 contains only floats.
 
-[55 <./Pictures/Screenshot 2024-04-04 004646.png> <./Pictures/Screenshot 2024-0
-4-04 004728.png> <./Pictures/Screenshot 2024-04-04 004744.png> <./Pictures/Scre
-enshot 2024-04-04 004942.png>]
-<Pictures/Screenshot 2024-04-04 012811.png, id=974, 1001.24063pt x 645.91313pt>
-
+[57 <./Pictures/Screenshot 2024-04-04 004646.png> <./Pictures/Screenshot 2024-04-04 004728.png> <./Pictures/Screenshot 2024-04-04 004744.png> <./Pictures/Screenshot 2024-04-04 004942.png>]
+<Pictures/Screenshot 2024-04-04 012811.png, id=1117, 1001.24063pt x 645.91313pt>
 File: Pictures/Screenshot 2024-04-04 012811.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-04 012811.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-04 012811.png  used on inp
-ut line 1898.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-04 012811.png  used on input line 1898.
 (pdftex.def)             Requested size: 266.14978pt x 171.69838pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Pictures/Screenshot 2024-04-04 012911.png, id=975, 1130.72438pt x 649.67719pt>
-
+<Pictures/Screenshot 2024-04-04 012911.png, id=1118, 1130.72438pt x 649.67719pt>
 File: Pictures/Screenshot 2024-04-04 012911.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-04 012911.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-04 012911.png  used on inp
-ut line 1907.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-04 012911.png  used on input line 1907.
 (pdftex.def)             Requested size: 266.14978pt x 152.91208pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[56 <./Pictures/Screenshot 2024-04-04 011648.png> <./Pictures/Screenshot 2024-0
-4-04 012102.png> <./Pictures/Screenshot 2024-04-04 012129.png>]
-<Pictures/Screenshot 2024-04-04 013127.png, id=985, 1001.99344pt x 666.23906pt>
-
+[58 <./Pictures/Screenshot 2024-04-04 011648.png> <./Pictures/Screenshot 2024-04-04 012102.png> <./Pictures/Screenshot 2024-04-04 012129.png>]
+<Pictures/Screenshot 2024-04-04 013127.png, id=1128, 1001.99344pt x 666.23906pt>
 File: Pictures/Screenshot 2024-04-04 013127.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-04 013127.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-04 013127.png  used on inp
-ut line 1920.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-04 013127.png  used on input line 1920.
 (pdftex.def)             Requested size: 266.14978pt x 176.96931pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Pictures/Screenshot 2024-04-05 at 5.13.43 PM.png, id=986, 931.48pt x 580.167
-5pt>
-File: Pictures/Screenshot 2024-04-05 at 5.13.43 PM.png Graphic file (type png
-)
+<Pictures/Screenshot 2024-04-05 at 5.13.43 PM.png, id=1129, 931.48pt x 580.1675pt>
+File: Pictures/Screenshot 2024-04-05 at 5.13.43 PM.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-05 at 5.13.43 PM.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.13.43 PM.png  us
-ed on input line 1928.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.13.43 PM.png  used on input line 1928.
 (pdftex.def)             Requested size: 266.14978pt x 165.76552pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2461,205 +1963,146 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Underfull \vbox (badness 1152) has occurred while \output is active []
 
- [57 <./Pictures/Screenshot 2024-04-04 012358.png> <./Pictures/Screenshot 2024-
-04-04 012811.png>]
-<Pictures/Screenshot 2024-04-05 at 5.19.25 PM.png, id=995, 864.22874pt x 286.
-06876pt>
-File: Pictures/Screenshot 2024-04-05 at 5.19.25 PM.png Graphic file (type png
-)
+ [59 <./Pictures/Screenshot 2024-04-04 012358.png> <./Pictures/Screenshot 2024-04-04 012811.png>]
+<Pictures/Screenshot 2024-04-05 at 5.19.25 PM.png, id=1138, 864.22874pt x 286.06876pt>
+File: Pictures/Screenshot 2024-04-05 at 5.19.25 PM.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-05 at 5.19.25 PM.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.19.25 PM.png  us
-ed on input line 1961.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.19.25 PM.png  used on input line 1961.
 (pdftex.def)             Requested size: 443.57848pt x 146.82726pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Pictures/Screenshot 2024-04-05 at 5.21.53 PM.png, id=996, 264.99pt x 499.867
-5pt>
-File: Pictures/Screenshot 2024-04-05 at 5.21.53 PM.png Graphic file (type png
-)
+<Pictures/Screenshot 2024-04-05 at 5.21.53 PM.png, id=1139, 264.99pt x 499.8675pt>
+File: Pictures/Screenshot 2024-04-05 at 5.21.53 PM.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-05 at 5.21.53 PM.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.21.53 PM.png  us
-ed on input line 1969.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.21.53 PM.png  used on input line 1969.
 (pdftex.def)             Requested size: 133.07489pt x 251.03146pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [58 <./Pictures/Screenshot 2024-04-04 012911.png> <./Pictures/Screenshot 2024-
-04-04 013127.png>]
+ [60 <./Pictures/Screenshot 2024-04-04 012911.png> <./Pictures/Screenshot 2024-04-04 013127.png>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[59 <./Pictures/Screenshot 2024-04-05 at 5.13.43 PM.png> <./Pictures/Screensh
-ot 2024-04-05 at 5.19.25 PM.png>]
-<Pictures/Screenshot 2024-04-05 at 5.24.55 PM.png, id=1017, 812.03375pt x 473
-.77pt>
-File: Pictures/Screenshot 2024-04-05 at 5.24.55 PM.png Graphic file (type png
-)
+[61 <./Pictures/Screenshot 2024-04-05 at 5.13.43 PM.png> <./Pictures/Screenshot 2024-04-05 at 5.19.25 PM.png>]
+<Pictures/Screenshot 2024-04-05 at 5.24.55 PM.png, id=1161, 812.03375pt x 473.77pt>
+File: Pictures/Screenshot 2024-04-05 at 5.24.55 PM.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-05 at 5.24.55 PM.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.24.55 PM.png  us
-ed on input line 2004.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.24.55 PM.png  used on input line 2004.
 (pdftex.def)             Requested size: 266.14978pt x 155.27467pt.
-<Pictures/Screenshot 2024-04-05 at 5.30.22 PM.png, id=1018, 490.83376pt x 703
-.62875pt>
-File: Pictures/Screenshot 2024-04-05 at 5.30.22 PM.png Graphic file (type png
-)
+<Pictures/Screenshot 2024-04-05 at 5.30.22 PM.png, id=1162, 490.83376pt x 703.62875pt>
+File: Pictures/Screenshot 2024-04-05 at 5.30.22 PM.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-05 at 5.30.22 PM.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.30.22 PM.png  us
-ed on input line 2013.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.30.22 PM.png  used on input line 2013.
 (pdftex.def)             Requested size: 266.14978pt x 381.54286pt.
 
 Underfull \vbox (badness 6927) has occurred while \output is active []
 
- [60 <./Pictures/Screenshot 2024-04-05 at 5.21.53 PM.png> <./Pictures/Screens
-hot 2024-04-05 at 5.24.55 PM.png>] [61 <./Pictures/Screenshot 2024-04-05 at 5
-.30.22 PM.png>]
-<Pictures/Screenshot 2024-04-05 at 5.31.58 PM.png, id=1035, 518.93875pt x 297
-.11pt>
-File: Pictures/Screenshot 2024-04-05 at 5.31.58 PM.png Graphic file (type png
-)
+ [62 <./Pictures/Screenshot 2024-04-05 at 5.21.53 PM.png> <./Pictures/Screenshot 2024-04-05 at 5.24.55 PM.png>] [63 <./Pictures/Screenshot 2024-04-05 at 5.30.22 PM.png>]
+<Pictures/Screenshot 2024-04-05 at 5.31.58 PM.png, id=1178, 518.93875pt x 297.11pt>
+File: Pictures/Screenshot 2024-04-05 at 5.31.58 PM.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-05 at 5.31.58 PM.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.31.58 PM.png  us
-ed on input line 2041.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.31.58 PM.png  used on input line 2041.
 (pdftex.def)             Requested size: 266.14978pt x 152.38545pt.
-<Pictures/Screenshot 2024-04-05 at 5.35.38 PM.png, id=1036, 772.8875pt x 545.
-03625pt>
-File: Pictures/Screenshot 2024-04-05 at 5.35.38 PM.png Graphic file (type png
-)
+<Pictures/Screenshot 2024-04-05 at 5.35.38 PM.png, id=1179, 772.8875pt x 545.03625pt>
+File: Pictures/Screenshot 2024-04-05 at 5.35.38 PM.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-05 at 5.35.38 PM.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.35.38 PM.png  us
-ed on input line 2048.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.35.38 PM.png  used on input line 2048.
 (pdftex.def)             Requested size: 266.14978pt x 187.68842pt.
-<Pictures/Screenshot 2024-04-05 at 5.36.26 PM.png, id=1037, 961.5925pt x 413.
-545pt>
-File: Pictures/Screenshot 2024-04-05 at 5.36.26 PM.png Graphic file (type png
-)
+<Pictures/Screenshot 2024-04-05 at 5.36.26 PM.png, id=1180, 961.5925pt x 413.545pt>
+File: Pictures/Screenshot 2024-04-05 at 5.36.26 PM.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-05 at 5.36.26 PM.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.36.26 PM.png  us
-ed on input line 2055.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.36.26 PM.png  used on input line 2055.
 (pdftex.def)             Requested size: 266.14978pt x 114.46036pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Pictures/Screenshot 2024-04-05 at 5.39.18 PM.png, id=1038, 883.3pt x 282.053
-76pt>
-File: Pictures/Screenshot 2024-04-05 at 5.39.18 PM.png Graphic file (type png
-)
+<Pictures/Screenshot 2024-04-05 at 5.39.18 PM.png, id=1181, 883.3pt x 282.05376pt>
+File: Pictures/Screenshot 2024-04-05 at 5.39.18 PM.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-05 at 5.39.18 PM.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.39.18 PM.png  us
-ed on input line 2062.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.39.18 PM.png  used on input line 2062.
 (pdftex.def)             Requested size: 266.14978pt x 84.9869pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Pictures/Screenshot 2024-04-05 at 5.39.42 PM.png, id=1039, 916.42375pt x 411
-.5375pt>
-File: Pictures/Screenshot 2024-04-05 at 5.39.42 PM.png Graphic file (type png
-)
+<Pictures/Screenshot 2024-04-05 at 5.39.42 PM.png, id=1182, 916.42375pt x 411.5375pt>
+File: Pictures/Screenshot 2024-04-05 at 5.39.42 PM.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-05 at 5.39.42 PM.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.39.42 PM.png  us
-ed on input line 2070.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.39.42 PM.png  used on input line 2070.
 (pdftex.def)             Requested size: 266.14978pt x 119.51865pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[62 <./Pictures/Screenshot 2024-04-05 at 5.31.58 PM.png> <./Pictures/Screensh
-ot 2024-04-05 at 5.35.38 PM.png>]
+[64 <./Pictures/Screenshot 2024-04-05 at 5.31.58 PM.png> <./Pictures/Screenshot 2024-04-05 at 5.35.38 PM.png>]
 Package mdframed Info: mdframed works in twoside mode on input line 2076.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 2076.
 Package mdframed Info: Not enough space on this page on input line 2086.
- [63 <./Pictures/Screenshot 2024-04-05 at 5.36.26 PM.png> <./Pictures/Screens
-hot 2024-04-05 at 5.39.18 PM.png> <./Pictures/Screenshot 2024-04-05 at 5.39.4
-2 PM.png>]
-<Pictures/Screenshot 2024-04-05 at 5.47.43 PM.png, id=1059, 880.28876pt x 633
-.36626pt>
-File: Pictures/Screenshot 2024-04-05 at 5.47.43 PM.png Graphic file (type png
-)
+ [65 <./Pictures/Screenshot 2024-04-05 at 5.36.26 PM.png> <./Pictures/Screenshot 2024-04-05 at 5.39.18 PM.png> <./Pictures/Screenshot 2024-04-05 at 5.39.42 PM.png>]
+<Pictures/Screenshot 2024-04-05 at 5.47.43 PM.png, id=1202, 880.28876pt x 633.36626pt>
+File: Pictures/Screenshot 2024-04-05 at 5.47.43 PM.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-05 at 5.47.43 PM.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.47.43 PM.png  us
-ed on input line 2090.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.47.43 PM.png  used on input line 2090.
 (pdftex.def)             Requested size: 266.14978pt x 191.48999pt.
-<Pictures/Screenshot 2024-04-05 at 5.48.56 PM.png, id=1060, 903.375pt x 525.9
-65pt>
-File: Pictures/Screenshot 2024-04-05 at 5.48.56 PM.png Graphic file (type png
-)
+<Pictures/Screenshot 2024-04-05 at 5.48.56 PM.png, id=1203, 903.375pt x 525.965pt>
+File: Pictures/Screenshot 2024-04-05 at 5.48.56 PM.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-05 at 5.48.56 PM.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.48.56 PM.png  us
-ed on input line 2097.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.48.56 PM.png  used on input line 2097.
 (pdftex.def)             Requested size: 266.14978pt x 154.95769pt.
-<Pictures/Screenshot 2024-04-05 at 5.49.36 PM.png, id=1061, 919.435pt x 577.1
-5625pt>
-File: Pictures/Screenshot 2024-04-05 at 5.49.36 PM.png Graphic file (type png
-)
+<Pictures/Screenshot 2024-04-05 at 5.49.36 PM.png, id=1204, 919.435pt x 577.15625pt>
+File: Pictures/Screenshot 2024-04-05 at 5.49.36 PM.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-05 at 5.49.36 PM.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.49.36 PM.png  us
-ed on input line 2104.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.49.36 PM.png  used on input line 2104.
 (pdftex.def)             Requested size: 266.14978pt x 167.0716pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Pictures/Screenshot 2024-04-05 at 5.50.44 PM.png, id=1062, 660.4675pt x 531.
-9875pt>
-File: Pictures/Screenshot 2024-04-05 at 5.50.44 PM.png Graphic file (type png
-)
+<Pictures/Screenshot 2024-04-05 at 5.50.44 PM.png, id=1205, 660.4675pt x 531.9875pt>
+File: Pictures/Screenshot 2024-04-05 at 5.50.44 PM.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-05 at 5.50.44 PM.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.50.44 PM.png  us
-ed on input line 2111.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.50.44 PM.png  used on input line 2111.
 (pdftex.def)             Requested size: 266.14978pt x 214.38225pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Pictures/Screenshot 2024-04-05 at 5.51.24 PM.png, id=1063, 932.48375pt x 501
-.875pt>
-File: Pictures/Screenshot 2024-04-05 at 5.51.24 PM.png Graphic file (type png
-)
+<Pictures/Screenshot 2024-04-05 at 5.51.24 PM.png, id=1206, 932.48375pt x 501.875pt>
+File: Pictures/Screenshot 2024-04-05 at 5.51.24 PM.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-05 at 5.51.24 PM.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.51.24 PM.png  us
-ed on input line 2118.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.51.24 PM.png  used on input line 2118.
 (pdftex.def)             Requested size: 266.14978pt x 143.24261pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Pictures/Screenshot 2024-04-05 at 5.52.50 PM.png, id=1064, 964.60374pt x 390
-.45876pt>
-File: Pictures/Screenshot 2024-04-05 at 5.52.50 PM.png Graphic file (type png
-)
+<Pictures/Screenshot 2024-04-05 at 5.52.50 PM.png, id=1207, 964.60374pt x 390.45876pt>
+File: Pictures/Screenshot 2024-04-05 at 5.52.50 PM.png Graphic file (type png)
 <use Pictures/Screenshot 2024-04-05 at 5.52.50 PM.png>
-Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.52.50 PM.png  us
-ed on input line 2126.
+Package pdftex.def Info: Pictures/Screenshot 2024-04-05 at 5.52.50 PM.png  used on input line 2126.
 (pdftex.def)             Requested size: 266.14978pt x 107.73097pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[64 <./Pictures/Screenshot 2024-04-05 at 5.47.43 PM.png> <./Pictures/Screensh
-ot 2024-04-05 at 5.48.56 PM.png>] [65 <./Pictures/Screenshot 2024-04-05 at 5.
-49.36 PM.png> <./Pictures/Screenshot 2024-04-05 at 5.50.44 PM.png>]
-[66 <./Pictures/Screenshot 2024-04-05 at 5.51.24 PM.png> <./Pictures/Screensh
-ot 2024-04-05 at 5.52.50 PM.png>] (main.ptc) [67
+[66 <./Pictures/Screenshot 2024-04-05 at 5.47.43 PM.png> <./Pictures/Screenshot 2024-04-05 at 5.48.56 PM.png>] [67 <./Pictures/Screenshot 2024-04-05 at 5.49.36 PM.png> <./Pictures/Screenshot 2024-04-05 at 5.50.44 PM.png>] [68 <./Pictures/Screenshot 2024-04-05 at 5.51.24 PM.png> <./Pictures/Screenshot 2024-04-05 at 5.52.50 PM.png>] (main.ptc) [69
 
-] [68]
+] [70]
 Chapter 5.
 File: Pictures/chapter_head_1.pdf Graphic file (type pdf)
 <use Pictures/chapter_head_1.pdf>
 Package pdftex.def Info: Pictures/chapter_head_1.pdf  used on input line 2141.
 (pdftex.def)             Requested size: 614.295pt x 307.17496pt.
-[69
+[71
 
-] [70]
+] [72]
 Overfull \hbox (9.0279pt too wide) in paragraph at lines 2277--2279
-[][] \T1/ptm/m/n/10 (-20) Choreography difference between portraying the worker
-s at the beginning, robotic movements,
+[][] \T1/ptm/m/n/10 (-20) Choreography difference between portraying the workers at the beginning, robotic movements,
  []
 
 
 Overfull \hbox (4.88222pt too wide) in paragraph at lines 2277--2279
-\T1/ptm/m/n/10 (-20) not human-like vs. portraying the maria-tron dancing human
-ly, gracefully in the performance.
+\T1/ptm/m/n/10 (-20) not human-like vs. portraying the maria-tron dancing humanly, gracefully in the performance.
  []
 
 Package mdframed Info: mdframed works in twoside mode on input line 2285.
@@ -2670,7 +2113,7 @@ Package mdframed Info: mdframed works in twoside mode on input line 2293.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 2293.
-[71]
+[73]
 Package mdframed Info: Not enough space on this page on input line 2299.
 Package mdframed Info: mdframed works in twoside mode on input line 2301.
 Package mdframed Info: mdframed detected package amsthm 
@@ -2692,7 +2135,7 @@ Package mdframed Info: mdframed works in twoside mode on input line 2332.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 2332.
- [72] [73]
+ [74] [75]
 Package mdframed Info: mdframed works in twoside mode on input line 2426.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
@@ -2705,7 +2148,7 @@ Package mdframed Info: mdframed works in twoside mode on input line 2443.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 2443.
- [74]
+ [76]
 Package mdframed Info: Not enough space on this page on input line 2450.
 Package mdframed Info: mdframed works in twoside mode on input line 2452.
 Package mdframed Info: mdframed detected package amsthm 
@@ -2721,27 +2164,24 @@ Package mdframed Info: mdframed detected package amsthm
 (mdframed)              on input line 2469.
 
 Overfull \hbox (9.89876pt too wide) in paragraph at lines 2473--2474
-[][]\T1/ptm/m/n/10.95 (-20) The film's themes of destruction, widespread suffer
-ing, and the dangers of scientific advancement
+[][]\T1/ptm/m/n/10.95 (-20) The film's themes of destruction, widespread suffering, and the dangers of scientific advancement
  []
 
 Package mdframed Info: mdframed works in twoside mode on input line 2477.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 2477.
-[75] [76]
+[77] [78]
 Overfull \hbox (5.01672pt too wide) in paragraph at lines 2578--2579
-[]\T1/ptm/m/n/10.95 (-20) Themes of contamination, destruction, and global cata
-strophe permeate narratives, attempting
+[]\T1/ptm/m/n/10.95 (-20) Themes of contamination, destruction, and global catastrophe permeate narratives, attempting
  []
 
-[77]
+[79]
 Overfull \hbox (4.6135pt too wide) in paragraph at lines 2606--2607
-[]\T1/ptm/m/n/10.95 (-20) Science fiction films, inadvertently or not, are in c
-omplicity with the abhorrent by neutralizing
+[]\T1/ptm/m/n/10.95 (-20) Science fiction films, inadvertently or not, are in complicity with the abhorrent by neutralizing
  []
 
-[78]
+[80]
 Package mdframed Info: mdframed works in twoside mode on input line 2686.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
@@ -2758,7 +2198,7 @@ Package mdframed Warning: You got a bad break
 (mdframed)                by changing the text, the space
 (mdframed)                or something else on input line 2698.
 
-[79]
+[81]
 Package mdframed Info: mdframed works in twoside mode on input line 2700.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
@@ -2775,7 +2215,7 @@ Package mdframed Info: mdframed works in twoside mode on input line 2722.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 2722.
- [80]
+ [82]
 Package mdframed Info: mdframed works in twoside mode on input line 2803.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
@@ -2783,7 +2223,7 @@ Package mdframed Info: mdframed detected package amsthm
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [81]
+ [83]
 Package mdframed Info: Not enough space on this page on input line 2808.
 Package mdframed Info: mdframed works in twoside mode on input line 2810.
 Package mdframed Info: mdframed detected package amsthm 
@@ -2816,7 +2256,7 @@ Package mdframed Info: mdframed detected package amsthm
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [82]
+ [84]
 Package mdframed Info: Not enough space on this page on input line 2857.
 Package mdframed Info: mdframed works in twoside mode on input line 2859.
 Package mdframed Info: mdframed detected package amsthm 
@@ -2824,18 +2264,16 @@ Package mdframed Info: mdframed detected package amsthm
 (mdframed)              on input line 2859.
 
 Overfull \hbox (4.66878pt too wide) in paragraph at lines 2862--2863
-[][]\T1/ptm/m/n/10.95 (-20) Human-human relationships are depicted as cold and 
-formal, while human-machine interactions
+[][]\T1/ptm/m/n/10.95 (-20) Human-human relationships are depicted as cold and formal, while human-machine interactions
  []
 
 Package mdframed Info: mdframed works in twoside mode on input line 2866.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 2866.
-[83]
+[85]
 Overfull \hbox (0.63112pt too wide) in paragraph at lines 2917--2918
-[]\T1/ptm/m/n/10.95 (-20) Highlighting our own experiences, invasive medical te
-sts,   body on a table, dehumanization 
+[]\T1/ptm/m/n/10.95 (-20) Highlighting our own experiences, invasive medical tests,   body on a table, dehumanization 
  []
 
 Package mdframed Info: mdframed works in twoside mode on input line 2945.
@@ -2844,15 +2282,14 @@ Package mdframed Info: mdframed detected package amsthm
 (mdframed)              on input line 2945.
 
 Overfull \hbox (3.13788pt too wide) in paragraph at lines 2949--2950
-[][]\T1/ptm/m/n/10.95 (-20) Shots that frame characters within cramped spaces o
-r emphasize the white, sterile environments,
+[][]\T1/ptm/m/n/10.95 (-20) Shots that frame characters within cramped spaces or emphasize the white, sterile environments,
  []
 
 Package mdframed Info: mdframed works in twoside mode on input line 2953.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 2953.
-[84]
+[86]
 Package mdframed Info: mdframed works in twoside mode on input line 2961.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
@@ -2869,7 +2306,7 @@ Package mdframed Info: mdframed works in twoside mode on input line 2982.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 2982.
- [85]
+ [87]
 Package mdframed Info: mdframed works in twoside mode on input line 3042.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
@@ -2884,11 +2321,10 @@ Package mdframed Info: mdframed detected package amsthm
 (mdframed)              on input line 3057.
 
 Overfull \hbox (2.11238pt too wide) in paragraph at lines 3060--3061
-\T1/ptm/m/n/10.95 (-20) emphasize exploring rational explanations and the cogni
-tive value of the unknown. Tarkovsky's
+\T1/ptm/m/n/10.95 (-20) emphasize exploring rational explanations and the cognitive value of the unknown. Tarkovsky's
  []
 
-[86]
+[88]
 Package mdframed Info: Not enough space on this page on input line 3062.
 Package mdframed Info: mdframed works in twoside mode on input line 3064.
 Package mdframed Info: mdframed detected package amsthm 
@@ -2904,16 +2340,15 @@ Package mdframed Info: mdframed detected package amsthm
 (mdframed)              on input line 3078.
 
 Overfull \hbox (0.93512pt too wide) in paragraph at lines 3097--3098
-[]\T1/ptm/m/n/10.95 (-20) Reality no longer organized around stable centres of 
-truth, but increasingly, multiple or fragmented
+[]\T1/ptm/m/n/10.95 (-20) Reality no longer organized around stable centres of truth, but increasingly, multiple or fragmented
  []
 
-[87]
+[89]
 Package mdframed Info: mdframed works in twoside mode on input line 3169.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 3169.
- [88]
+ [90]
 Package mdframed Info: mdframed works in twoside mode on input line 3176.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
@@ -2945,10 +2380,9 @@ Package mdframed Info: mdframed detected package amsthm
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [89]
+ [91]
 Package mdframed Info: Not enough space on this page on input line 3223.
-
-[90]
+ [92]
 Package mdframed Info: mdframed works in twoside mode on input line 3306.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
@@ -2963,8 +2397,7 @@ Package mdframed Info: mdframed detected package amsthm
 (mdframed)              on input line 3321.
 
 Overfull \hbox (11.95245pt too wide) in paragraph at lines 3324--3325
-[][]\T1/ptm/m/n/10.95 (-20) Misanthropy is a general dislike, contempt, or hatr
-ed of humankind. Misanthropic representations
+[][]\T1/ptm/m/n/10.95 (-20) Misanthropy is a general dislike, contempt, or hatred of humankind. Misanthropic representations
  []
 
 Package mdframed Info: mdframed works in twoside mode on input line 3328.
@@ -2979,7 +2412,7 @@ Package mdframed Info: mdframed works in twoside mode on input line 3342.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 3342.
-[91]
+[93]
 Package mdframed Info: mdframed works in twoside mode on input line 3349.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
@@ -2992,7 +2425,7 @@ Package mdframed Info: mdframed works in twoside mode on input line 3398.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 3398.
- [92]
+ [94]
 Package mdframed Info: mdframed works in twoside mode on input line 3435.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
@@ -3009,7 +2442,7 @@ Package mdframed Info: mdframed works in twoside mode on input line 3456.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 3456.
- [93]
+ [95]
 Package mdframed Info: mdframed works in twoside mode on input line 3463.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
@@ -3024,11 +2457,10 @@ Package mdframed Info: mdframed detected package amsthm
 (mdframed)              on input line 3477.
 
 Overfull \hbox (0.55103pt too wide) in paragraph at lines 3522--3523
-\T1/ptm/m/n/10.95 (-20) While these are not opposites, there is substantial ove
-rlap that will depend upon the representations 
+\T1/ptm/m/n/10.95 (-20) While these are not opposites, there is substantial overlap that will depend upon the representations 
  []
 
-[94]
+[96]
 Package mdframed Info: mdframed works in twoside mode on input line 3536.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
@@ -3053,7 +2485,7 @@ Package mdframed Info: mdframed works in twoside mode on input line 3574.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 3574.
- [95] [96]
+ [97] [98]
 Package mdframed Info: mdframed works in twoside mode on input line 3639.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
@@ -3078,7 +2510,7 @@ Package mdframed Info: mdframed works in twoside mode on input line 3678.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 3678.
- [97] [98
+ [99] [100
 
 ]
 Chapter 6.
@@ -3086,268 +2518,523 @@ File: Pictures/chapter_head_1.pdf Graphic file (type pdf)
 <use Pictures/chapter_head_1.pdf>
 Package pdftex.def Info: Pictures/chapter_head_1.pdf  used on input line 3695.
 (pdftex.def)             Requested size: 614.295pt x 307.17496pt.
-[99] [100] [101] [102] [103]
-Overfull \hbox (13.6623pt too wide) in paragraph at lines 3876--3877
-\T1/ptm/m/n/10.95 (-20) oppression drive the narrative. The iconic imagery of t
-he enslaved workers and the Maschinenmensch
+
+Underfull \hbox (badness 10000) in paragraph at lines 3716--3718
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3719--3721
+
+ []
+
+[101]
+Overfull \hbox (13.17258pt too wide) in paragraph at lines 3725--3726
+[]\T1/ptm/b/n/10.95 (-20) German Expressionism: \T1/ptm/m/n/10.95 (-20) "Metropolis" is a classic example of German Expressionism, characterized
+ []
+
+
+Overfull \hbox (0.6328pt too wide) in paragraph at lines 3729--3730
+[]\T1/ptm/b/n/10.95 (-20) Technophobia: \T1/ptm/m/n/10.95 (-20) The narrative explores the anxieties about technological advancements surpassing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3735--3737
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3738--3740
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3750--3752
+
+ []
+
+[102]
+Underfull \hbox (badness 10000) in paragraph at lines 3753--3755
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3765--3767
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3768--3770
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3780--3782
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3783--3785
+
+ []
+
+[103]
+Underfull \hbox (badness 10000) in paragraph at lines 3796--3798
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3799--3801
+
+ []
+
+
+Overfull \hbox (5.98868pt too wide) in paragraph at lines 3805--3806
+[]\T1/ptm/b/n/10.95 (-20) Sound montage: \T1/ptm/m/n/10.95 (-20) The innovative use of sound design in "THX 1138" emphasizes the dehumanizing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3811--3813
+
  []
 
 [104]
-Overfull \hbox (6.78987pt too wide) in paragraph at lines 3900--3901
-[]\T1/ptm/b/n/10.95 (-20) Uneven Development: \T1/ptm/m/n/10.95 (-20) The essay
- explores how time travel can represent uneven development
+Underfull \hbox (badness 10000) in paragraph at lines 3814--3816
+
  []
 
 
-Overfull \hbox (5.7224pt too wide) in paragraph at lines 3908--3910
-[]\T1/ptm/b/n/10.95 (-20) The Fear Factor: \T1/ptm/m/n/10.95 (-20) The essay po
-sits that time travel can embody anxieties surrounding technological
+Underfull \hbox (badness 10000) in paragraph at lines 3826--3828
+
  []
 
 
-Overfull \hbox (0.18617pt too wide) in paragraph at lines 3939--3940
-[]\T1/ptm/b/n/10.95 (-20) Neptune Frost (2021): \T1/ptm/m/n/10.95 (-20) Might d
-eal with themes involving marginalized communities, repurposing
- []
+Underfull \hbox (badness 10000) in paragraph at lines 3829--3831
 
-[105] [106]
-Overfull \hbox (0.18666pt too wide) in paragraph at lines 3985--3986
-[]\T1/ptm/b/n/10.95 (-20) Conservative Technophobia in 1970s Cinema: \T1/ptm/m/
-n/10.95 (-20) This strain of sci-fi film often equates technology
  []
 
 
-Overfull \hbox (6.11752pt too wide) in paragraph at lines 4000--4001
-[]\T1/ptm/b/n/10.95 (-20) The Deconstructive Counter-Argument: \T1/ptm/m/n/10.9
-5 (-20) A deconstructive analysis reveals that what conservative
- []
+Underfull \hbox (badness 10000) in paragraph at lines 3842--3844
 
-[107] [108] [109] [110] [111] [112] [113]
-Overfull \hbox (8.45078pt too wide) in paragraph at lines 4278--4279
-[]\T1/ptm/b/n/10.95 (-20) Rationality's Limitations: \T1/ptm/m/n/10.95 (-20) Ev
-en a society that masters technical rationality (efficiency, maximizing
  []
 
 
-Overfull \hbox (13.13037pt too wide) in paragraph at lines 4278--4279
-\T1/ptm/m/n/10.95 (-20) power) can easily reduce its values to mere survival, m
-issing broader ethical questions. Technological
+Underfull \hbox (badness 10000) in paragraph at lines 3845--3847
+
  []
 
-[114] [115]
-Overfull \hbox (2.97853pt too wide) in paragraph at lines 4354--4355
-\T1/ptm/m/n/10.95 (-20) contextualized within Afrofuturism. Imagine Godzilla in
-terpreted as a force linked to displacement
- []
+[105]
+Underfull \hbox (badness 10000) in paragraph at lines 3857--3859
 
-[116]
-Overfull \hbox (0.91182pt too wide) in paragraph at lines 4373--4374
-[]\T1/ptm/b/n/10.95 (-20) Afrofuturism and Time: \T1/ptm/m/n/10.95 (-20) Afrofu
-turism disrupts linear understandings of time, offering alternative
- []
-
-[117]
-Overfull \hbox (19.25786pt too wide) in paragraph at lines 4397--4398
-[]\T1/ptm/b/n/10.95 (-20) Godzilla (1954)\T1/ptm/m/n/10.95 (-20) : Godzilla as 
-a monstrous disruption caused by nuclear testing parallels Afrofuturism's
  []
 
 
-Overfull \hbox (2.72939pt too wide) in paragraph at lines 4401--4402
-[]\T1/ptm/b/n/10.95 (-20) Blade Runner (1982 and 2049)\T1/ptm/m/n/10.95 (-20) :
- The films' exploration of artificial beings prompts a reassessment
+Underfull \hbox (badness 10000) in paragraph at lines 3860--3862
+
  []
 
 
-Overfull \hbox (0.91182pt too wide) in paragraph at lines 4417--4418
-[]\T1/ptm/b/n/10.95 (-20) Afrofuturism and Time: \T1/ptm/m/n/10.95 (-20) Afrofu
-turism disrupts linear understandings of time, offering alternative
+Underfull \hbox (badness 10000) in paragraph at lines 3872--3874
+
  []
 
 
-Overfull \hbox (19.25786pt too wide) in paragraph at lines 4441--4442
-[]\T1/ptm/b/n/10.95 (-20) Godzilla (1954)\T1/ptm/m/n/10.95 (-20) : Godzilla as 
-a monstrous disruption caused by nuclear testing parallels Afrofuturism's
+Underfull \hbox (badness 10000) in paragraph at lines 3875--3877
+
+ []
+
+[106]
+Underfull \hbox (badness 10000) in paragraph at lines 3887--3889
+
  []
 
 
-Overfull \hbox (2.72939pt too wide) in paragraph at lines 4445--4446
-[]\T1/ptm/b/n/10.95 (-20) Blade Runner (1982 and 2049)\T1/ptm/m/n/10.95 (-20) :
- The films' exploration of artificial beings prompts a reassessment
+Underfull \hbox (badness 10000) in paragraph at lines 3890--3892
+
  []
 
-[118] [119]
-Overfull \hbox (3.86981pt too wide) in paragraph at lines 4487--4488
-\T1/ptm/m/n/10.95 (-20) anthropocentrism, explore the implications of the Anthr
-opocene, and envision new ways of understanding
+
+Underfull \hbox (badness 10000) in paragraph at lines 3902--3904
+
  []
 
-[120] [121]
-Package mdframed Info: mdframed works in twoside mode on input line 4571.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3905--3907
+
+ []
+
+[107] [108] [109] [110] [111] [112]
+Overfull \hbox (13.6623pt too wide) in paragraph at lines 4089--4090
+\T1/ptm/m/n/10.95 (-20) oppression drive the narrative. The iconic imagery of the enslaved workers and the Maschinenmensch
+ []
+
+
+Overfull \hbox (6.78987pt too wide) in paragraph at lines 4113--4114
+[]\T1/ptm/b/n/10.95 (-20) Uneven Development: \T1/ptm/m/n/10.95 (-20) The essay explores how time travel can represent uneven development
+ []
+
+
+Overfull \hbox (5.7224pt too wide) in paragraph at lines 4121--4123
+[]\T1/ptm/b/n/10.95 (-20) The Fear Factor: \T1/ptm/m/n/10.95 (-20) The essay posits that time travel can embody anxieties surrounding technological
+ []
+
+[113]
+Overfull \hbox (0.18617pt too wide) in paragraph at lines 4152--4153
+[]\T1/ptm/b/n/10.95 (-20) Neptune Frost (2021): \T1/ptm/m/n/10.95 (-20) Might deal with themes involving marginalized communities, repurposing
+ []
+
+[114]
+Overfull \hbox (0.18666pt too wide) in paragraph at lines 4198--4199
+[]\T1/ptm/b/n/10.95 (-20) Conservative Technophobia in 1970s Cinema: \T1/ptm/m/n/10.95 (-20) This strain of sci-fi film often equates technology
+ []
+
+
+Overfull \hbox (6.11752pt too wide) in paragraph at lines 4213--4214
+[]\T1/ptm/b/n/10.95 (-20) The Deconstructive Counter-Argument: \T1/ptm/m/n/10.95 (-20) A deconstructive analysis reveals that what conservative
+ []
+
+[115] [116] [117] [118] [119] [120] [121] [122]
+Overfull \hbox (8.45078pt too wide) in paragraph at lines 4491--4492
+[]\T1/ptm/b/n/10.95 (-20) Rationality's Limitations: \T1/ptm/m/n/10.95 (-20) Even a society that masters technical rationality (efficiency, maximizing
+ []
+
+
+Overfull \hbox (13.13037pt too wide) in paragraph at lines 4491--4492
+\T1/ptm/m/n/10.95 (-20) power) can easily reduce its values to mere survival, missing broader ethical questions. Technological
+ []
+
+[123] [124]
+Overfull \hbox (2.97853pt too wide) in paragraph at lines 4567--4568
+\T1/ptm/m/n/10.95 (-20) contextualized within Afrofuturism. Imagine Godzilla interpreted as a force linked to displacement
+ []
+
+
+Overfull \hbox (0.91182pt too wide) in paragraph at lines 4586--4587
+[]\T1/ptm/b/n/10.95 (-20) Afrofuturism and Time: \T1/ptm/m/n/10.95 (-20) Afrofuturism disrupts linear understandings of time, offering alternative
+ []
+
+[125]
+Overfull \hbox (19.25786pt too wide) in paragraph at lines 4610--4611
+[]\T1/ptm/b/n/10.95 (-20) Godzilla (1954)\T1/ptm/m/n/10.95 (-20) : Godzilla as a monstrous disruption caused by nuclear testing parallels Afrofuturism's
+ []
+
+
+Overfull \hbox (2.72939pt too wide) in paragraph at lines 4614--4615
+[]\T1/ptm/b/n/10.95 (-20) Blade Runner (1982 and 2049)\T1/ptm/m/n/10.95 (-20) : The films' exploration of artificial beings prompts a reassessment
+ []
+
+
+Overfull \hbox (0.91182pt too wide) in paragraph at lines 4630--4631
+[]\T1/ptm/b/n/10.95 (-20) Afrofuturism and Time: \T1/ptm/m/n/10.95 (-20) Afrofuturism disrupts linear understandings of time, offering alternative
+ []
+
+[126]
+Overfull \hbox (19.25786pt too wide) in paragraph at lines 4654--4655
+[]\T1/ptm/b/n/10.95 (-20) Godzilla (1954)\T1/ptm/m/n/10.95 (-20) : Godzilla as a monstrous disruption caused by nuclear testing parallels Afrofuturism's
+ []
+
+
+Overfull \hbox (2.72939pt too wide) in paragraph at lines 4658--4659
+[]\T1/ptm/b/n/10.95 (-20) Blade Runner (1982 and 2049)\T1/ptm/m/n/10.95 (-20) : The films' exploration of artificial beings prompts a reassessment
+ []
+
+[127]
+Overfull \hbox (3.86981pt too wide) in paragraph at lines 4700--4701
+\T1/ptm/m/n/10.95 (-20) anthropocentrism, explore the implications of the Anthropocene, and envision new ways of understanding
+ []
+
+[128] [129]
+Package mdframed Info: mdframed works in twoside mode on input line 4785.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 4571.
- [122]
-Package mdframed Info: mdframed works in twoside mode on input line 4618.
+(mdframed)              on input line 4785.
+ [130] [131] [132] [133]
+Package mdframed Info: mdframed works in twoside mode on input line 4890.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 4618.
- [123] [124]
-Package mdframed Info: mdframed works in twoside mode on input line 4679.
+(mdframed)              on input line 4890.
+ [134] [135]
+Package mdframed Info: mdframed works in twoside mode on input line 4950.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 4679.
-Package mdframed Info: mdframed works in twoside mode on input line 4700.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 4700.
- [125] [126] (main.ptc) [127
+(mdframed)              on input line 4950.
 
-] [128]
+Overfull \hbox (4.5199pt too wide) in paragraph at lines 4959--4960
+\T1/ptm/m/n/10.95 (-20) conveying the oppressive atmosphere of the film's dystopian setting. These techniques are strategically
+ []
+
+[136]
+Package mdframed Info: mdframed works in twoside mode on input line 4973.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 4973.
+ [137] [138]
+Package mdframed Info: mdframed works in twoside mode on input line 5022.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 5022.
+
+Overfull \hbox (14.46384pt too wide) in paragraph at lines 5031--5032
+[][]\T1/ptm/b/n/10.95 (-20) The Fly \T1/ptm/m/n/10.95 (-20) by David Cronenberg masterfully explores technophobia through the horrific transformation
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 5036.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 5036.
+[139]
+Package mdframed Info: mdframed works in twoside mode on input line 5050.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 5050.
+ [140]
+Package mdframed Info: mdframed works in twoside mode on input line 5073.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 5073.
+ [141]
+Package mdframed Info: mdframed works in twoside mode on input line 5087.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 5087.
+ [142]
+Package mdframed Info: mdframed works in twoside mode on input line 5101.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 5101.
+Package mdframed Info: mdframed works in twoside mode on input line 5112.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 5112.
+ [143]
+Package mdframed Info: mdframed works in twoside mode on input line 5137.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 5137.
+ [144]
+Package mdframed Info: mdframed works in twoside mode on input line 5155.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 5155.
+Package mdframed Info: mdframed works in twoside mode on input line 5165.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 5165.
+ [145]
+Package mdframed Info: mdframed works in twoside mode on input line 5176.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 5176.
+Package mdframed Info: mdframed works in twoside mode on input line 5187.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 5187.
+ [146]
+Package mdframed Info: mdframed works in twoside mode on input line 5198.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 5198.
+Package mdframed Info: mdframed works in twoside mode on input line 5207.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 5207.
+ [147]
+Package mdframed Info: mdframed works in twoside mode on input line 5217.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 5217.
+Package mdframed Info: mdframed works in twoside mode on input line 5226.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 5226.
+Package mdframed Info: mdframed works in twoside mode on input line 5236.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 5236.
+ [148]
+Package mdframed Info: mdframed works in twoside mode on input line 5245.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 5245.
+Package mdframed Info: mdframed works in twoside mode on input line 5254.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 5254.
+ [149]
+Package mdframed Info: mdframed works in twoside mode on input line 5264.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 5264.
+Package mdframed Info: mdframed works in twoside mode on input line 5273.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 5273.
+Package mdframed Info: mdframed works in twoside mode on input line 5283.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 5283.
+ [150]
+Package mdframed Info: mdframed works in twoside mode on input line 5292.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 5292.
+Package mdframed Info: mdframed works in twoside mode on input line 5302.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 5302.
+ [151]
+Package mdframed Info: mdframed works in twoside mode on input line 5312.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 5312.
+
+Overfull \hbox (11.9635pt too wide) in paragraph at lines 5313--5314
+[][][][]\T1/pag/db/n/10 (-20) Exercise 6.29 [][][]\T1/ptm/m/n/10.95 (-20) One Paragraph. Analyze how \T1/ptm/m/it/10.95 (-20) Neptune Frost \T1/ptm/m/n/10.95 (-20) exemplifies or challenges the characteristics
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 5321.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 5321.
+
+Underfull \vbox (badness 8113) has occurred while \output is active []
+
+ [152]
+Package mdframed Info: mdframed works in twoside mode on input line 5331.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 5331.
+ [153] [154
+
+] (main.ptc) [155] [156]
 Chapter 7.
-<Pictures/chapter_head_2.pdf, id=1513, 3581.38pt x 1790.69pt>
+<Pictures/chapter_head_2.pdf, id=1793, 3581.38pt x 1790.69pt>
 File: Pictures/chapter_head_2.pdf Graphic file (type pdf)
 <use Pictures/chapter_head_2.pdf>
-Package pdftex.def Info: Pictures/chapter_head_2.pdf  used on input line 4747.
+Package pdftex.def Info: Pictures/chapter_head_2.pdf  used on input line 5359.
 (pdftex.def)             Requested size: 614.295pt x 307.14565pt.
-[129
+[157
 
  <./Pictures/chapter_head_2.pdf>]
-Package mdframed Info: mdframed works in twoside mode on input line 4806.
+Package mdframed Info: mdframed works in twoside mode on input line 5418.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 4806.
-Package mdframed Info: mdframed works in twoside mode on input line 4813.
+(mdframed)              on input line 5418.
+Package mdframed Info: mdframed works in twoside mode on input line 5425.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 4813.
-Package mdframed Info: mdframed works in twoside mode on input line 4817.
+(mdframed)              on input line 5425.
+Package mdframed Info: mdframed works in twoside mode on input line 5429.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 4817.
+(mdframed)              on input line 5429.
 
 
 Package mdframed Warning: You got a bad break
 (mdframed)                because the last box will be empty
 (mdframed)                you have to change it manually
 (mdframed)                by changing the text, the space
-(mdframed)                or something else on input line 4821.
+(mdframed)                or something else on input line 5433.
 
 Package mdframed Info: Box was splittet wrong
  starting loop to iterate the splitting point
-(mdframed)              on input line 4821.
-[130]
-Package mdframed Info: mdframed works in twoside mode on input line 4823.
+(mdframed)              on input line 5433.
+[158]
+Package mdframed Info: mdframed works in twoside mode on input line 5435.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 4823.
- [131]
-Underfull \hbox (badness 10000) in paragraph at lines 4872--4873
+(mdframed)              on input line 5435.
+ [159]
+Underfull \hbox (badness 10000) in paragraph at lines 5484--5485
 
  []
 
-Package mdframed Info: mdframed works in twoside mode on input line 4873.
+Package mdframed Info: mdframed works in twoside mode on input line 5485.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 4873.
+(mdframed)              on input line 5485.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Package mdframed Info: mdframed works in twoside mode on input line 4894.
+Package mdframed Info: mdframed works in twoside mode on input line 5506.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 4894.
-Package mdframed Info: Not enough space on this page on input line 4896.
-[132]
-Package mdframed Info: Not enough space on this page on input line 4896.
- [133] [134
+(mdframed)              on input line 5506.
+Package mdframed Info: Not enough space on this page on input line 5508.
+[160]
+Package mdframed Info: Not enough space on this page on input line 5508.
+ [161] [162
 
 ]
 Chapter 8.
 File: Pictures/chapter_head_2.pdf Graphic file (type pdf)
 <use Pictures/chapter_head_2.pdf>
-Package pdftex.def Info: Pictures/chapter_head_2.pdf  used on input line 4906.
+Package pdftex.def Info: Pictures/chapter_head_2.pdf  used on input line 5518.
 (pdftex.def)             Requested size: 614.295pt x 307.14565pt.
-<Pictures/radial.png, id=1560, 495.8525pt x 242.9075pt>
+<Pictures/radial.png, id=1840, 495.8525pt x 242.9075pt>
 File: Pictures/radial.png Graphic file (type png)
 <use Pictures/radial.png>
-Package pdftex.def Info: Pictures/radial.png  used on input line 4910.
+Package pdftex.def Info: Pictures/radial.png  used on input line 5522.
 (pdftex.def)             Requested size: 443.57848pt x 217.30263pt.
-<Pictures/z.png, id=1561, 439.6425pt x 261.97874pt>
+<Pictures/z.png, id=1841, 439.6425pt x 261.97874pt>
 File: Pictures/z.png Graphic file (type png)
 <use Pictures/z.png>
-Package pdftex.def Info: Pictures/z.png  used on input line 4917.
+Package pdftex.def Info: Pictures/z.png  used on input line 5529.
 (pdftex.def)             Requested size: 266.14978pt x 158.59956pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[135 <./Pictures/radial.png>]
-<Pictures/h2.png, id=1568, 376.40625pt x 166.6225pt>
+[163 <./Pictures/radial.png>]
+<Pictures/h2.png, id=1849, 376.40625pt x 166.6225pt>
 File: Pictures/h2.png Graphic file (type png)
 <use Pictures/h2.png>
-Package pdftex.def Info: Pictures/h2.png  used on input line 4946.
+Package pdftex.def Info: Pictures/h2.png  used on input line 5558.
 (pdftex.def)             Requested size: 266.14978pt x 117.82481pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Pictures/e.png, id=1569, 280.04625pt x 241.90375pt>
+<Pictures/e.png, id=1850, 280.04625pt x 241.90375pt>
 File: Pictures/e.png Graphic file (type png)
 <use Pictures/e.png>
-Package pdftex.def Info: Pictures/e.png  used on input line 4956.
+Package pdftex.def Info: Pictures/e.png  used on input line 5568.
 (pdftex.def)             Requested size: 266.14978pt x 229.9106pt.
-[136 <./Pictures/z.png>] [137 <./Pictures/h2.png> <./Pictures/e.png>]
-Package mdframed Info: mdframed works in twoside mode on input line 4969.
+[164 <./Pictures/z.png>] [165 <./Pictures/h2.png> <./Pictures/e.png>]
+Package mdframed Info: mdframed works in twoside mode on input line 5581.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 4969.
- [138]
-Package mdframed Info: mdframed works in twoside mode on input line 5002.
+(mdframed)              on input line 5581.
+ [166]
+Package mdframed Info: mdframed works in twoside mode on input line 5614.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 5002.
-
-[139]
-<Pictures/energy.png, id=1595, 279.0425pt x 247.92625pt>
+(mdframed)              on input line 5614.
+ [167]
+<Pictures/energy.png, id=1875, 279.0425pt x 247.92625pt>
 File: Pictures/energy.png Graphic file (type png)
 <use Pictures/energy.png>
-Package pdftex.def Info: Pictures/energy.png  used on input line 5017.
+Package pdftex.def Info: Pictures/energy.png  used on input line 5629.
 (pdftex.def)             Requested size: 164.12186pt x 145.82503pt.
-<Pictures/prob.png, id=1596, 312.16624pt x 296.10625pt>
+<Pictures/prob.png, id=1876, 312.16624pt x 296.10625pt>
 File: Pictures/prob.png Graphic file (type png)
 <use Pictures/prob.png>
-Package pdftex.def Info: Pictures/prob.png  used on input line 5025.
+Package pdftex.def Info: Pictures/prob.png  used on input line 5637.
 (pdftex.def)             Requested size: 177.42868pt x 168.30338pt.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5031 
-       
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[140 <./Pictures/energy.png> <./Pictures/prob.png>]
-<Pictures/p.png, id=1605, 434.62375pt x 248.93pt>
+ [168 <./Pictures/energy.png> <./Pictures/prob.png>]
+<Pictures/p.png, id=1885, 434.62375pt x 248.93pt>
 File: Pictures/p.png Graphic file (type png)
 <use Pictures/p.png>
-Package pdftex.def Info: Pictures/p.png  used on input line 5052.
+Package pdftex.def Info: Pictures/p.png  used on input line 5663.
 (pdftex.def)             Requested size: 332.68385pt x 190.55617pt.
- [141 <./Pictures/p.png>]
-[142]
+ [169 <./Pictures/p.png>] [170]
 Chapter 9.
 File: Pictures/chapter_head_2.pdf Graphic file (type pdf)
 <use Pictures/chapter_head_2.pdf>
-Package pdftex.def Info: Pictures/chapter_head_2.pdf  used on input line 5064.
+Package pdftex.def Info: Pictures/chapter_head_2.pdf  used on input line 5677.
 (pdftex.def)             Requested size: 614.295pt x 307.14565pt.
-[143
+[171
 
-] [144
+] [172
 
 ]
 \tf@ptc=\write7
@@ -3363,36 +3050,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38120 strings out of 476358
- 734809 string characters out of 2792211
- 1949493 words of memory out of 3000000
- 58305 multiletter control sequences out of 15000+600000
- 724518 words of font info for 648 fonts, out of 8000000 for 9000
+ 38294 strings out of 476358
+ 737368 string characters out of 2792211
+ 1966493 words of memory out of 3000000
+ 58349 multiletter control sequences out of 15000+600000
+ 726632 words of font info for 668 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 89i,13n,96p,1003b,2905s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.e
-nc} </Users/tonywang/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/lj
-four/jknappen/ec/dpi600/ectt1095.pk></Library/Application Support/MiKTeX/texmfs
-/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></Library/Application Suppor
-t/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Library/App
-lication Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
-></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfont
-s/cm/cmsy10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1
-/public/amsfonts/symbols/msam10.pfb></Library/Application Support/MiKTeX/texmfs
-/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb></Library/Application S
-upport/MiKTeX/texmfs/install/fonts/type1/public/rsfs/rsfs10.pfb></Library/Appli
-cation Support/MiKTeX/texmfs/install/fonts/type1/urw/avantgar/uagd8a.pfb></Libr
-ary/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/avantgar/uagk8a.p
-fb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/symbol/u
-syr.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/sym
-bol/usyr.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/ur
-w/times/utmb8a.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/ty
-pe1/urw/times/utmbi8a.pfb></Library/Application Support/MiKTeX/texmfs/install/f
-onts/type1/urw/times/utmr8a.pfb></Library/Application Support/MiKTeX/texmfs/ins
-tall/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (144 pages, 34885965 bytes).
+ 89i,13n,96p,1587b,2905s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc} </Users/tonywang/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1095.pk></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/symbols/msam10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/rsfs/rsfs10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/avantgar/uagd8a.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/avantgar/uagk8a.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/symbol/usyr.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/symbol/usyr.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmbi8a.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmr8a.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (172 pages, 35010455 bytes).
 PDF statistics:
- 1980 PDF objects out of 2073 (max. 8388607)
- 612 named destinations out of 1000 (max. 500000)
- 167281 words of extra memory for PDF output out of 184870 (max. 10000000)
+ 2286 PDF objects out of 2487 (max. 8388607)
+ 712 named destinations out of 1000 (max. 500000)
+ 167289 words of extra memory for PDF output out of 184870 (max. 10000000)
 

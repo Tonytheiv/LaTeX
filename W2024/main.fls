@@ -339,6 +339,9 @@ INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/late
 INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bookmark/bkm-pdftex.def
 INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bookmark/bkm-pdftex.def
 INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bookmark/bkm-pdftex.def
+INPUT ./main.aux
+INPUT ./main.aux
+INPUT main.aux
 OUTPUT main.aux
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 INPUT /Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
@@ -481,22 +484,46 @@ INPUT ./Pictures/chapter_head_1.pdf
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagk8t.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagd8t.tfm
-OUTPUT main.toc
-INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/avantgar/pagd8t.vf
-INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagd8r.tfm
-INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagk8t.tfm
-INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagd8t.tfm
-INPUT ./main.ptc
-INPUT ./main.ptc
-INPUT main.ptc
+INPUT ./main.toc
+INPUT ./main.toc
+INPUT main.toc
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagk8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7m.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7m.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7m.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7y.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7y.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7y.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7v.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7v.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7v.tfm
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/rsfs/rsfs7.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagk8t.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagd8t.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagd8t.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagk8t.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagk8t.tfm
-INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagk8t.tfm
-INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagd8t.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/avantgar/pagd8t.vf
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagd8r.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/avantgar/pagd8t.vf
@@ -505,6 +532,16 @@ INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/avantgar
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagd8r.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/avantgar/pagk8t.vf
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagk8r.tfm
+OUTPUT main.toc
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagk8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagd8t.tfm
+INPUT ./main.ptc
+INPUT ./main.ptc
+INPUT main.ptc
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagk8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagd8t.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/avantgar/pagd8t.vf
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagd8r.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/avantgar/pagd8t.vf
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/avantgar/pagd8r.tfm
 INPUT ./Pictures/chapter_head_1.pdf
@@ -605,7 +642,6 @@ INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/z
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7v.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/zptmcm7v.tfm
 INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/rsfs/rsfs10.tfm
-INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/data/fonts/tfm/public/rsfs/rsfs7.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
@@ -1315,6 +1351,7 @@ INPUT ./Pictures/chapter_head_2.pdf
 INPUT ./Pictures/chapter_head_2.pdf
 OUTPUT main.ptc
 INPUT main.aux
+INPUT main.run.xml
 OUTPUT main.run.xml
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc
 INPUT /Users/tonywang/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1095.pk
